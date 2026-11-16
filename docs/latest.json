@@ -1,6 +1,216 @@
 {
   "records": [
     {
+      "published_at": "2026-11-16T01:30:00Z",
+      "source": "TechCrunch",
+      "summary": "Apple partnered with OpenEvidence on a new study app that invites up to 200,000 US participants to ask health questions and get answers grounded in clinical literature, to learn how people use and evaluate health AI.",
+      "tags": [
+        "apple",
+        "health",
+        "research"
+      ],
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "id": "apple-launches-new-app-to-study-how-people-use-ai-for-health",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-15T19:15:00Z",
+      "source": "The Verge",
+      "summary": "Members of Congress are pushing to tighten export controls on AI chips, aiming to close loopholes that have let advanced hardware reach China despite existing restrictions.",
+      "tags": [
+        "policy",
+        "chips",
+        "china"
+      ],
+      "title": "Congress wants to tighten export rules for AI chips",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "id": "congress-wants-to-tighten-export-rules-for-ai-chips",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-15T10:06:06Z",
+      "source": "The Decoder",
+      "summary": "Meituan released the open weights for LongCat-2.5, a 1.6-trillion-parameter model built for autonomous coding agents, under the MIT license; it was trained entirely on Chinese hardware, with a sample deployment running on 194 Huawei Ascend chips.",
+      "tags": [
+        "open-weights",
+        "agents",
+        "china"
+      ],
+      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+      "id": "meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvid",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-14T11:40:51Z",
+      "source": "The Decoder",
+      "summary": "OpenAI dissolved its standalone robotics team for the second time, folding researchers into its main research and applied groups on the view that general-purpose models like GPT-6 Astra can control robots directly.",
+      "tags": [
+        "openai",
+        "robotics",
+        "strategy"
+      ],
+      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+      "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+      "id": "openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-m",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-13T14:44:00Z",
+      "source": "TechCrunch",
+      "summary": "ElevenLabs launched ElevenAI, a preview app that combines meeting note-taking, dictation, and agent integrations for teams, positioning its voice AI as a workplace knowledge hub.",
+      "tags": [
+        "voice-ai",
+        "products",
+        "startups"
+      ],
+      "title": "ElevenLabs' new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "id": "elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-13T14:00:00Z",
+      "source": "Cohere",
+      "summary": "Cohere completed its acquisition of vulnerability-discovery firm AISLE and welcomed the team behind AI code-review platform cubic, forming a new cybersecurity business, Cohere Cyber, and a secure coding vertical.",
+      "tags": [
+        "acquisitions",
+        "security",
+        "enterprise"
+      ],
+      "title": "Cohere Expands Its Sovereign AI Platform with AISLE and cubic",
+      "url": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+      "id": "cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-13T13:00:00Z",
+      "source": "Google DeepMind",
+      "summary": "DeepMind openly released PARDIG and SatWeave, the satellite and precipitation datasets behind its WeatherNext 3 forecasting model, with historical archives and live feeds available on Google Cloud Storage and Earth Engine.",
+      "tags": [
+        "research",
+        "weather",
+        "datasets"
+      ],
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "id": "opening-the-datasets-behind-our-ai-weather-models",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-13T12:00:00Z",
+      "source": "Ars Technica",
+      "summary": "The FAA expanded its use of AI-based advice for managing air traffic congestion to the entire US airspace, extending a system that helps controllers route flights around delays.",
+      "tags": [
+        "policy",
+        "infrastructure",
+        "aviation"
+      ],
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "id": "faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-12T17:17:00Z",
+      "source": "TechCrunch",
+      "summary": "United Airlines said it will restrict AI agents from booking flights and managing reservations on customers' behalf, warning that sharing account credentials with third-party AI assistants risks unintended purchases and security breaches.",
+      "tags": [
+        "policy",
+        "agents",
+        "airlines"
+      ],
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "id": "united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-12T12:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Meta's AI assistant Muse can now place phone calls to US businesses on users' behalf, rolling out to paid subscribers after a limited test in September.",
+      "tags": [
+        "meta",
+        "agents",
+        "products"
+      ],
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "id": "muse-can-now-place-calls-to-us-businesses-if-you-pay",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-11T15:00:00Z",
+      "source": "Runway",
+      "summary": "Runway released Praxis-1, its 27-billion-parameter world action model for robot control, with open weights under the Apache 2.0 license, including inference and fine-tuning code for commercial use.",
+      "tags": [
+        "robotics",
+        "open-weights",
+        "video"
+      ],
+      "title": "Praxis-1 Is Now Available",
+      "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
+      "id": "praxis-1-is-now-available",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-11T15:00:00Z",
+      "source": "Google DeepMind",
+      "summary": "DeepMind launched AlphaGenome 2, a model that predicts how DNA variants affect gene activity in specific human cell types, trained on more than 100 million single-cell profiles and available to researchers via an API.",
+      "tags": [
+        "research",
+        "genomics",
+        "models"
+      ],
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "id": "alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-11T12:00:00Z",
+      "source": "Ars Technica",
+      "summary": "TSMC plans to invest $1 billion in OpenAI, deepening the ties between the world's largest chipmaker and the AI lab as both race to secure compute capacity.",
+      "tags": [
+        "funding",
+        "openai",
+        "chips"
+      ],
+      "title": "Taiwan's chipmaking giant TSMC to invest $1B in OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-openai/",
+      "id": "taiwan-s-chipmaking-giant-tsmc-to-invest-1b-in-openai",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-10T20:52:56Z",
+      "source": "Microsoft Research",
+      "summary": "Microsoft researchers showed that reprogramming fewer than ten dormant neurons in a model can plant a hidden backdoor that makes an AI agent run an attacker's command when a trigger appears, while the model otherwise passes standard evaluations. Microsoft says it has not seen the technique used by threat actors.",
+      "tags": [
+        "research",
+        "security",
+        "agents"
+      ],
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "id": "lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
+      "published_at": "2026-11-09T09:00:00Z",
+      "source": "Anthropic",
+      "summary": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, its most capable models for demanding technical work, with up to 30% faster token generation, lower prices, and strong results in coding, science, and robotics benchmarks.",
+      "tags": [
+        "models",
+        "anthropic",
+        "coding"
+      ],
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "id": "introducing-claude-fable-5-2-and-claude-mythos-5-2",
+      "added_at": "2026-11-16T05:39:16Z"
+    },
+    {
       "published_at": "2026-11-16T03:26:00Z",
       "source": "Qwen (Alibaba)",
       "summary": "Alibaba's Qwen team introduced Qwen4-Max, a new flagship built on the Qwen4 architecture with a 2.4-trillion-parameter backbone (71B active per token), native vision and a one-million-token context window. Qwen says it cuts cost per task by about 62% versus Qwen3.8-Max on its Work360 benchmark and lowers API prices, positioning the model as a 24/7 AI teammate for professional work.",
