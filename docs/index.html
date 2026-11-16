@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AI Hacker News</title>
-<meta name="description" content="AI Hacker News — the latest artificial intelligence news, in the classic Hacker News style. Updated every few hours.">
+<title>AI Hacker News — The Front Page of AI</title>
+<meta name="description" content="AI Hacker News — a clean, fast front page for artificial intelligence news: new models, research, startups, policy and tools. Updated every few hours.">
 <!-- REQUIRED on every HTML page — do not remove. See AGENTS.md. -->
 <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-TJZ293FB"></script>
 <script>
@@ -13,68 +13,125 @@
   gtag('js', new Date());
 </script>
 <style>
+  :root{
+    --ink:#0f172a; --muted:#64748b; --faint:#94a3b8;
+    --accent:#4f46e5; --accent2:#06b6d4;
+    --bg:#eef2f7; --panel:#ffffff; --line:#e2e8f0;
+  }
+  *{box-sizing:border-box}
   html,body{margin:0;padding:0}
-  body{font-family:Verdana,Geneva,sans-serif;font-size:10pt;color:#000;background:#fff}
-  a{color:#000;text-decoration:none}
-  a:visited{color:#828282}
-  a:hover{text-decoration:underline}
-  #wrap{width:85%;max-width:1100px;margin:8px auto;background:#f6f6ef}
-  header{background:#ff6600;padding:3px 6px;display:flex;align-items:center;gap:8px}
-  header .logo{border:1px solid #fff;color:#fff;font-weight:bold;width:18px;height:18px;line-height:18px;text-align:center;font-size:10pt;flex:none}
-  header .name{font-weight:bold;font-size:11pt}
-  header .name a,header nav a{color:#000}
-  header .name a:visited,header nav a:visited{color:#000}
-  header nav{font-size:10pt}
-  header nav a{padding:0 4px}
-  main{padding:6px 8px 4px}
-  ol.stories{margin:0;padding-left:32px}
-  ol.stories li{margin:0 0 5px}
-  .titleline{font-size:10pt}
-  .domain{font-size:8pt;color:#828282}
-  .domain a{color:#828282}
-  .domain a:hover{color:#000}
-  .subtext{font-size:7pt;color:#828282;margin-top:1px}
-  .subtext a{color:#828282}
-  .summary{font-size:9pt;color:#333;margin-top:1px;max-width:760px}
-  .tag{color:#828282}
-  #more{display:inline-block;margin:10px 0 8px 32px;font-size:10pt;cursor:pointer;background:none;border:none;font-family:inherit;padding:0}
-  #more:hover{text-decoration:underline}
-  #status{margin:10px 0 8px 32px;color:#828282;font-size:9pt}
-  footer{border-top:2px solid #ff6600;padding:10px 8px 14px;text-align:center;font-size:9pt;color:#828282}
-  footer .links{margin-bottom:8px}
-  footer a{color:#000}
-  #filter{font-family:inherit;font-size:10pt;padding:2px 4px;width:260px;max-width:80%}
-  @media (max-width:750px){#wrap{width:100%;margin:0}.summary{max-width:100%}}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    background:var(--bg); color:var(--ink); font-size:15px; line-height:1.45;
+  }
+  a{color:var(--ink); text-decoration:none}
+  a:hover{color:var(--accent); text-decoration:underline}
+  #wrap{max-width:880px; margin:0 auto; padding:0 12px 40px}
+
+  header.site{
+    background:linear-gradient(120deg,#0f172a 0%,#1e1b4b 55%,#0e7490 130%);
+    color:#fff; border-radius:0 0 14px 14px;
+    padding:20px 22px 16px; margin-bottom:14px;
+    box-shadow:0 6px 24px rgba(15,23,42,.18);
+  }
+  .brand{display:flex; align-items:center; gap:12px}
+  .mark{
+    width:44px; height:44px; flex:none; border-radius:12px;
+    background:linear-gradient(135deg,var(--accent),var(--accent2));
+    display:flex; align-items:center; justify-content:center;
+    font-weight:800; font-size:19px; letter-spacing:.5px; color:#fff;
+    box-shadow:inset 0 0 0 1px rgba(255,255,255,.35);
+  }
+  .brand h1{font-size:23px; margin:0; font-weight:800; letter-spacing:-.02em}
+  .brand h1 a{color:#fff}
+  .brand h1 a:hover{color:#fff; text-decoration:none}
+  .tagline{color:#c7d2fe; font-size:13.5px; margin-top:1px}
+  nav.top{margin-top:12px; font-size:13.5px; display:flex; gap:6px; flex-wrap:wrap}
+  nav.top a{
+    color:#e0e7ff; background:rgba(255,255,255,.09);
+    padding:4px 11px; border-radius:999px;
+  }
+  nav.top a:hover{background:rgba(255,255,255,.2); color:#fff; text-decoration:none}
+
+  main{background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:6px 20px 14px; box-shadow:0 1px 3px rgba(15,23,42,.05)}
+  ol.stories{list-style:none; margin:0; padding:0}
+  ol.stories li{
+    display:flex; gap:14px; padding:13px 0; border-bottom:1px solid var(--line);
+  }
+  ol.stories li:last-child{border-bottom:none}
+  .rank{
+    flex:none; width:30px; text-align:right;
+    color:var(--faint); font-weight:700; font-size:14px; padding-top:1px;
+  }
+  .story{flex:1; min-width:0}
+  .titleline{font-size:16px; font-weight:650; line-height:1.35}
+  .domain{font-size:12.5px; color:var(--faint); font-weight:400; white-space:nowrap}
+  .summary{color:#334155; font-size:14px; margin-top:3px}
+  .subtext{color:var(--muted); font-size:12.5px; margin-top:5px; display:flex; gap:8px; flex-wrap:wrap; align-items:center}
+  .pill{
+    background:#eef2ff; color:var(--accent); border:1px solid #e0e7ff;
+    border-radius:999px; padding:0 8px; font-size:11.5px; line-height:19px;
+  }
+  #more{
+    margin:14px 0 4px; background:var(--accent); color:#fff; border:none;
+    font:inherit; font-size:14px; font-weight:600; padding:8px 20px;
+    border-radius:999px; cursor:pointer;
+  }
+  #more:hover{background:#4338ca}
+  #status{color:var(--muted); font-size:14px; padding:14px 0 4px}
+
+  footer.site{color:var(--muted); font-size:13.5px; text-align:center; padding:20px 12px 0}
+  footer.site .about{max-width:640px; margin:0 auto 12px}
+  #filter{
+    font:inherit; font-size:14px; padding:7px 12px; width:320px; max-width:85%;
+    border:1px solid var(--line); border-radius:999px; background:#fff; color:var(--ink);
+  }
+  #filter:focus{outline:2px solid var(--accent); outline-offset:1px; border-color:transparent}
+  @media (max-width:600px){
+    .brand h1{font-size:20px}
+    main{padding:2px 14px 12px}
+    ol.stories li{gap:9px}
+    .rank{width:22px}
+  }
 </style>
 </head>
 <body>
 <div id="wrap">
-  <header>
-    <div class="logo">A</div>
-    <div class="name"><a href="./">AI Hacker News</a></div>
-    <nav>| <a href="./">latest</a> | <a href="#about">about</a></nav>
+  <header class="site">
+    <div class="brand">
+      <div class="mark">AI</div>
+      <div>
+        <h1><a href="./">AI Hacker News</a></h1>
+        <div class="tagline">The front page of artificial intelligence — models, research, startups, policy &amp; tools.</div>
+      </div>
+    </div>
+    <nav class="top">
+      <a href="./">Latest</a>
+      <a href="#about">About</a>
+      <a href="latest.json">Data (JSON)</a>
+    </nav>
   </header>
 
   <main>
     <ol class="stories" id="stories"></ol>
     <div id="status">Loading the latest AI news…</div>
-    <button id="more" hidden>More</button>
+    <button id="more" hidden>Load more stories</button>
   </main>
 
-  <footer id="about">
-    <div class="links">AI Hacker News — Hacker News, but only AI. New models, research, startups, policy and tools, gathered from across the web and updated every few hours.</div>
-    <label>Search loaded stories: <input id="filter" type="text" placeholder="filter by title, source or tag"></label>
+  <footer class="site" id="about">
+    <div class="about">AI Hacker News is an independent news aggregator focused only on AI. Stories are gathered from across the web every few hours, checked for freshness, and de-duplicated. Not affiliated with Y Combinator or Hacker News.</div>
+    <input id="filter" type="text" placeholder="Filter loaded stories by title, source or tag…">
   </footer>
 </div>
 
 <script>
 (function(){
   "use strict";
-  var PAGE = 30;                 // stories per "More" click, like HN
+  var PAGE = 30;                  // stories per "Load more" click
   var FIRST_FILE = "latest.json"; // always start from the latest file
-  var loaded = [];               // all records fetched so far, newest first
-  var shown = 0;                 // how many are currently rendered
-  var nextFile = FIRST_FILE;     // file to fetch next (follows the `link` chain)
+  var loaded = [];                // all records fetched so far, newest first
+  var shown = 0;                  // how many are currently rendered
+  var nextFile = FIRST_FILE;      // file to fetch next (follows the `link` chain)
   var fetching = false;
 
   var listEl = document.getElementById("stories");
@@ -110,24 +167,26 @@
       }
       n++;
       var li = document.createElement("li");
-      li.value = i + 1; // keep the global rank, HN-style
       var dom = domainOf(r.url);
-      var sub = [];
-      if (r.published_at) sub.push(esc(timeAgo(r.published_at)));
-      if (r.source) sub.push(esc(r.source));
-      if (r.tags && r.tags.length) sub.push('<span class="tag">' + esc(r.tags.join(", ")) + "</span>");
+      var meta = [];
+      if (r.published_at) meta.push(esc(timeAgo(r.published_at)));
+      if (r.source) meta.push(esc(r.source));
+      var pills = (r.tags || []).map(function(t){ return '<span class="pill">' + esc(t) + "</span>"; }).join(" ");
       li.innerHTML =
-        '<span class="titleline"><a href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(r.title) + "</a>" +
-        (dom ? ' <span class="domain">(<a href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(dom) + "</a>)</span>" : "") +
-        "</span>" +
-        (r.summary ? '<div class="summary">' + esc(r.summary) + "</div>" : "") +
-        '<div class="subtext">' + sub.join(" | ") + "</div>";
+        '<div class="rank" style="counter-increment:none"></div>' +
+        '<div class="story">' +
+          '<span class="titleline"><a href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(r.title) + "</a>" +
+          (dom ? ' <span class="domain">' + esc(dom) + "</span>" : "") + "</span>" +
+          (r.summary ? '<div class="summary">' + esc(r.summary) + "</div>" : "") +
+          '<div class="subtext">' + meta.join(" · ") + (pills ? " " + pills : "") + "</div>" +
+        "</div>";
+      li.querySelector(".rank").textContent = (i + 1) + ".";
       listEl.appendChild(li);
     }
     if (!loaded.length){
       statusEl.textContent = "No stories yet — check back soon.";
     } else if (q && !n){
-      statusEl.textContent = "No loaded stories match that filter. Click More to load older stories.";
+      statusEl.textContent = "No loaded stories match that filter. Load more to search older stories.";
     } else {
       statusEl.textContent = "";
     }
