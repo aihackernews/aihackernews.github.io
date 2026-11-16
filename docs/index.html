@@ -35,6 +35,15 @@
     box-shadow:0 6px 24px rgba(15,23,42,.18);
   }
   .brand{display:flex; align-items:center; gap:12px}
+  .addnews{
+    margin-left:auto; flex:none; align-self:flex-start;
+    background:linear-gradient(135deg,var(--accent),var(--accent2));
+    color:#fff; font-weight:700; font-size:14.5px;
+    padding:9px 18px; border-radius:999px;
+    box-shadow:inset 0 0 0 1px rgba(255,255,255,.35), 0 2px 10px rgba(0,0,0,.25);
+  }
+  .addnews:hover{background:linear-gradient(135deg,#4338ca,#0891b2); color:#fff; text-decoration:none}
+  .searchrow{margin-top:14px}
   .mark{
     width:44px; height:44px; flex:none; border-radius:12px;
     background:linear-gradient(135deg,var(--accent),var(--accent2));
@@ -46,13 +55,6 @@
   .brand h1 a{color:#fff}
   .brand h1 a:hover{color:#fff; text-decoration:none}
   .tagline{color:#c7d2fe; font-size:13.5px; margin-top:1px}
-  nav.top{margin-top:12px; font-size:13.5px; display:flex; gap:6px; flex-wrap:wrap}
-  nav.top a{
-    color:#e0e7ff; background:rgba(255,255,255,.09);
-    padding:4px 11px; border-radius:999px;
-  }
-  nav.top a:hover{background:rgba(255,255,255,.2); color:#fff; text-decoration:none}
-
   main{background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:6px 20px 14px; box-shadow:0 1px 3px rgba(15,23,42,.05)}
   ol.stories{list-style:none; margin:0; padding:0}
   ol.stories li{
@@ -83,7 +85,7 @@
   footer.site{color:var(--muted); font-size:13.5px; text-align:center; padding:20px 12px 0}
   footer.site .about{max-width:640px; margin:0 auto 12px}
   #filter{
-    font:inherit; font-size:14px; padding:7px 12px; width:320px; max-width:85%;
+    font:inherit; font-size:14px; padding:8px 14px; width:460px; max-width:100%;
     border:1px solid var(--line); border-radius:999px; background:#fff; color:var(--ink);
   }
   #filter:focus{outline:2px solid var(--accent); outline-offset:1px; border-color:transparent}
@@ -104,12 +106,11 @@
         <h1><a href="./">AI Hacker News</a></h1>
         <div class="tagline">The front page of artificial intelligence — models, research, startups, policy &amp; tools.</div>
       </div>
+      <a class="addnews" href="submit.html">Add News</a>
     </div>
-    <nav class="top">
-      <a href="./">Latest</a>
-      <a href="#about">About</a>
-      <a href="latest.json">Data (JSON)</a>
-    </nav>
+    <div class="searchrow">
+      <input id="filter" type="text" placeholder="Filter loaded stories by title, source or tag…">
+    </div>
   </header>
 
   <main>
@@ -120,7 +121,6 @@
 
   <footer class="site" id="about">
     <div class="about">AI Hacker News is an independent news aggregator focused only on AI. Stories are gathered from across the web every few hours, checked for freshness, and de-duplicated. Not affiliated with Y Combinator or Hacker News.</div>
-    <input id="filter" type="text" placeholder="Filter loaded stories by title, source or tag…">
   </footer>
 </div>
 

@@ -138,6 +138,21 @@ Implemented by `tools/update_latest.py` — the spec it follows:
 A scheduled agent job ("AI Hacker News — gather AI news every 3 hours")
 normally does this automatically.
 
+## Community submissions
+
+- `docs/submit.html` tells readers how to submit: open a GitHub issue at
+  https://github.com/aihackernews/aihackernews.github.io/issues with a title
+  starting `[NEW_POST] ` and a body in one of two formats — `LINK:` + URL, or
+  `CONTENT:` + hand-written text.
+- The hourly cron `aihackernews-submissions` processes open `[NEW_POST]`
+  issues: validates (real AI news, not ads/promo, specific story, fresh,
+  not a duplicate of latest.json), adds accepted ones via
+  `tools/update_latest.py` (LINK → entry links the article; CONTENT → entry
+  links the issue itself, source "Community submission"), comments and
+  closes each issue (accepted = completed, rejected = not planned, with an
+  invitation to reopen with justification). Reopened appeals it cannot
+  decide are escalated to the owner in chat, never auto-rejected twice.
+
 ## Publishing notes
 
 - Commit identity: author and committer are always `Muse
