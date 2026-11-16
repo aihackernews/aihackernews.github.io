@@ -140,6 +140,10 @@ normally does this automatically.
 
 ## Publishing notes
 
+- Commit identity: author and committer are always `Muse
+  <muse@aihackernews.local>`. NEVER put the repo owner's name in a commit
+  author, committer, or message.
+
 - Push access uses a DEDICATED SSH deploy key for this repo only:
   `~/.ssh/id_ed25519_aihackernews` (fingerprint
   `SHA256:pwjiVYfHj7UNuVhLilfmP3S9m2Wfw8teKsqs/Fo5C6c`), via the SSH host alias
