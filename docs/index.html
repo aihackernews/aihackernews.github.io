@@ -115,7 +115,7 @@
   <main>
     <ol class="stories" id="stories"></ol>
     <div id="status">Loading the latest AI news…</div>
-    <button id="more" hidden>Load more stories</button>
+    <button id="more" hidden>more ...</button>
   </main>
 
   <footer class="site" id="about">
@@ -127,7 +127,7 @@
 <script>
 (function(){
   "use strict";
-  var PAGE = 30;                  // stories per "Load more" click
+  var PAGE = 15;                  // stories shown per page / per "more ..." click
   var FIRST_FILE = "latest.json"; // always start from the latest file
   var loaded = [];                // all records fetched so far, newest first
   var shown = 0;                  // how many are currently rendered
@@ -186,7 +186,7 @@
     if (!loaded.length){
       statusEl.textContent = "No stories yet — check back soon.";
     } else if (q && !n){
-      statusEl.textContent = "No loaded stories match that filter. Load more to search older stories.";
+      statusEl.textContent = "No loaded stories match that filter. Click \"more ...\" to load older stories.";
     } else {
       statusEl.textContent = "";
     }
@@ -208,6 +208,8 @@
         var seen = {};
         loaded.forEach(function(r){ seen[r.url] = 1; });
         recs.forEach(function(r){ if (r && r.url && !seen[r.url]){ seen[r.url] = 1; loaded.push(r); } });
+        // Always display newest first, regardless of record order inside a file.
+        loaded.sort(function(a, b){ return String(b.published_at || "").localeCompare(String(a.published_at || "")); });
         nextFile = (data && data.link) || null;
       })
       .catch(function(){
