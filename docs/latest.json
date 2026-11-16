@@ -1,6 +1,201 @@
 {
   "records": [
     {
+      "published_at": "2026-11-16T17:26:00Z",
+      "source": "The Verge",
+      "summary": "OpenAI CEO Sam Altman declined to weigh in on whether Jensen Huang should return as Nvidia's CEO, saying he doesn't know enough about the situation.",
+      "tags": [
+        "openai",
+        "nvidia",
+        "jensen-huang"
+      ],
+      "title": "Sam Altman \"doesn't know enough\" to say if Jensen Huang should come back",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034462/sam-altman-doesnt-know-enough-to-say-if-jensen-huang-should-come-back",
+      "id": "sam-altman-doesn-t-know-enough-to-say-if-jensen-huang-should-come-back",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-16T17:10:00Z",
+      "source": "TechCrunch",
+      "summary": "Jordan Belfort and Shervin Pishevar launched Tone, an AI voice platform trained on sales tonality that handles full sales calls, reporting about $1M in revenue and $10M raised.",
+      "tags": [
+        "startups",
+        "voice-ai",
+        "funding"
+      ],
+      "title": "Jordan Belfort's new AI voice startup, Tone, wants to sell like the 'Wolf of Wall Street'",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "id": "jordan-belfort-s-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-s",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-16T16:59:00Z",
+      "source": "The Verge",
+      "summary": "Google is bringing Gemini to run locally on devices, moving its AI assistant toward on-device processing.",
+      "tags": [
+        "google",
+        "gemini",
+        "on-device"
+      ],
+      "title": "Gemini is going local",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034231/gemini-is-going-local",
+      "id": "gemini-is-going-local",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-16T15:52:19Z",
+      "source": "TechCrunch",
+      "summary": "Audible launched an AI-generated audio discovery feature that gives listeners a spoken overview of a book's themes and what readers liked, plus personalized collections based on listening taste.",
+      "tags": [
+        "audible",
+        "ai-products",
+        "audiobooks"
+      ],
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "id": "audible-turns-to-ai-to-help-users-discover-audiobooks",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-16T14:06:00Z",
+      "source": "Ars Technica",
+      "summary": "Allies of ousted Nvidia CEO Jensen Huang have organized a campaign to push for his return to the company, according to the Financial Times.",
+      "tags": [
+        "nvidia",
+        "jensen-huang"
+      ],
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+      "id": "jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI is expanding its ChatGPT for Academic Researchers program to give up to 200,000 researchers worldwide free access to ChatGPT, with 50,000 new grants opening November 23.",
+      "tags": [
+        "openai",
+        "research",
+        "chatgpt"
+      ],
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+      "id": "broadening-access-to-ai-for-scientists",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI studied 580,000 scientific messages from 1,819 researchers in its academic pilot and found surveyed scientists estimated the same work would have taken 1.9 times as long without ChatGPT.",
+      "tags": [
+        "openai",
+        "research",
+        "chatgpt"
+      ],
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier/",
+      "id": "science-at-the-frontier-how-scientists-use-chatgpt",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI released a new image classifier to detect child sexual abuse material, including AI-generated material, offered free to vetted organizations, plus new ChatGPT warnings that interrupt attempts to find abusive material.",
+      "tags": [
+        "openai",
+        "safety",
+        "child-safety"
+      ],
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety/",
+      "id": "strengthening-the-fight-against-online-child-sexual-abuse-with-new-tools-and-sup",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI signed agreements with Apollo Research, METR, Transluce, and Goodfire to embed independent assessors inside the lab with deep access to models, checkpoints, and training data to evaluate alignment and safeguards.",
+      "tags": [
+        "openai",
+        "safety",
+        "evaluation"
+      ],
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+      "id": "our-first-phase-of-embedded-assessments",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI expanded ChatGPT for Healthcare with computer-use agents that work across existing hospital software, improved clinical search with citations, and more than 20 new healthcare plugins.",
+      "tags": [
+        "openai",
+        "healthcare",
+        "agents"
+      ],
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/",
+      "id": "more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI shared results showing GPT-6 Astra rated safe in 99% of reviewed clinical EHR tasks and scored 94.3% on the HealthAdminBench benchmark, with deployments at CVS Health, Abridge, Cigna, and Ambience.",
+      "tags": [
+        "openai",
+        "healthcare",
+        "agents"
+      ],
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+      "id": "advancing-computer-use-agents-for-healthcare-teams",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "NVIDIA",
+      "summary": "NVIDIA's Vera Rubin platform swept every MLPerf Training v6.1 benchmark in its debut and delivered over 10x generational gains in throughput per watt for agentic inference on MLPerf Endpoints.",
+      "tags": [
+        "nvidia",
+        "benchmarks",
+        "infrastructure"
+      ],
+      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "id": "nvidia-sweeps-mlperf-training-and-endpoints-as-vera-rubin-debuts-with-leading-pe",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-16T00:00:00Z",
+      "source": "Hugging Face",
+      "summary": "Hugging Face switched its Inference Providers routing to OpenRouter, so every open-weight model on the Hub can now be called with a Hugging Face token through one API with the best provider picked per request.",
+      "tags": [
+        "hugging-face",
+        "openrouter",
+        "open-weight"
+      ],
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "id": "hugging-face-and-openrouter-join-forces-to-make-open-weight-models-easy-to-run",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
+      "published_at": "2026-11-15T12:00:00Z",
+      "source": "Steve Blank",
+      "summary": "Steve Blank argues Nvidia's board must choose between an innovator and an execution-focused CEO after Jensen Huang's resignation, warning that innovation usually dies when a visionary founder leaves.",
+      "tags": [
+        "nvidia",
+        "jensen-huang",
+        "analysis"
+      ],
+      "title": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "id": "what-s-next-for-nvidia",
+      "added_at": "2026-11-16T17:38:19Z"
+    },
+    {
       "published_at": "2026-11-16T14:15:00Z",
       "source": "The Verge",
       "summary": "US regulators issued an interim final rule tightening export controls to close loopholes on foreign access to advanced AI chips and servers.",
