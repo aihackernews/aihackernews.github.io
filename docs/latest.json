@@ -1,6 +1,20 @@
 {
   "records": [
     {
+      "published_at": "2026-11-16T03:26:00Z",
+      "source": "Qwen (Alibaba)",
+      "summary": "Alibaba's Qwen team introduced Qwen4-Max, a new flagship built on the Qwen4 architecture with a 2.4-trillion-parameter backbone (71B active per token), native vision and a one-million-token context window. Qwen says it cuts cost per task by about 62% versus Qwen3.8-Max on its Work360 benchmark and lowers API prices, positioning the model as a 24/7 AI teammate for professional work.",
+      "tags": [
+        "qwen",
+        "alibaba",
+        "models"
+      ],
+      "title": "Alibaba unveils Qwen4-Max, a 2.4T-parameter model built as an AI teammate",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "id": "alibaba-unveils-qwen4-max-a-2-4t-parameter-model-built-as-an-ai-teammate",
+      "added_at": "2026-11-16T03:29:43Z"
+    },
+    {
       "published_at": "2026-11-13T09:00:00Z",
       "source": "EUalive",
       "summary": "EU heads of state and government held their first in-depth discussion devoted to AI at an informal summit in Dublin, hearing from Mistral CEO Arthur Mensch and Geoffrey Hinton. Leaders focused on competitiveness and AI sovereignty; the Commission floated around €30 billion in gigafactory compute and said at least €500 billion is needed overall.",
