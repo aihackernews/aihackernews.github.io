@@ -1,1 +1,320 @@
-{"link":null,"records":[{"added_at":"2026-11-16T02:52:00Z","id":"anthropic-products-automate-jobs-dailycaller","published_at":"2026-11-15T12:00:00Z","source":"Daily Caller","summary":"Claude Fable 5.2, released Nov 9, completed 41.25% of real freelance projects on the Remote Labor Index; Anthropic also launched Claude Sheets, Whiteboards and Data on Nov 10.","tags":["Anthropic","Claude","agents"],"title":"Here's how Anthropic's latest products could automate your job","url":"https://dailycaller.com/2026/11/15/anthropic-claude-fable-work-automation"},{"added_at":"2026-11-16T02:52:00Z","id":"openai-launches-chatgpt-wallet-agent-payments","published_at":"2026-11-15T15:00:00Z","source":"FinTech Magazine","summary":"OpenAI launched ChatGPT Wallet with American Express, Mastercard and Visa: its dots agents can complete purchases with tokenized cards, with a biometric security check for every purchase. Rolling out to US ChatGPT Pro subscribers.","tags":["OpenAI","agents","payments"],"title":"OpenAI launches ChatGPT Wallet for secure AI agent payments","url":"https://fintechmagazine.com/news/openai-launches-chatgpt-wallet-for-secure-ai-agent-payments"},{"added_at":"2026-11-16T02:52:00Z","id":"nvidia-allegedly-funded-startups-buy-own-gpus","published_at":"2026-11-14T12:00:00Z","source":"Hacker News","summary":"A WSJ investigation, reported by TechPowerUp, alleges Nvidia engineered GPU scarcity by arranging credit support for AI startups and small cloud providers that bought its chips — financing its own demand while customers faced shortages. The story topped Hacker News with 1,005 points.","tags":["Nvidia","GPU","chips"],"title":"Nvidia allegedly funded startups to buy its own GPUs","url":"https://news.ycombinator.com/item?id=50493251"},{"added_at":"2026-11-16T02:52:00Z","id":"langchain-hits-3b-valuation-techcrunch","published_at":"2026-11-13T19:37:00Z","source":"TechCrunch","summary":"Agent management startup LangChain raised a $300M Series C at a $3B valuation led by CapitalG, more than double its $1.25B valuation from a year ago, with GIC, DFJ Growth, IVP and Sapphire Ventures participating.","tags":["LangChain","funding","agents"],"title":"AI agent startup LangChain hits $3B valuation","url":"https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"},{"added_at":"2026-11-16T02:52:00Z","id":"google-gemini-4-hydrogen-cheaper-model","published_at":"2026-11-12T12:00:00Z","source":"Nakoda News","summary":"Google released Gemini 4 Hydrogen, its fast, cheap tier for coding and agentic workflows: $1.50/$7.50 per million tokens, a free API tier, and a 51 score on the Artificial Analysis Intelligence Index — one point above the flagship Argon.","tags":["Google","Gemini","models"],"title":"Google releases Gemini 4 Hydrogen, a cheaper model that edges past its flagship Argon","url":"https://news.nakoda.ai/article/google-gemini-4-hydrogen-cheaper-model-outscores-argon"},{"added_at":"2026-11-16T02:52:00Z","id":"anthropic-claude-tops-rankings-openai-limits-cyber-model","published_at":"2026-11-12T12:00:00Z","source":"PYMNTS","summary":"Claude Fable 5.2 topped the Artificial Analysis Intelligence Index at 65; Meta released Muse Ember at $0.10 per million input tokens, OpenAI limited GPT-6 Cyber to approved security customers, and Gemini Robotics 2.5 hit 96% success sorting parts on Mercedes-Benz lines.","tags":["Anthropic","OpenAI","Meta","models"],"title":"Anthropic's Claude tops AI rankings as OpenAI limits cyber model","url":"https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/"}]}
+{
+  "records": [
+    {
+      "published_at": "2026-11-13T09:00:00Z",
+      "source": "EUalive",
+      "summary": "EU heads of state and government held their first in-depth discussion devoted to AI at an informal summit in Dublin, hearing from Mistral CEO Arthur Mensch and Geoffrey Hinton. Leaders focused on competitiveness and AI sovereignty; the Commission floated around €30 billion in gigafactory compute and said at least €500 billion is needed overall.",
+      "tags": [
+        "policy",
+        "eu"
+      ],
+      "title": "EU leaders hold first dedicated AI summit in Dublin",
+      "url": "https://eualive.net/eu-leaders-hold-first-high-level-ai-talks-in-dublin/",
+      "id": "eu-leaders-hold-first-dedicated-ai-summit-in-dublin",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-11-13T09:00:00Z",
+      "source": "AI Newsway",
+      "summary": "llama.cpp and its ggml tensor library reached v1.0.0 on November 13, adopting semantic versioning so breaking changes to the public C API will arrive only as major-version bumps. The release removes 35 deprecated functions and adds FP8 KV caches and a host-memory cache for MoE models.",
+      "tags": [
+        "open source",
+        "inference"
+      ],
+      "title": "llama.cpp and ggml reach v1.0 with a stable API promise",
+      "url": "https://ainewsway.com/news/llama-cpp-1-0-locks-in-a-stable-c-api",
+      "id": "llama-cpp-and-ggml-reach-v1-0-with-a-stable-api-promise",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-11-12T14:21:00Z",
+      "source": "The Register",
+      "summary": "Jensen Huang resigned as Nvidia's CEO, president and board member after reports of extramarital affairs, including one with a woman US officials suspect of spying for China. CFO Colette Kress takes over as interim CEO while the board searches for a successor; Nvidia shares fell sharply on the news.",
+      "tags": [
+        "nvidia",
+        "industry"
+      ],
+      "title": "Jensen Huang resigns as Nvidia chief executive",
+      "url": "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411",
+      "id": "jensen-huang-resigns-as-nvidia-chief-executive",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-11-10T09:00:00Z",
+      "source": "Modern Robotics",
+      "summary": "DeepMind unveiled Gemini Robotics 2.5, its most capable vision-language-action model, reporting 30–100% higher task success than its predecessor. In a factory pilot, Apptronik Apollo 2 humanoids running the model sorted metal parts on live Mercedes-Benz production lines at a reported 96% success rate.",
+      "tags": [
+        "deepmind",
+        "robotics"
+      ],
+      "title": "Gemini Robotics 2.5 hits 96% sorting parts on Mercedes-Benz factory lines",
+      "url": "https://www.modernrobotics.co.uk/articles/gemini-robotics-2-5-mercedes-benz-apollo-2-96-percent",
+      "id": "gemini-robotics-2-5-hits-96-sorting-parts-on-mercedes-benz-factory-lines",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-11-10T09:00:00Z",
+      "source": "Google DeepMind",
+      "summary": "DeepMind's AlphaProof Code, a multi-agent framework powered by Gemini 4 Carbon, formally verified key security properties of Signal's libsignal code down to machine instructions — about 6.5 million lines of Lean proof produced in four weeks. DeepMind calls it the first formal verification of a widely deployed cryptographic protocol at this depth, and open-sourced the artifacts.",
+      "tags": [
+        "deepmind",
+        "research",
+        "security"
+      ],
+      "title": "DeepMind's AlphaProof Code formally verifies Signal's cryptography",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "id": "deepmind-s-alphaproof-code-formally-verifies-signal-s-cryptography",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-11-09T09:00:00Z",
+      "source": "Dealroom",
+      "summary": "Fireworks AI said a second intrusion path through a third-party cloud provider let attackers reach customer billing data and, for a limited set of accounts, secrets, datasets and incomplete model weights. The November 9 update expands an October incident the inference platform first disclosed on October 9.",
+      "tags": [
+        "security",
+        "startups"
+      ],
+      "title": "Fireworks AI breach widened: billing data, datasets and partial model weights accessed",
+      "url": "https://dealroom.co/news/171040-fireworks-ai-says-hackers-reached-customer-datasets-partial-model-weight/",
+      "id": "fireworks-ai-breach-widened-billing-data-datasets-and-partial-model-weights-acce",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-11-09T09:00:00Z",
+      "source": "i10x",
+      "summary": "Meta released Muse Ember, its smallest and cheapest model, built for the repetitive work inside agents: tool calls, routing, extraction and coding subtasks. At $0.10/$0.50 per million tokens, Artificial Analysis says it matches Claude Haiku 5.5's intelligence score at about a third of the cost per task.",
+      "tags": [
+        "meta",
+        "models"
+      ],
+      "title": "Meta releases Muse Ember, its smallest and cheapest model",
+      "url": "https://i10x.ai/news/meta-muse-ember-cheap-agent-model",
+      "id": "meta-releases-muse-ember-its-smallest-and-cheapest-model",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-11-05T09:00:00Z",
+      "source": "Cyber Magazine",
+      "summary": "OpenAI announced GPT-6 Cyber, a cybersecurity-specialized variant of GPT-6 Astra for vulnerability discovery, exploit development and penetration testing. Rated Critical under OpenAI's Preparedness Framework, it is limited to vetted Daybreak Red customers; OpenAI says it found 81 previously unknown high-severity Firefox flaws and scored 48.5% on ExploitGym.",
+      "tags": [
+        "openai",
+        "models",
+        "security"
+      ],
+      "title": "OpenAI launches GPT-6 Cyber, a Critical-rated model for vetted security teams",
+      "url": "https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents",
+      "id": "openai-launches-gpt-6-cyber-a-critical-rated-model-for-vetted-security-teams",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-11-05T09:00:00Z",
+      "source": "Kompozy",
+      "summary": "Baidu open-sourced ERNIE 5.5 Flash Base, a 280B-parameter mixture-of-experts model with 14B active per token, publishing FP8 and BF16 weights on Hugging Face and ModelScope. It is a raw pre-training checkpoint for others to fine-tune, and its custom license excludes the EU, UK and South Korea.",
+      "tags": [
+        "baidu",
+        "open weights",
+        "models"
+      ],
+      "title": "Baidu open-sources ERNIE 5.5 Flash Base, a 280B MoE model",
+      "url": "https://kompozy.io/news/baidu-ernie-5-5-flash-base-open-source",
+      "id": "baidu-open-sources-ernie-5-5-flash-base-a-280b-moe-model",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-11-04T09:00:00Z",
+      "source": "Minichart",
+      "summary": "Google will backstop Anthropic's rent obligations under TeraWulf's 20-year leases for about 401 MW at its Justified campus in Kentucky, covering roughly $19 billion of contracted commitments. TeraWulf disclosed the credit support agreements in an 8-K filed November 4, alongside a Fluor construction deal.",
+      "tags": [
+        "infrastructure",
+        "anthropic",
+        "google"
+      ],
+      "title": "Google backstops Anthropic's $19B TeraWulf data-center lease",
+      "url": "https://www.minichart.com.sg/2026/11/04/terawulf-wins-google-backstop-for-19b-anthropic-lease-fluor-epc-deal/",
+      "id": "google-backstops-anthropic-s-19b-terawulf-data-center-lease",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-11-04T09:00:00Z",
+      "source": "TechRepublic",
+      "summary": "Meta acquired Conductor, the Mac app that runs several AI coding agents in parallel workspaces, for an undisclosed sum; the ten-person team joins Meta Superintelligence Labs. Conductor Cloud goes read-only November 13 and shuts down November 20, when cloud data deletion begins.",
+      "tags": [
+        "meta",
+        "acquisitions",
+        "coding"
+      ],
+      "title": "Meta acquires Conductor, the parallel coding-agents app",
+      "url": "https://www.techrepublic.com/article/news-meta-conductor-cloud-shutdown-export-projects/",
+      "id": "meta-acquires-conductor-the-parallel-coding-agents-app",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-11-04T09:00:00Z",
+      "source": "Zeniteq",
+      "summary": "OpenAI announced Images 2.6 across ChatGPT, Codex and the API, adding native animated GIF generation, SVG output, markup-guided editing and a complexity control. The API gets two models — GPT-Image-2.6 Flare for speed and Sunburst for detail — at the same token prices as 2.5.",
+      "tags": [
+        "openai",
+        "models",
+        "images"
+      ],
+      "title": "OpenAI ships GPT Image 2.6 with GIF and SVG output",
+      "url": "https://www.zeniteq.com/openai-images-2-6-adds-gifs-svg-and-two-api-models-gi13zb",
+      "id": "openai-ships-gpt-image-2-6-with-gif-and-svg-output",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-10-29T09:00:00Z",
+      "source": "I-SCOOP",
+      "summary": "Mistral published the weights of Large 4, its 1.05-trillion-parameter mixture-of-experts flagship, on Hugging Face under a modified MIT license after three extra weeks of reinforcement learning. It is the strongest open-weight model built outside China, though running it still takes an 8-GPU datacenter node.",
+      "tags": [
+        "mistral",
+        "open weights",
+        "models"
+      ],
+      "title": "Mistral releases Large 4 weights: a trillion-parameter open model",
+      "url": "https://www.i-scoop.eu/mistral-large-4-sovereign-ai/",
+      "id": "mistral-releases-large-4-weights-a-trillion-parameter-open-model",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-10-28T09:00:00Z",
+      "source": "Google",
+      "summary": "Google announced Gemini 4 Carbon, its strongest model yet, built on Gemini 4 Argon with state-of-the-art cybersecurity and long-horizon capabilities. It ranks first on the Artificial Analysis Intelligence Index v5.0 and rolls out first to cyber defenders through the Fairwind Program at $2/$10 per million tokens.",
+      "tags": [
+        "google",
+        "models"
+      ],
+      "title": "Introducing Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/?ref=apidog.com",
+      "id": "introducing-gemini-4-carbon",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-10-27T09:00:00Z",
+      "source": "DataCamp",
+      "summary": "DeepMind announced Genie 4, a world model that generates interactive environments you can walk through and steer with text in real time — now with native sound and dialogue. It holds a scene together for up to two minutes, double Genie 3, and is out as a research preview for trusted testers.",
+      "tags": [
+        "deepmind",
+        "research",
+        "world models"
+      ],
+      "title": "DeepMind's Genie 4 generates real-time worlds with sound",
+      "url": "https://www.datacamp.com/blog/genie-4",
+      "id": "deepmind-s-genie-4-generates-real-time-worlds-with-sound",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-10-26T09:00:00Z",
+      "source": "FinRep AI",
+      "summary": "Anthropic publicly filed its preliminary S-1 on October 26, proposing a Nasdaq listing under the ticker ANT. The filing discloses $16.3B in first-half 2026 revenue alongside a large GAAP net loss driven by fair-value changes; the price range and share count are not yet set.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "business"
+      ],
+      "title": "Anthropic files public S-1 for Nasdaq IPO under ticker ANT",
+      "url": "https://www.finrep.ai/blog/anthropic-s-1-edgar-2026-what-finance-professionals-need-to-know",
+      "id": "anthropic-files-public-s-1-for-nasdaq-ipo-under-ticker-ant",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "published_at": "2026-10-26T09:00:00Z",
+      "source": "ExplainX",
+      "summary": "OpenAI released GPT-6.1 Terra on October 26, a fast mid-tier model for visual reasoning, computer use and writing, priced at $1 per million input tokens and $5 output — half the cost of GPT-5.6 Terra. It is live in ChatGPT Work, Codex and the API with a 1.05M-token context window.",
+      "tags": [
+        "openai",
+        "models"
+      ],
+      "title": "OpenAI launches GPT-6.1 Terra, a cheaper model for computer use",
+      "url": "https://explainx.ai/blog/gpt-6-1-terra-launch-1-5-dollar-pricing-computer-use-benchmarks-2026",
+      "id": "openai-launches-gpt-6-1-terra-a-cheaper-model-for-computer-use",
+      "added_at": "2026-11-16T02:57:11Z"
+    },
+    {
+      "added_at": "2026-11-16T02:52:00Z",
+      "id": "anthropic-products-automate-jobs-dailycaller",
+      "published_at": "2026-11-15T12:00:00Z",
+      "source": "Daily Caller",
+      "summary": "Claude Fable 5.2, released Nov 9, completed 41.25% of real freelance projects on the Remote Labor Index; Anthropic also launched Claude Sheets, Whiteboards and Data on Nov 10.",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "agents"
+      ],
+      "title": "Here's how Anthropic's latest products could automate your job",
+      "url": "https://dailycaller.com/2026/11/15/anthropic-claude-fable-work-automation"
+    },
+    {
+      "added_at": "2026-11-16T02:52:00Z",
+      "id": "openai-launches-chatgpt-wallet-agent-payments",
+      "published_at": "2026-11-15T15:00:00Z",
+      "source": "FinTech Magazine",
+      "summary": "OpenAI launched ChatGPT Wallet with American Express, Mastercard and Visa: its dots agents can complete purchases with tokenized cards, with a biometric security check for every purchase. Rolling out to US ChatGPT Pro subscribers.",
+      "tags": [
+        "OpenAI",
+        "agents",
+        "payments"
+      ],
+      "title": "OpenAI launches ChatGPT Wallet for secure AI agent payments",
+      "url": "https://fintechmagazine.com/news/openai-launches-chatgpt-wallet-for-secure-ai-agent-payments"
+    },
+    {
+      "added_at": "2026-11-16T02:52:00Z",
+      "id": "nvidia-allegedly-funded-startups-buy-own-gpus",
+      "published_at": "2026-11-14T12:00:00Z",
+      "source": "Hacker News",
+      "summary": "A WSJ investigation, reported by TechPowerUp, alleges Nvidia engineered GPU scarcity by arranging credit support for AI startups and small cloud providers that bought its chips — financing its own demand while customers faced shortages. The story topped Hacker News with 1,005 points.",
+      "tags": [
+        "Nvidia",
+        "GPU",
+        "chips"
+      ],
+      "title": "Nvidia allegedly funded startups to buy its own GPUs",
+      "url": "https://news.ycombinator.com/item?id=50493251"
+    },
+    {
+      "added_at": "2026-11-16T02:52:00Z",
+      "id": "langchain-hits-3b-valuation-techcrunch",
+      "published_at": "2026-11-13T19:37:00Z",
+      "source": "TechCrunch",
+      "summary": "Agent management startup LangChain raised a $300M Series C at a $3B valuation led by CapitalG, more than double its $1.25B valuation from a year ago, with GIC, DFJ Growth, IVP and Sapphire Ventures participating.",
+      "tags": [
+        "LangChain",
+        "funding",
+        "agents"
+      ],
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+    },
+    {
+      "added_at": "2026-11-16T02:52:00Z",
+      "id": "google-gemini-4-hydrogen-cheaper-model",
+      "published_at": "2026-11-12T12:00:00Z",
+      "source": "Nakoda News",
+      "summary": "Google released Gemini 4 Hydrogen, its fast, cheap tier for coding and agentic workflows: $1.50/$7.50 per million tokens, a free API tier, and a 51 score on the Artificial Analysis Intelligence Index — one point above the flagship Argon.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "models"
+      ],
+      "title": "Google releases Gemini 4 Hydrogen, a cheaper model that edges past its flagship Argon",
+      "url": "https://news.nakoda.ai/article/google-gemini-4-hydrogen-cheaper-model-outscores-argon"
+    },
+    {
+      "added_at": "2026-11-16T02:52:00Z",
+      "id": "anthropic-claude-tops-rankings-openai-limits-cyber-model",
+      "published_at": "2026-11-12T12:00:00Z",
+      "source": "PYMNTS",
+      "summary": "Claude Fable 5.2 topped the Artificial Analysis Intelligence Index at 65; Meta released Muse Ember at $0.10 per million input tokens, OpenAI limited GPT-6 Cyber to approved security customers, and Gemini Robotics 2.5 hit 96% success sorting parts on Mercedes-Benz lines.",
+      "tags": [
+        "Anthropic",
+        "OpenAI",
+        "Meta",
+        "models"
+      ],
+      "title": "Anthropic's Claude tops AI rankings as OpenAI limits cyber model",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/"
+    }
+  ],
+  "link": null
+}
