@@ -115,10 +115,20 @@ Every data file (`latest.json` and every archive) has exactly this shape:
     pornography or sexualized imagery — "undress"/nudify apps, explicit
     AI-companion products, deepfake-porn generators — even when the story
     is genuinely AI-related and even when framed as a product launch;
-  - graphic gore or content whose main appeal is shock value.
+  - graphic gore or content whose main appeal is shock value;
+  - stories whose subject is an AI tool for crime — malware/exploit
+    generators, phishing builders, scam-call or voice-clone fraud tools,
+    deepfake tools for impersonation or harassment;
+  - scams and fraud schemes dressed as news — "AI trading bots" promising
+    returns, token launches, get-rich products;
+  - privacy-abuse tools — services for identifying or tracking private
+    individuals (face-recognition lookup of strangers, people-search built
+    on leaked data), or anything linking to leaked personal data/doxxing;
+  - content that encourages self-harm, and AI tools built for extremist
+    propaganda or recruitment.
   The line is the linked content's own nature: straight news coverage from
   a reputable outlet ABOUT such topics (regulation, bans, safety research,
-  platform enforcement) is acceptable; linking the adult product/tool
+  platform enforcement) is acceptable; linking the harmful product/tool
   itself, or an article that promotes it, is not. When in doubt, skip it.
 - Prefer primary sources and reputable outlets; link the original article.
 
