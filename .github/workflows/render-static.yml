@@ -1,0 +1,47 @@
+name: Render static snapshot
+
+# Prerendering for search engines: the front page renders stories with
+# JavaScript from docs/latest.json. After every data (or page) change,
+# tools/render_static.py bakes a static snapshot of the newest stories
+# into marked blocks of docs/index.html (plus JSON-LD and sitemap
+# lastmod values) and commits the result. latest.json stays the single
+# source of truth; the snapshot is a disposable, regenerable view.
+# Pushes made with GITHUB_TOKEN do not trigger new workflow runs, so
+# this cannot loop.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/latest.json"
+      - "docs/index.html"
+      - "tools/render_static.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-static
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render static snapshot
+        run: python3 tools/render_static.py --docs-dir docs
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- docs/index.html docs/sitemap.xml; then
+            echo "Snapshot already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html docs/sitemap.xml
+          git commit -q -m "seo: refresh static story snapshot"
+          git push
