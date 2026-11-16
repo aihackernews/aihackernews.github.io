@@ -35,6 +35,23 @@ it to any new HTML page you create:
   an archive's records.
 - `tools/update_latest.py` — the only supported way to add news and rotate
   archives. Use it; do not hand-roll the rotation logic.
+- Prerendered snapshot (SEO): the page renders stories with JavaScript,
+  which crawlers handle poorly, so `tools/render_static.py` bakes a static
+  snapshot of the newest 15 stories from `latest.json` into two marked
+  blocks of `docs/index.html` (`<!-- STATIC:START/END -->` inside the
+  story list; `<!-- JSONLD:START/END -->` with a JSON-LD ItemList in the
+  head) and refreshes `docs/sitemap.xml` lastmod values. The "Render
+  static snapshot" workflow (`.github/workflows/render-static.yml`)
+  re-runs it automatically after every push touching `docs/latest.json`,
+  `docs/index.html` or the script, committing as github-actions[bot] only
+  when the snapshot changed. Rules: never hand-edit between the
+  STATIC/JSONLD markers; `latest.json` stays the single source of truth
+  and the renderer never modifies JSON; the page's JS clears the list and
+  re-renders live data on load, so the snapshot serves only crawlers and
+  first paint — pagination ("more ...") and the archive chain are
+  unaffected. The hand-written parts of `index.html` still almost never
+  change; the marked blocks change mechanically. `docs/robots.txt`
+  allows all crawlers and points to the sitemap.
 
 ## Data format
 
