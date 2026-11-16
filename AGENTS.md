@@ -148,10 +148,18 @@ normally does this automatically.
   issues: validates (real AI news, not ads/promo, specific story, fresh,
   not a duplicate of latest.json), adds accepted ones via
   `tools/update_latest.py` (LINK → entry links the article; CONTENT → entry
-  links the issue itself, source "Community submission"), comments and
-  closes each issue (accepted = completed, rejected = not planned, with an
-  invitation to reopen with justification). Reopened appeals it cannot
-  decide are escalated to the owner in chat, never auto-rejected twice.
+  links the issue itself, source "Community submission"). Reopened appeals
+  it cannot decide are escalated to the owner in chat, never auto-rejected
+  twice.
+- Issue bookkeeping (comments/closes) NEVER uses API tokens or the GitHub
+  connector's write tools (those demand per-call human approval). Instead
+  the processor commits a queue file `issue-actions/issue-<N>.json`
+  ({"issue": N, "comment": string|null, "close":
+  "completed"|"not_planned"|null}) and the `Issue bookkeeping` workflow
+  (`.github/workflows/issue-bookkeeping.yml`) performs the action with its
+  built-in GITHUB_TOKEN and deletes the queue file. This requires repo
+  Settings → Actions → Workflow permissions = "Read and write permissions"
+  (set Nov 15, 2026; end-to-end verified on test issue #2).
 
 ## Publishing notes
 
