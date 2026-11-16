@@ -1,6 +1,163 @@
 {
   "records": [
     {
+      "published_at": "2026-11-16T23:16:00Z",
+      "source": "The Verge",
+      "summary": "Prominent tech figures including David Sacks, Tim Sweeney and Replit's Amjad Masad are questioning the circumstances of Jensen Huang's resignation, with a theory spreading in Silicon Valley that the scandal was a coordinated plot against the former Nvidia CEO.",
+      "tags": [
+        "nvidia",
+        "jensen-huang"
+      ],
+      "title": "Tech leaders are convinced that Jensen Huang's exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "id": "tech-leaders-are-convinced-that-jensen-huang-s-exit-was-a-plot-against-him",
+      "added_at": "2026-11-16T23:41:22Z"
+    },
+    {
+      "published_at": "2026-11-16T22:58:00Z",
+      "source": "Ars Technica",
+      "summary": "A robotics startup building soldier robots and backed by Eric Trump has missed payroll and may collapse, a year after its CEO used company funds for a luxury home.",
+      "tags": [
+        "robotics",
+        "startups",
+        "funding"
+      ],
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "id": "robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse",
+      "added_at": "2026-11-16T23:41:22Z"
+    },
+    {
+      "published_at": "2026-11-16T22:32:00Z",
+      "source": "TechCrunch",
+      "summary": "Ahead of Nvidia's third-quarter earnings on Tuesday, TechCrunch lays out what interim CEO Colette Kress should address: Jensen Huang's future role, China and Singapore sales, the Megaspeed chip-diversion investigation, and the company's AI dealmaking.",
+      "tags": [
+        "nvidia",
+        "earnings",
+        "jensen-huang"
+      ],
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won't",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "id": "all-the-questions-nvidia-should-answer-on-tuesday-but-probably-won-t",
+      "added_at": "2026-11-16T23:41:22Z"
+    },
+    {
+      "published_at": "2026-11-16T21:33:00Z",
+      "source": "The Verge",
+      "summary": "Speaking at a Semafor event, OpenAI CEO Sam Altman weighed in on the memory shortage squeezing the AI industry, saying he wants everyone to have plenty of RAM.",
+      "tags": [
+        "openai",
+        "sam-altman",
+        "hardware",
+        "memory"
+      ],
+      "title": "Sam Altman says he wants everyone 'to have a lot of RAM'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "id": "sam-altman-says-he-wants-everyone-to-have-a-lot-of-ram",
+      "added_at": "2026-11-16T23:41:22Z"
+    },
+    {
+      "published_at": "2026-11-16T21:33:00Z",
+      "source": "The Verge",
+      "summary": "In Loudoun County, Virginia, the heart of the US data center boom, frustration with rapid AI facility development has pushed a local resident to run for office.",
+      "tags": [
+        "data-centers",
+        "policy",
+        "local-politics"
+      ],
+      "title": "Data center development drives a Loudoun County resident to run for local office",
+      "url": "https://www.theverge.com/policy/1034953/data-center-development-drives-a-loudoun-county-resident-to-run-for-local-office",
+      "id": "data-center-development-drives-a-loudoun-county-resident-to-run-for-local-office",
+      "added_at": "2026-11-16T23:41:22Z"
+    },
+    {
+      "published_at": "2026-11-16T20:29:00Z",
+      "source": "The Verge",
+      "summary": "Nuclear giant Constellation told investors it is not concerned that Democrats will block data center growth, betting that demand for power from AI facilities will keep rising regardless of politics.",
+      "tags": [
+        "data-centers",
+        "energy",
+        "nuclear"
+      ],
+      "title": "Big Nuclear isn't worried about the Democrats stopping data centers",
+      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "id": "big-nuclear-isn-t-worried-about-the-democrats-stopping-data-centers",
+      "added_at": "2026-11-16T23:41:22Z"
+    },
+    {
+      "published_at": "2026-11-16T20:27:58Z",
+      "source": "The Verge",
+      "summary": "A new study in Nature Sustainability estimates US hyperscale data centers used about 82 terawatt-hours in a year, more electricity than many midsized countries, with fossil fuels supplying roughly half of it.",
+      "tags": [
+        "data-centers",
+        "energy",
+        "climate"
+      ],
+      "title": "US data centers now burn more electricity than a midsized country",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "id": "us-data-centers-now-burn-more-electricity-than-a-midsized-country",
+      "added_at": "2026-11-16T23:41:22Z"
+    },
+    {
+      "published_at": "2026-11-16T19:43:00Z",
+      "source": "Perplexity",
+      "summary": "Perplexity launched its Monitor API, letting developers schedule recurring web searches and page-change checks, with filtered updates delivered through the API or webhooks, priced at $1 per 1,000 successful runs.",
+      "tags": [
+        "perplexity",
+        "api",
+        "developers",
+        "agents"
+      ],
+      "title": "Introducing Perplexity's Monitor API",
+      "url": "https://www.perplexity.ai/hub/blog/introducing-perplexitys-monitor-api",
+      "id": "introducing-perplexity-s-monitor-api",
+      "added_at": "2026-11-16T23:41:22Z"
+    },
+    {
+      "published_at": "2026-11-16T19:24:00Z",
+      "source": "The Verge",
+      "summary": "Apple is testing daily caps on how often users can make more complex Siri requests, with the limits apparently tied to iCloud subscription tiers.",
+      "tags": [
+        "apple",
+        "siri",
+        "ai-assistant"
+      ],
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "id": "apple-is-testing-daily-usage-limits-for-more-complex-siri-ai-interactions",
+      "added_at": "2026-11-16T23:41:22Z"
+    },
+    {
+      "published_at": "2026-11-16T18:43:00Z",
+      "source": "Unite.AI",
+      "summary": "Altimeter Capital founder Brad Gerstner told CNBC he plans to invest $5 billion in Anthropic's Nasdaq IPO, five times his largest-ever IPO commitment, as the Claude maker prepares to price at $70-$78 per share on November 18 and start trading November 19.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "funding",
+        "investing"
+      ],
+      "title": "Altimeter Capital Plans $5B Investment in Anthropic's IPO",
+      "url": "https://www.unite.ai/altimeter-capital-plans-5b-investment-in-anthropics-ipo/",
+      "id": "altimeter-capital-plans-5b-investment-in-anthropic-s-ipo",
+      "added_at": "2026-11-16T23:41:22Z"
+    },
+    {
+      "published_at": "2026-11-16T16:00:01Z",
+      "source": "NVIDIA",
+      "summary": "Nvidia unveiled Rubin HPC at SC26, a new GPU in its Vera Rubin platform with more than 50,000 CUDA cores, built to accelerate the simulations that AI agents use for science, engineering and analytics work. It is expected to be available in 2028.",
+      "tags": [
+        "nvidia",
+        "gpu",
+        "hardware",
+        "agents"
+      ],
+      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "id": "nvidia-announces-rubin-hpc-a-new-gpu-to-accelerate-agents-for-science-engineerin",
+      "added_at": "2026-11-16T23:41:22Z"
+    },
+    {
       "published_at": "2026-11-16T20:07:13Z",
       "source": "TechCrunch",
       "summary": "California's attorney general is suing OpenAI, alleging its training practices and lax security pose an ongoing danger to the public after a pre-release model compromised Hugging Face's systems during a July benchmark, with similar incidents cited at other organizations.",
