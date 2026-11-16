@@ -1,6 +1,120 @@
 {
   "records": [
     {
+      "published_at": "2026-11-16T09:00:00Z",
+      "source": "OpenAI",
+      "summary": "LVMH's media division, publisher of Les Echos and Le Parisien, signed a strategic deal with OpenAI to bring its journalism into ChatGPT and deploy OpenAI tools across its newsrooms.",
+      "tags": [
+        "openai",
+        "media",
+        "partnership"
+      ],
+      "title": "LVMH's Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership/",
+      "id": "lvmh-s-media-division-announces-strategic-partnership-with-openai",
+      "added_at": "2026-11-16T11:34:38Z"
+    },
+    {
+      "published_at": "2026-11-15T12:00:00Z",
+      "source": "The Verge",
+      "summary": "Apple researchers published a study arguing that AI reasoning models behave unreliably on complex problems, challenging claims about how well the models actually reason.",
+      "tags": [
+        "apple",
+        "research",
+        "reasoning"
+      ],
+      "title": "Apple's new study tries to show AI reasoning models are 'unreliable'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034127/apple-study-ai-reasoning-models-unreliable",
+      "id": "apple-s-new-study-tries-to-show-ai-reasoning-models-are-unreliable",
+      "added_at": "2026-11-16T11:34:38Z"
+    },
+    {
+      "published_at": "2026-11-15T12:00:00Z",
+      "source": "The Verge",
+      "summary": "Days after resigning as Nvidia CEO, Jensen Huang is reportedly maneuvering for a return to the company, according to a new report on the boardroom fallout.",
+      "tags": [
+        "nvidia",
+        "leadership"
+      ],
+      "title": "Jensen Huang might be plotting a return to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034101/jensen-huang-nvidia-ceo-return-board-report",
+      "id": "jensen-huang-might-be-plotting-a-return-to-nvidia",
+      "added_at": "2026-11-16T11:34:38Z"
+    },
+    {
+      "published_at": "2026-11-13T12:00:00Z",
+      "source": "The Verge",
+      "summary": "Amazon plans to put its AI-powered Alexa Plus assistant on devices sold through Walmart, extending the assistant's reach beyond Amazon's own hardware.",
+      "tags": [
+        "amazon",
+        "alexa",
+        "voice-assistant"
+      ],
+      "title": "Amazon has a plan to take its AI-powered Alexa Plus to Walmart",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033657/amazon-alexa-plus-walmart",
+      "id": "amazon-has-a-plan-to-take-its-ai-powered-alexa-plus-to-walmart",
+      "added_at": "2026-11-16T11:34:38Z"
+    },
+    {
+      "published_at": "2026-11-13T12:00:00Z",
+      "source": "The Verge",
+      "summary": "A hands-on look at Claude's Duet agent finds an earnest, sometimes anxious AI helper that is nonetheless surprisingly useful at real work.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "agents"
+      ],
+      "title": "Claude's Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "id": "claude-s-duet-agent-is-a-little-neurotic-and-surprisingly-helpful",
+      "added_at": "2026-11-16T11:34:38Z"
+    },
+    {
+      "published_at": "2026-11-12T12:00:00Z",
+      "source": "Ars Technica",
+      "summary": "Backlash over Google's Gemini pilot in schools has prompted calls for moratoriums on AI in classrooms, as educators and parents question the rollout.",
+      "tags": [
+        "google",
+        "gemini",
+        "education",
+        "policy"
+      ],
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "url": "https://arstechnica.com/ai/2026/11/google-faces-calls-for-ai-moratoriums-in-schools-after-gemini-pilot-backlash/",
+      "id": "google-faces-calls-for-ai-moratoriums-in-schools-after-gemini-pilot-backlash",
+      "added_at": "2026-11-16T11:34:38Z"
+    },
+    {
+      "published_at": "2026-11-12T12:00:00Z",
+      "source": "Ars Technica",
+      "summary": "Google's new Gemini-powered smartglasses start at $395, with the company emphasizing on-device privacy features as it enters the AI glasses market.",
+      "tags": [
+        "google",
+        "gemini",
+        "smartglasses",
+        "hardware"
+      ],
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "url": "https://arstechnica.com/ai/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "id": "google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395",
+      "added_at": "2026-11-16T11:34:38Z"
+    },
+    {
+      "published_at": "2026-11-10T12:00:00Z",
+      "source": "Ars Technica",
+      "summary": "Amazon's Ring unveiled an AI-powered security drone and robot that extend its cameras beyond fixed mounts and patrol homes on their own.",
+      "tags": [
+        "amazon",
+        "ring",
+        "robotics",
+        "security"
+      ],
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "id": "ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
+      "added_at": "2026-11-16T11:34:38Z"
+    },
+    {
       "published_at": "2026-11-16T07:00:00Z",
       "source": "Flagship Pioneering",
       "summary": "Flagship Pioneering is opening its first company-creation lab outside the US, in London, with an initial £100 million to conceive, fund and build AI-native platform companies focused on human and planetary health, starting with a team of about 50 scientist-entrepreneurs.",
