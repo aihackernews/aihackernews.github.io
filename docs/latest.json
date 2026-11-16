@@ -1,6 +1,160 @@
 {
   "records": [
     {
+      "published_at": "2026-11-16T07:00:00Z",
+      "source": "Flagship Pioneering",
+      "summary": "Flagship Pioneering is opening its first company-creation lab outside the US, in London, with an initial £100 million to conceive, fund and build AI-native platform companies focused on human and planetary health, starting with a team of about 50 scientist-entrepreneurs.",
+      "tags": [
+        "funding",
+        "ai-startups",
+        "uk"
+      ],
+      "title": "Flagship Pioneering Launches Flagship Origination Lab in London to Create AI-Native Platform Companies in the U.K.",
+      "url": "https://www.prnewswire.co.uk/news-releases/flagship-pioneering-launches-flagship-origination-lab-in-london-to-create-ai-native-platform-companies-in-the-uk-302939394.html",
+      "id": "flagship-pioneering-launches-flagship-origination-lab-in-london-to-create-ai-nat",
+      "added_at": "2026-11-16T08:36:55Z"
+    },
+    {
+      "published_at": "2026-11-15T23:30:00Z",
+      "source": "TechCrunch",
+      "summary": "Indian semiconductor startup Bharat Semi raised a $24M seed round to develop programmable image sensors that combine capture, processing and AI on a single chip, targeting smart homes, industrial automation, drones and aerospace, with first commercial production aimed at 2027.",
+      "tags": [
+        "funding",
+        "chips",
+        "startups"
+      ],
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "id": "indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor",
+      "added_at": "2026-11-16T08:36:55Z"
+    },
+    {
+      "published_at": "2026-11-15T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI launched a new science blog with a guest post from UCSB physicist Nathaniel Craig, who describes how GPT-6 Astra helped turn his strategy into a candidate lattice definition of the Standard Model, a problem open for decades, while noting key gaps remain before it is a practical tool.",
+      "tags": [
+        "research",
+        "openai",
+        "science"
+      ],
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model/",
+      "id": "a-step-toward-defining-the-standard-model-on-a-lattice",
+      "added_at": "2026-11-16T08:36:55Z"
+    },
+    {
+      "published_at": "2026-11-15T12:00:00Z",
+      "source": "The Decoder",
+      "summary": "A firm owned by Alice Huang, the former lover of ousted Nvidia CEO Jensen Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to documents reviewed by the Wall Street Journal, suggesting far more of Nvidia's revenue came from China than officially reported.",
+      "tags": [
+        "nvidia",
+        "policy",
+        "chips"
+      ],
+      "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+      "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+      "id": "firm-linked-to-jensen-huang-s-ex-lover-reportedly-brokered-nearly-12-billion-in",
+      "added_at": "2026-11-16T08:36:55Z"
+    },
+    {
+      "published_at": "2026-11-15T10:45:58Z",
+      "source": "The Decoder",
+      "summary": "A Reserve Bank of Australia analysis finds AI exposure is hitting young entry-level workers first: job postings and employment for 15- to 24-year-olds in highly exposed fields like software and customer service have fallen more sharply than for older workers since ChatGPT launched.",
+      "tags": [
+        "jobs",
+        "policy",
+        "research"
+      ],
+      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+      "id": "australia-s-central-bank-finds-ai-hitting-young-workers-first-especially-in-soft",
+      "added_at": "2026-11-16T08:36:55Z"
+    },
+    {
+      "published_at": "2026-11-14T11:21:41Z",
+      "source": "The Decoder",
+      "summary": "Former Anthropic researcher Jacob Coxon says a slide from Anthropic's IPO roadshow shows algorithmic efficiency improving at an accelerating rate, claiming its Mythos model could already be retrained with a fraction of its original compute, and he calls for a pause on frontier model development.",
+      "tags": [
+        "anthropic",
+        "models",
+        "research"
+      ],
+      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+      "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+      "id": "anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-n",
+      "added_at": "2026-11-16T08:36:55Z"
+    },
+    {
+      "published_at": "2026-11-13T17:25:45Z",
+      "source": "Ars Technica",
+      "summary": "An OpenAI board member warns that AI systems could take over key parts of society within months, voicing concern about how quickly frontier models are concentrating power and control.",
+      "tags": [
+        "openai",
+        "policy",
+        "safety"
+      ],
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/ai/2026/11/openai-board-member-worries-an-ai-takeover-of-society-could-be-months-away/",
+      "id": "openai-board-member-worries-an-ai-takeover-of-society-could-be-months-away",
+      "added_at": "2026-11-16T08:36:55Z"
+    },
+    {
+      "published_at": "2026-11-13T12:00:00Z",
+      "source": "Google Research",
+      "summary": "Google Research is opening Antigravity's /teamwork multi-agent tools to outside researchers, reporting human-supervised Gemini 4 workflows that proved open math conjectures, produced million-line machine-checked Lean formalizations, and rewrote production code.",
+      "tags": [
+        "google",
+        "agents",
+        "research"
+      ],
+      "title": "Advancing science & engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "id": "advancing-science-engineering-with-antigravity-s-teamwork",
+      "added_at": "2026-11-16T08:36:55Z"
+    },
+    {
+      "published_at": "2026-11-10T18:19:13Z",
+      "source": "The Decoder",
+      "summary": "Google's Gemini 4 Carbon is now generally available after a two-week testing phase, topping the MathArena benchmark and leading coding and automation benchmarks, while also finding real zero-day vulnerabilities in security testing.",
+      "tags": [
+        "google",
+        "models",
+        "gemini"
+      ],
+      "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+      "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+      "id": "gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterday-s-news-in-the-fastes",
+      "added_at": "2026-11-16T08:36:55Z"
+    },
+    {
+      "published_at": "2026-11-10T17:30:00Z",
+      "source": "TechCrunch",
+      "summary": "Anthropic launched Claude Meetings, which joins Google Meet calls as a visible participant and drafts plans, timelines and action items in real time, alongside Claude Whiteboards and Claude Sheets for paid plans.",
+      "tags": [
+        "anthropic",
+        "products",
+        "workplace"
+      ],
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "id": "anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and",
+      "added_at": "2026-11-16T08:36:55Z"
+    },
+    {
+      "published_at": "2026-11-10T00:00:00Z",
+      "source": "Anthropic",
+      "summary": "Anthropic launched the roadshow for its proposed IPO, offering 825 million Class A shares at an expected $70 to $78 each and seeking a Nasdaq listing under the ticker ANT.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "funding"
+      ],
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "id": "anthropic-launches-roadshow-for-proposed-initial-public-offering",
+      "added_at": "2026-11-16T08:36:55Z"
+    },
+    {
       "published_at": "2026-11-16T01:30:00Z",
       "source": "TechCrunch",
       "summary": "Apple partnered with OpenEvidence on a new study app that invites up to 200,000 US participants to ask health questions and get answers grounded in clinical literature, to learn how people use and evaluate health AI.",
