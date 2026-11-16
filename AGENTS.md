@@ -150,7 +150,8 @@ normally does this automatically.
   `tools/update_latest.py` (LINK → entry links the article; CONTENT → entry
   links the issue itself, source "Community submission"). Accepted records
   also carry `submitted_by` = the submitter's GitHub login, and the front
-  page renders a "by @handle" credit line under the story. Cron-gathered
+  page renders a "by @handle" credit in the story's meta line, before the
+  tag pills. Cron-gathered
   stories never carry `submitted_by` (no credit line). Reopened appeals
   it cannot decide are escalated to the owner in chat, never auto-rejected
   twice.
