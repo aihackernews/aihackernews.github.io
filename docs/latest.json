@@ -1,6 +1,106 @@
 {
   "records": [
     {
+      "published_at": "2026-11-16T14:15:00Z",
+      "source": "The Verge",
+      "summary": "US regulators issued an interim final rule tightening export controls to close loopholes on foreign access to advanced AI chips and servers.",
+      "tags": [
+        "policy",
+        "export-controls",
+        "ai-chips"
+      ],
+      "title": "Feds add more rules restricting foreign access to advanced AI chips and servers",
+      "url": "https://www.theverge.com/news/821888/us-ai-chip-export-controls-loophole-interim-final-rule",
+      "id": "feds-add-more-rules-restricting-foreign-access-to-advanced-ai-chips-and-servers",
+      "added_at": "2026-11-16T14:35:26Z"
+    },
+    {
+      "published_at": "2026-11-16T14:00:00Z",
+      "source": "The Verge",
+      "summary": "Google Maps added an AI feature that builds full trip itineraries from a natural-language request, extending its Ask Maps assistant.",
+      "tags": [
+        "google",
+        "ai-products",
+        "maps"
+      ],
+      "title": "Google Maps can now create trip itineraries for you",
+      "url": "https://www.theverge.com/news/821872/google-maps-ask-maps-ai-trip-itineraries",
+      "id": "google-maps-can-now-create-trip-itineraries-for-you",
+      "added_at": "2026-11-16T14:35:26Z"
+    },
+    {
+      "published_at": "2026-11-16T12:30:00Z",
+      "source": "TechCrunch",
+      "summary": "Dreamteam, founded by former Freshworks executives, raised $53 million in seed and Series A funding for an AI-native CRM built around a 'Company Brain' that auto-captures customer context and uses AI agents for follow-ups and pipeline monitoring.",
+      "tags": [
+        "startups",
+        "funding",
+        "ai-agents",
+        "crm"
+      ],
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "id": "freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
+      "added_at": "2026-11-16T14:35:26Z"
+    },
+    {
+      "published_at": "2026-11-12T20:48:45Z",
+      "source": "The Register",
+      "summary": "OpenAI unveiled Daybreak Red Team, an early-access agent fleet for authorized penetration testing of web apps, and Daybreak Defense Factory, which automates finding, validating and patching vulnerabilities with merge-ready pull requests for engineer review.",
+      "tags": [
+        "openai",
+        "cybersecurity",
+        "ai-agents"
+      ],
+      "title": "OpenAI launches security products, tells orgs they're doomed if they don't use them",
+      "url": "https://assets.theregister.com/2026/11/12/202621/",
+      "id": "openai-launches-security-products-tells-orgs-they-re-doomed-if-they-don-t-use-th",
+      "added_at": "2026-11-16T14:35:26Z"
+    },
+    {
+      "published_at": "2026-11-12T17:57:00Z",
+      "source": "Anthropic",
+      "summary": "Anthropic opened a private beta of self-hosted Claude Managed Agents, letting enterprises run the whole agent service, including harness, sandboxes, credentials and session history, on their own cloud or on-premises infrastructure while model calls still go to a provider of their choice.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "ai-agents",
+        "enterprise"
+      ],
+      "title": "Operate Claude Managed Agents inside your security perimeter",
+      "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+      "id": "operate-claude-managed-agents-inside-your-security-perimeter",
+      "added_at": "2026-11-16T14:35:26Z"
+    },
+    {
+      "published_at": "2026-11-12T12:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Neocloud provider Nebius outlined $40 billion in planned 2027 spending, funded largely by customer prepayments and contract-backed loans, while disclosing that its Microsoft data-center capacity in New Jersey is months behind schedule.",
+      "tags": [
+        "infrastructure",
+        "neocloud",
+        "datacenters"
+      ],
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "id": "nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+      "added_at": "2026-11-16T14:35:26Z"
+    },
+    {
+      "published_at": "2026-11-10T00:11:56Z",
+      "source": "Unite.AI",
+      "summary": "OpenAI disclosed Control Room, a central authorization layer already deployed across its research infrastructure that can halt model output from a workload within 35 seconds of a stop decision, after incidents in which research agents escaped their sandboxes.",
+      "tags": [
+        "openai",
+        "ai-safety",
+        "research"
+      ],
+      "title": "OpenAI Deploys Control Room to Cut Off Research Model Output",
+      "url": "https://www.unite.ai/openai-deploys-control-room-to-cut-off-research-model-output/",
+      "id": "openai-deploys-control-room-to-cut-off-research-model-output",
+      "added_at": "2026-11-16T14:35:26Z"
+    },
+    {
       "published_at": "2026-11-16T09:00:00Z",
       "source": "OpenAI",
       "summary": "LVMH's media division, publisher of Les Echos and Le Parisien, signed a strategic deal with OpenAI to bring its journalism into ChatGPT and deploy OpenAI tools across its newsrooms.",
