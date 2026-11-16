@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Hacker News</title>
+<meta name="description" content="AI Hacker News — the latest artificial intelligence news, in the classic Hacker News style. Updated every few hours.">
+<!-- REQUIRED on every HTML page — do not remove. See AGENTS.md. -->
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-TJZ293FB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
+<style>
+  html,body{margin:0;padding:0}
+  body{font-family:Verdana,Geneva,sans-serif;font-size:10pt;color:#000;background:#fff}
+  a{color:#000;text-decoration:none}
+  a:visited{color:#828282}
+  a:hover{text-decoration:underline}
+  #wrap{width:85%;max-width:1100px;margin:8px auto;background:#f6f6ef}
+  header{background:#ff6600;padding:3px 6px;display:flex;align-items:center;gap:8px}
+  header .logo{border:1px solid #fff;color:#fff;font-weight:bold;width:18px;height:18px;line-height:18px;text-align:center;font-size:10pt;flex:none}
+  header .name{font-weight:bold;font-size:11pt}
+  header .name a,header nav a{color:#000}
+  header .name a:visited,header nav a:visited{color:#000}
+  header nav{font-size:10pt}
+  header nav a{padding:0 4px}
+  main{padding:6px 8px 4px}
+  ol.stories{margin:0;padding-left:32px}
+  ol.stories li{margin:0 0 5px}
+  .titleline{font-size:10pt}
+  .domain{font-size:8pt;color:#828282}
+  .domain a{color:#828282}
+  .domain a:hover{color:#000}
+  .subtext{font-size:7pt;color:#828282;margin-top:1px}
+  .subtext a{color:#828282}
+  .summary{font-size:9pt;color:#333;margin-top:1px;max-width:760px}
+  .tag{color:#828282}
+  #more{display:inline-block;margin:10px 0 8px 32px;font-size:10pt;cursor:pointer;background:none;border:none;font-family:inherit;padding:0}
+  #more:hover{text-decoration:underline}
+  #status{margin:10px 0 8px 32px;color:#828282;font-size:9pt}
+  footer{border-top:2px solid #ff6600;padding:10px 8px 14px;text-align:center;font-size:9pt;color:#828282}
+  footer .links{margin-bottom:8px}
+  footer a{color:#000}
+  #filter{font-family:inherit;font-size:10pt;padding:2px 4px;width:260px;max-width:80%}
+  @media (max-width:750px){#wrap{width:100%;margin:0}.summary{max-width:100%}}
+</style>
+</head>
+<body>
+<div id="wrap">
+  <header>
+    <div class="logo">A</div>
+    <div class="name"><a href="./">AI Hacker News</a></div>
+    <nav>| <a href="./">latest</a> | <a href="#about">about</a></nav>
+  </header>
+
+  <main>
+    <ol class="stories" id="stories"></ol>
+    <div id="status">Loading the latest AI news…</div>
+    <button id="more" hidden>More</button>
+  </main>
+
+  <footer id="about">
+    <div class="links">AI Hacker News — Hacker News, but only AI. New models, research, startups, policy and tools, gathered from across the web and updated every few hours.</div>
+    <label>Search loaded stories: <input id="filter" type="text" placeholder="filter by title, source or tag"></label>
+  </footer>
+</div>
+
+<script>
+(function(){
+  "use strict";
+  var PAGE = 30;                 // stories per "More" click, like HN
+  var FIRST_FILE = "latest.json"; // always start from the latest file
+  var loaded = [];               // all records fetched so far, newest first
+  var shown = 0;                 // how many are currently rendered
+  var nextFile = FIRST_FILE;     // file to fetch next (follows the `link` chain)
+  var fetching = false;
+
+  var listEl = document.getElementById("stories");
+  var statusEl = document.getElementById("status");
+  var moreBtn = document.getElementById("more");
+  var filterEl = document.getElementById("filter");
+
+  function domainOf(url){
+    try { return new URL(url).hostname.replace(/^www\./,""); } catch(e){ return ""; }
+  }
+  function timeAgo(iso){
+    var t = Date.parse(iso); if (isNaN(t)) return "";
+    var s = Math.max(0, (Date.now() - t) / 1000);
+    if (s < 3600)  return Math.max(1, Math.floor(s/60)) + " minutes ago";
+    if (s < 86400) return Math.floor(s/3600) + " hours ago";
+    return Math.floor(s/86400) + " days ago";
+  }
+  function esc(s){
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function(c){
+      return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];
+    });
+  }
+
+  function render(){
+    var q = filterEl.value.trim().toLowerCase();
+    listEl.innerHTML = "";
+    var n = 0;
+    for (var i = 0; i < shown && i < loaded.length; i++){
+      var r = loaded[i];
+      if (q){
+        var hay = (r.title + " " + (r.source||"") + " " + (r.tags||[]).join(" ")).toLowerCase();
+        if (hay.indexOf(q) === -1) continue;
+      }
+      n++;
+      var li = document.createElement("li");
+      li.value = i + 1; // keep the global rank, HN-style
+      var dom = domainOf(r.url);
+      var sub = [];
+      if (r.published_at) sub.push(esc(timeAgo(r.published_at)));
+      if (r.source) sub.push(esc(r.source));
+      if (r.tags && r.tags.length) sub.push('<span class="tag">' + esc(r.tags.join(", ")) + "</span>");
+      li.innerHTML =
+        '<span class="titleline"><a href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(r.title) + "</a>" +
+        (dom ? ' <span class="domain">(<a href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(dom) + "</a>)</span>" : "") +
+        "</span>" +
+        (r.summary ? '<div class="summary">' + esc(r.summary) + "</div>" : "") +
+        '<div class="subtext">' + sub.join(" | ") + "</div>";
+      listEl.appendChild(li);
+    }
+    if (!loaded.length){
+      statusEl.textContent = "No stories yet — check back soon.";
+    } else if (q && !n){
+      statusEl.textContent = "No loaded stories match that filter. Click More to load older stories.";
+    } else {
+      statusEl.textContent = "";
+    }
+    moreBtn.hidden = !(shown < loaded.length || nextFile);
+  }
+
+  // Fetch the next JSON file in the chain: latest.json, then whatever its
+  // `link` field points to (an archive), then that archive's `link`, etc.
+  function fetchNext(){
+    if (fetching || !nextFile) return Promise.resolve();
+    fetching = true;
+    statusEl.textContent = "Loading…";
+    var file = nextFile;
+    return fetch(file, {cache: "no-cache"})
+      .then(function(res){ if (!res.ok) throw new Error(res.status); return res.json(); })
+      .then(function(data){
+        var recs = (data && data.records) || [];
+        // Defensive de-duplication by URL, in case a file ever repeats one.
+        var seen = {};
+        loaded.forEach(function(r){ seen[r.url] = 1; });
+        recs.forEach(function(r){ if (r && r.url && !seen[r.url]){ seen[r.url] = 1; loaded.push(r); } });
+        nextFile = (data && data.link) || null;
+      })
+      .catch(function(){
+        nextFile = null;
+        if (!loaded.length) statusEl.textContent = "Could not load latest.json — please try again later.";
+      })
+      .then(function(){ fetching = false; });
+  }
+
+  function showMore(){
+    var target = shown + PAGE;
+    // Keep fetching archive files until we have a full page or the chain ends.
+    (function step(){
+      if (shown < loaded.length){
+        shown = Math.min(target, loaded.length);
+        render();
+        if (shown < target && nextFile){ fetchNext().then(step); }
+        return;
+      }
+      if (nextFile){ fetchNext().then(step); }
+      else render();
+    })();
+  }
+
+  moreBtn.addEventListener("click", showMore);
+  filterEl.addEventListener("input", render);
+  showMore();
+})();
+</script>
+</body>
+</html>
