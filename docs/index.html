@@ -70,6 +70,8 @@
   .domain{font-size:12.5px; color:var(--faint); font-weight:400; white-space:nowrap}
   .summary{color:#334155; font-size:14px; margin-top:3px}
   .subtext{color:var(--muted); font-size:12.5px; margin-top:5px; display:flex; gap:8px; flex-wrap:wrap; align-items:center}
+  .credit{color:var(--faint); font-size:12.5px; margin-top:3px}
+  .credit a{color:var(--accent); font-weight:600}
   .pill{
     background:#eef2ff; color:var(--accent); border:1px solid #e0e7ff;
     border-radius:999px; padding:0 8px; font-size:11.5px; line-height:19px;
@@ -179,6 +181,7 @@
           (dom ? ' <span class="domain">' + esc(dom) + "</span>" : "") + "</span>" +
           (r.summary ? '<div class="summary">' + esc(r.summary) + "</div>" : "") +
           '<div class="subtext">' + meta.join(" · ") + (pills ? " " + pills : "") + "</div>" +
+          (r.submitted_by ? '<div class="credit">by <a href="https://github.com/' + esc(r.submitted_by) + '" target="_blank" rel="noopener">@' + esc(r.submitted_by) + "</a></div>" : "") +
         "</div>";
       li.querySelector(".rank").textContent = (i + 1) + ".";
       listEl.appendChild(li);

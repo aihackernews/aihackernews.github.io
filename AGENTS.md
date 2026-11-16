@@ -148,7 +148,10 @@ normally does this automatically.
   issues: validates (real AI news, not ads/promo, specific story, fresh,
   not a duplicate of latest.json), adds accepted ones via
   `tools/update_latest.py` (LINK → entry links the article; CONTENT → entry
-  links the issue itself, source "Community submission"). Reopened appeals
+  links the issue itself, source "Community submission"). Accepted records
+  also carry `submitted_by` = the submitter's GitHub login, and the front
+  page renders a "by @handle" credit line under the story. Cron-gathered
+  stories never carry `submitted_by` (no credit line). Reopened appeals
   it cannot decide are escalated to the owner in chat, never auto-rejected
   twice.
 - Issue bookkeeping (comments/closes) NEVER uses API tokens or the GitHub
