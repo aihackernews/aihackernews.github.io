@@ -108,6 +108,18 @@ Every data file (`latest.json` and every archive) has exactly this shape:
   same-story check is on you.)
 - **AI only:** models, research, AI products/tools, AI startups and funding,
   AI policy/regulation, AI infrastructure. No general tech news.
+- **General-audience content policy (applies to gathered AND submitted
+  stories):** this site is for the general public. Never add:
+  - pornographic or sexually explicit material, in text or imagery;
+  - stories whose subject is a tool, app or service for creating
+    pornography or sexualized imagery — "undress"/nudify apps, explicit
+    AI-companion products, deepfake-porn generators — even when the story
+    is genuinely AI-related and even when framed as a product launch;
+  - graphic gore or content whose main appeal is shock value.
+  The line is the linked content's own nature: straight news coverage from
+  a reputable outlet ABOUT such topics (regulation, bans, safety research,
+  platform enforcement) is acceptable; linking the adult product/tool
+  itself, or an article that promotes it, is not. When in doubt, skip it.
 - Prefer primary sources and reputable outlets; link the original article.
 
 ## Rotation rule (archive creation)
