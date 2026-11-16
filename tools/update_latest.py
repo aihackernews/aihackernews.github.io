@@ -51,6 +51,21 @@ def norm_url(u: str) -> str:
 def norm_title(t: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", (t or "").lower()).strip()
 
+# Aggregator/roundup titles are not entries (see AGENTS.md "Specific stories
+# only"). Matched against the normalized title. Aggregator pages are sources
+# to mine for individual stories, never records themselves.
+AGGREGATOR_PATTERNS = [
+    "daily briefing", "frontier daily", "news today", "this week in ai",
+    "week in ai", "weekly roundup", "news roundup", "daily roundup",
+    "roundup", "news digest", "daily digest", "research digest",
+    "the day in ai", "every major release", "week that redefined",
+    "ai news daily", "daily ai news",
+]
+
+def is_aggregator_title(t: str) -> bool:
+    nt = norm_title(t)
+    return any(p in nt for p in AGGREGATOR_PATTERNS)
+
 def parse_dt(s):
     if not s:
         return None
@@ -94,6 +109,8 @@ def main():
             rejected.append((r["title"], f"too old ({age.days}d > {args.max_age_days}d)")); continue
         if age < timedelta(days=-1):
             rejected.append((r["title"], "future-dated")); continue
+        if is_aggregator_title(r["title"]):
+            rejected.append((r["title"], "aggregator/roundup title — extract a specific story instead")); continue
         nu, nt = norm_url(r["url"]), norm_title(r["title"])
         if nu in existing_urls:
             rejected.append((r["title"], "duplicate URL")); continue

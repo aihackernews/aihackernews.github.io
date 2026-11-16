@@ -61,6 +61,21 @@ Every data file (`latest.json` and every archive) has exactly this shape:
 
 ## News quality rules
 
+- **Specific stories only — NEVER aggregator/roundup entries.** Every record
+  must be ONE specific topic: a single announcement, release, deal, incident
+  or finding, with a headline that names that topic. Do NOT add entries that
+  are themselves summaries of many stories — daily briefings, "AI news
+  today", week-in-review posts, roundups, digests, "every major release"
+  listicles, or an aggregator's front page. Those pages are *sources to
+  mine*, not entries: open them, find the individual stories inside, and add
+  each worthwhile one as its own record, linking the specific story (prefer
+  the original article the aggregator links to; a discussion link such as a
+  Hacker News item page is acceptable when that is the link provided).
+  Example: do NOT add "AI Frontier Daily Briefing: 2026-11-15
+  (thecontext.dev)". DO add the specific story inside it: "Nvidia allegedly
+  funded startups to buy its own GPUs" →
+  https://news.ycombinator.com/item?id=50493251
+  (The update script also rejects titles that look like briefings/roundups.)
 - **Fresh only:** only add stories published within the last 7 days
   (the update script rejects anything older, and anything future-dated).
 - **No duplicates:** never add a story whose URL or title already exists in
