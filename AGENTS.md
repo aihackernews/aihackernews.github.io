@@ -52,6 +52,9 @@ it to any new HTML page you create:
   unaffected. The hand-written parts of `index.html` still almost never
   change; the marked blocks change mechanically. `docs/robots.txt`
   allows all crawlers and points to the sitemap.
+- `docs/google9924337293cb86b7.html` is the Google Search Console
+  ownership-verification file. Never delete or edit it — removing it
+  unverifies the property.
 
 ## Data format
 
