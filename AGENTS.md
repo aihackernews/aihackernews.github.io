@@ -59,6 +59,29 @@ Every data file (`latest.json` and every archive) has exactly this shape:
   - `added_at` — ISO 8601 UTC, stamped by the update script
   - `tags` — a few short lowercase tags
 
+## Where news comes from (sourcing order)
+
+`sources.json` in the repo root is the FIXED source list. Work in this order:
+
+1. **Fixed list first.** Check every source in `sources.json` for new
+   stories (lab blogs first — OpenAI, Anthropic, DeepMind, Meta AI, Mistral,
+   xAI, Cohere, NVIDIA, Microsoft Research, AWS ML, Apple ML — then Hugging
+   Face, arXiv cs.AI, Hacker News, then trade press). A `403`/`429` from a
+   plain fetch usually means bot protection, not a dead source — fall back
+   to browser/search for that source instead of dropping it.
+2. **Keep the list current.** Every run: quick health check — a source that
+   is genuinely gone (domain dead / section discontinued, confirmed via
+   search, not just a bot block) gets removed. Once a week (the Sunday
+   run): a full review — verify every URL still lands on the right section,
+   fix moved URLs, and consider adding sources that have become important
+   (a new major lab, a publication that keeps breaking AI stories). Keep the
+   list focused (~15–25 sources); update the `updated` date and commit
+   `sources.json` changes together with the news commit, noting list changes
+   in the commit message.
+3. **Open internet last.** After the fixed list, search the open web for
+   anything the list missed (breaking news, smaller outlets, primary
+   documents).
+
 ## News quality rules
 
 - **Specific stories only — NEVER aggregator/roundup entries.** Every record
