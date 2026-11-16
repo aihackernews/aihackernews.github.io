@@ -55,6 +55,12 @@ it to any new HTML page you create:
 - `docs/google9924337293cb86b7.html` is the Google Search Console
   ownership-verification file. Never delete or edit it — removing it
   unverifies the property.
+- AI-agent discovery: `docs/llms.txt` describes the site for AI agents
+  and points them at `latest.json`; `docs/robots.txt` explicitly welcomes
+  the major AI crawlers by name. The render workflow also pings IndexNow
+  (Bing et al.) for the homepage after each update, using the public key
+  in `docs/3ce4bd9d41f30ad9f1fa81025eff2671.txt` — never delete that key
+  file or the IndexNow validation breaks.
 
 ## Data format
 
