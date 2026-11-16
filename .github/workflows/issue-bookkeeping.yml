@@ -1,0 +1,72 @@
+name: Issue bookkeeping
+
+# Community-submission bookkeeping without any external credentials.
+#
+# The submissions processor (an external agent with git push access but no
+# GitHub API token) queues actions by committing JSON files to issue-actions/:
+#
+#   issue-actions/issue-<N>.json
+#   {
+#     "issue": 12,
+#     "comment": "text to post as a comment, or null",
+#     "close": "completed" | "not_planned" | null
+#   }
+#
+# This workflow performs the comment/close with the built-in GITHUB_TOKEN,
+# then removes the queue files in a follow-up commit. The cleanup push
+# re-triggers this workflow, but with an empty queue it exits immediately.
+#
+# Requires: Settings -> Actions -> General -> Workflow permissions =
+# "Read and write permissions" (so GITHUB_TOKEN may write issues/contents).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "issue-actions/**"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: write
+
+concurrency:
+  group: issue-bookkeeping
+  cancel-in-progress: false
+
+jobs:
+  bookkeep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Process queued issue actions
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -u
+          shopt -s nullglob
+          files=(issue-actions/issue-*.json)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "Queue is empty; nothing to do."
+            exit 0
+          fi
+          for f in "${files[@]}"; do
+            echo "== $f"
+            issue=$(jq -r '.issue' "$f")
+            comment=$(jq -r '.comment // empty' "$f")
+            close=$(jq -r '.close // empty' "$f")
+            if [ -n "$comment" ]; then
+              gh issue comment "$issue" --repo "$GITHUB_REPOSITORY" --body "$comment"
+            fi
+            if [ "$close" = "completed" ]; then
+              gh issue close "$issue" --repo "$GITHUB_REPOSITORY" --reason completed
+            elif [ "$close" = "not_planned" ]; then
+              gh issue close "$issue" --repo "$GITHUB_REPOSITORY" --reason "not planned"
+            fi
+            git rm -q "$f"
+          done
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "bookkeeping: processed $(echo "${files[@]}" | wc -w) issue action(s)"
+          git push
