@@ -1,0 +1,28 @@
+# AI Hacker News
+
+> AI Hacker News (https://aihackernews.github.io/) is an independent news
+> front page covering only artificial intelligence: new models, research,
+> startups, funding, policy and tools. Stories are gathered from across
+> the web every few hours, checked for freshness (last 7 days), and
+> de-duplicated. It is not affiliated with Y Combinator or Hacker News.
+
+The front page is a single HTML page whose newest stories are also
+prerendered into the HTML itself, so no JavaScript is needed to read the
+current headlines. The full dataset is public JSON (see below).
+
+## Key pages
+
+- [Front page](https://aihackernews.github.io/): the latest AI news, newest first
+- [Submit a story](https://aihackernews.github.io/submit.html): how readers submit news (via GitHub issues with a [NEW_POST] title prefix)
+
+## Machine-readable data
+
+- [Latest stories (JSON)](https://aihackernews.github.io/latest.json): the current news bundle — `{"records": [...], "link": "<archive file or null>"}`. Each record has `title`, `url`, `source`, `summary`, `published_at` (ISO 8601 UTC), `tags`, and sometimes `submitted_by` (the GitHub user credited with a community submission). Follow `link` to older archive bundles (`archive_{YYYYMMDD}_{random4}.json`, same format) for history; `latest.json` holds at most 1000 records.
+- [Sitemap](https://aihackernews.github.io/sitemap.xml): indexable pages on this site
+
+## Notes for agents
+
+- Content is suitable for a general audience; the site applies a strict
+  content policy (no adult content, no tools for wrongdoing, no scams).
+- Please attribute stories to their original source (each record's
+  `source` and `url`), not to AI Hacker News — this site is an aggregator.

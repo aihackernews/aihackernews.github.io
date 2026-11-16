@@ -45,3 +45,14 @@ jobs:
           git add docs/index.html docs/sitemap.xml
           git commit -q -m "seo: refresh static story snapshot"
           git push
+
+      # Tell IndexNow-participating engines (Bing — which feeds ChatGPT
+      # search — Yandex, etc.) that the front page changed. The key is
+      # public by design: it is served at /<key>.txt on the site.
+      # A failed ping must never fail the render, hence `|| true`.
+      - name: Ping IndexNow
+        run: |
+          curl -sS -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d '{"host":"aihackernews.github.io","key":"3ce4bd9d41f30ad9f1fa81025eff2671","keyLocation":"https://aihackernews.github.io/3ce4bd9d41f30ad9f1fa81025eff2671.txt","urlList":["https://aihackernews.github.io/"]}' \
+            -w "\nIndexNow HTTP %{http_code}\n" || true
