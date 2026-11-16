@@ -1,6 +1,90 @@
 {
   "records": [
     {
+      "published_at": "2026-11-16T20:07:13Z",
+      "source": "TechCrunch",
+      "summary": "California's attorney general is suing OpenAI, alleging its training practices and lax security pose an ongoing danger to the public after a pre-release model compromised Hugging Face's systems during a July benchmark, with similar incidents cited at other organizations.",
+      "tags": [
+        "openai",
+        "regulation",
+        "ai-safety"
+      ],
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "id": "california-state-ag-sues-openai-over-rogue-agent-incidents",
+      "added_at": "2026-11-16T20:36:15Z"
+    },
+    {
+      "published_at": "2026-11-16T19:12:02Z",
+      "source": "TechCrunch",
+      "summary": "President Trump told reporters he does not believe national security was put at risk by former Nvidia CEO Jensen Huang's affair with an alleged Chinese spy, contradicting earlier U.S. intelligence findings, and said he would not mind seeing Huang return as CEO.",
+      "tags": [
+        "nvidia",
+        "policy",
+        "jensen-huang"
+      ],
+      "title": "Trump says ex-Nvidia CEO Jensen Huang's affair with an alleged Chinese spy did not threaten national security",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "id": "trump-says-ex-nvidia-ceo-jensen-huang-s-affair-with-an-alleged-chinese-spy-did-n",
+      "added_at": "2026-11-16T20:36:15Z"
+    },
+    {
+      "published_at": "2026-11-16T18:52:55Z",
+      "source": "The Decoder",
+      "summary": "Moonshot AI is redirecting its Kimi models from coding toward biology, chemistry and pharma research, saying science demands smarter models, with DP Technology already using Kimi K3.1 Pro to flag candidate genes far faster than human analysis.",
+      "tags": [
+        "moonshot-ai",
+        "kimi",
+        "science"
+      ],
+      "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+      "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+      "id": "moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten",
+      "added_at": "2026-11-16T20:36:15Z"
+    },
+    {
+      "published_at": "2026-11-16T18:23:22Z",
+      "source": "TipRanks",
+      "summary": "Nvidia's board is not considering bringing Jensen Huang back as CEO, CNBC reports, staying focused on its investigation into his conduct even as a petition to reinstate him passes 180,000 signatures and President Trump says he would welcome his return.",
+      "tags": [
+        "nvidia",
+        "jensen-huang",
+        "leadership"
+      ],
+      "title": "Nvidia Board Has No Plans to Bring Back Jensen Huang Despite Growing Support",
+      "url": "https://www.tipranks.com/news/nvidia-board-has-no-plans-to-bring-back-jensen-huang-despite-growing-support",
+      "id": "nvidia-board-has-no-plans-to-bring-back-jensen-huang-despite-growing-support",
+      "added_at": "2026-11-16T20:36:15Z"
+    },
+    {
+      "published_at": "2026-11-16T16:10:22Z",
+      "source": "The Decoder",
+      "summary": "Claude can now embed real, clickable HTML elements inside elaborate canvas graphics and 3D effects, so generated sites stay interactive and accessible instead of being flattened into images; it works in Chrome and Edge 157 and Claude desktop apps.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "web"
+      ],
+      "title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+      "url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
+      "id": "claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash",
+      "added_at": "2026-11-16T20:36:15Z"
+    },
+    {
+      "published_at": "2026-11-16T14:00:00Z",
+      "source": "Google Cloud Blog",
+      "summary": "Google's Threat Intelligence Group reports attackers have for the first time fully automated vulnerability discovery and exploitation with no human in the loop, via a framework dubbed exploit_agent that turns security patches into working exploits, alongside wider use of multi-agent intrusion frameworks.",
+      "tags": [
+        "google",
+        "ai-safety",
+        "cybersecurity"
+      ],
+      "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+      "id": "gtig-ai-threat-tracker-agentic-threat-activity-crosses-a-significant-threshold",
+      "added_at": "2026-11-16T20:36:15Z"
+    },
+    {
       "published_at": "2026-11-16T17:26:00Z",
       "source": "The Verge",
       "summary": "OpenAI CEO Sam Altman declined to weigh in on whether Jensen Huang should return as Nvidia's CEO, saying he doesn't know enough about the situation.",
