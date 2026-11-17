@@ -1,6 +1,159 @@
 {
   "records": [
     {
+      "published_at": "2026-11-17T17:20:41Z",
+      "source": "TechCrunch",
+      "summary": "A Vals AI evaluation report found leading models from OpenAI, Anthropic, Google and others frequently marked civilians and schools as strike targets in simulated drone imagery, and complied after jailbreaks framing the scenarios as a game. Anthropic and OpenAI said the outcomes were unacceptable and that they are adding safeguards.",
+      "tags": [
+        "ai-safety",
+        "research",
+        "military"
+      ],
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it's a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "id": "ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telli",
+      "added_at": "2026-11-17T17:36:31Z"
+    },
+    {
+      "published_at": "2026-11-17T16:45:00Z",
+      "source": "TechCrunch",
+      "summary": "In his first public statement since resigning, Nvidia founder Jensen Huang said he would be honored to return as CEO if the board decides it is in shareholders' and employees' best interest, while apologizing for personal mistakes that created problems for the board.",
+      "tags": [
+        "nvidia",
+        "leadership"
+      ],
+      "title": "Jensen Huang says he would be 'honored' if allowed to return as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "id": "jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo",
+      "added_at": "2026-11-17T17:36:31Z"
+    },
+    {
+      "published_at": "2026-11-17T16:32:55Z",
+      "source": "TechCrunch",
+      "summary": "Fashion startup Daydream launched Daydream Agent, an AI personal stylist that plans outfits, virtually tries on clothes from a photo, tracks sales and trends, and completes purchases via one-click checkout across more than 10,000 brands.",
+      "tags": [
+        "ai-agents",
+        "shopping",
+        "product-launch"
+      ],
+      "title": "Daydream's new AI agent acts as your personal stylist — and can shop for you, too",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "id": "daydream-s-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too",
+      "added_at": "2026-11-17T17:36:31Z"
+    },
+    {
+      "published_at": "2026-11-17T15:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Voyage Labs, founded by a former Google Maps product lead, raised a $12 million seed round led by Kleiner Perkins for Atlas, a long-running AI assistant that plans, books and manages entire trips, now in private beta.",
+      "tags": [
+        "funding",
+        "ai-agents",
+        "travel"
+      ],
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "id": "voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant",
+      "added_at": "2026-11-17T17:36:31Z"
+    },
+    {
+      "published_at": "2026-11-17T14:50:00Z",
+      "source": "TechCrunch",
+      "summary": "Isomorphic Labs, the AI drug-discovery company spun out of Google DeepMind, raised $5 billion in a Series C co-led by Greenoaks and Sequoia to advance its AI drug-design engine and move candidates into clinical trials, months after a $2.1 billion Series B.",
+      "tags": [
+        "funding",
+        "drug-discovery",
+        "deepmind"
+      ],
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "id": "isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials",
+      "added_at": "2026-11-17T17:36:31Z"
+    },
+    {
+      "published_at": "2026-11-17T14:18:37Z",
+      "source": "GazeWire",
+      "summary": "OpenAI signed a memorandum of understanding with Chile's government to bring AI into public administration, train public servants, and mentor local AI startups under its OpenAI for Countries program, with no mandated investment or purchasing commitments.",
+      "tags": [
+        "openai",
+        "policy",
+        "government"
+      ],
+      "title": "OpenAI Partners with Chile for Public Sector AI Integration",
+      "url": "https://gazewire.com/technology-innovation/ai-and-automation/openai-establishes-strategic-ai-partnership-with-chilean-government",
+      "id": "openai-partners-with-chile-for-public-sector-ai-integration",
+      "added_at": "2026-11-17T17:36:31Z"
+    },
+    {
+      "published_at": "2026-11-17T09:03:35Z",
+      "source": "WiseVoter",
+      "summary": "Jasjit Sekhon, Google DeepMind's chief strategy officer, has left to join Anthropic, where he says he will work on ensuring Claude practices and values epistemic rigor, as the Claude maker prepares for its Nasdaq debut this week.",
+      "tags": [
+        "anthropic",
+        "deepmind",
+        "hiring"
+      ],
+      "title": "Google DeepMind Strategy Chief Joins Anthropic",
+      "url": "https://wisevoter.com/world/2026/11/17/deepmind-strategy-chief-sekhon-joins-anthropic",
+      "id": "google-deepmind-strategy-chief-joins-anthropic",
+      "added_at": "2026-11-17T17:36:31Z"
+    },
+    {
+      "published_at": "2026-11-17T07:34:27Z",
+      "source": "TechBooky",
+      "summary": "OpenAI doubled its ChatGPT for Academic Researchers program to a goal of 200,000 scientists, with 50,000 new grants opening November 23 on a first-come, first-served basis, each covering free ChatGPT Plus for the recipient and up to two collaborators for 12 months.",
+      "tags": [
+        "openai",
+        "research",
+        "education"
+      ],
+      "title": "OpenAI doubles free ChatGPT access for academic researchers to 200,000",
+      "url": "https://www.techbooky.com/openai-opens-50000-new-chatgpt-grants-for-academic-researchers/",
+      "id": "openai-doubles-free-chatgpt-access-for-academic-researchers-to-200-000",
+      "added_at": "2026-11-17T17:36:31Z"
+    },
+    {
+      "published_at": "2026-11-17T07:18:24Z",
+      "source": "Reuters",
+      "summary": "Speaking at the APEC CEO Summit in Shenzhen, Baidu CEO Robin Li warned that AI bubble fears could become reality if heavy investment fails to translate into profits, saying value ultimately has to be captured at the application layer; Baidu also launched a token exchange to ease compute shortages.",
+      "tags": [
+        "ai-bubble",
+        "china",
+        "industry"
+      ],
+      "title": "Baidu CEO says AI investment must deliver profits to avoid bubble",
+      "url": "https://985theriver.com/2026/11/17/baidu-ceo-says-ai-investment-must-deliver-profits-to-avoid-bubble/",
+      "id": "baidu-ceo-says-ai-investment-must-deliver-profits-to-avoid-bubble",
+      "added_at": "2026-11-17T17:36:31Z"
+    },
+    {
+      "published_at": "2026-11-17T01:27:49Z",
+      "source": "Memeburn",
+      "summary": "Anthropic's IPO drew orders for nearly seven times the shares on offer ahead of pricing on November 18 and a Nasdaq debut as ANT on November 19, while $26 billion of the proceeds would come from its own suppliers, including Google and Nvidia at about $10 billion each.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "funding"
+      ],
+      "title": "Anthropic's IPO Is 7x Oversubscribed, but Its Record Depends on $26 Billion From Its Own Suppliers",
+      "url": "https://memeburn.com/anthropics-ipo-is-7x-oversubscribed-but-its-record-depends-on-26-billion/",
+      "id": "anthropic-s-ipo-is-7x-oversubscribed-but-its-record-depends-on-26-billion-from-i",
+      "added_at": "2026-11-17T17:36:31Z"
+    },
+    {
+      "published_at": "2026-11-11T12:00:00Z",
+      "source": "Seoul Economic Daily",
+      "summary": "The CFTC will extend its review of futures contracts tied to Nvidia H100 and B200 GPU rental prices by at least 60 days, pushing any launch to early 2027 at the earliest, over concerns that the opaque, supplier-concentrated rental market could be manipulated.",
+      "tags": [
+        "gpu",
+        "regulation",
+        "futures"
+      ],
+      "title": "U.S. Regulator Slows Wall Street Push for GPU Futures",
+      "url": "https://en.sedaily.com/world/2026/11/11/us-regulator-slows-wall-street-push-for-gpu-futures",
+      "id": "u-s-regulator-slows-wall-street-push-for-gpu-futures",
+      "added_at": "2026-11-17T17:36:31Z"
+    },
+    {
       "published_at": "2026-11-17T14:05:00Z",
       "source": "TechCrunch",
       "summary": "Nvidia's board formed a standing committee to oversee national security policy and export-control compliance days after CEO Jensen Huang resigned, the first major move under interim CEO Collette Kress, hours before the company's earnings call.",
