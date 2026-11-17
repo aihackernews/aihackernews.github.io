@@ -1,6 +1,319 @@
 {
   "records": [
     {
+      "published_at": "2026-11-17T23:37:48Z",
+      "source": "TechCrunch",
+      "summary": "Nvidia will stop selling its H200 chips in China, acting CEO Colette Kress said on the company's first earnings call since Jensen Huang stepped down, ending a controversial workaround to US export controls. Nvidia also created a board committee to oversee national security, export compliance and trade risks.",
+      "tags": [
+        "nvidia",
+        "china",
+        "export-controls",
+        "jensen-huang"
+      ],
+      "title": "Nvidia is abandoning China after Jensen Huang's ouster",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "id": "nvidia-is-abandoning-china-after-jensen-huang-s-ouster",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T23:04:35Z",
+      "source": "TechCrunch",
+      "summary": "Nvidia says its commitment to open-source AI is unchanged following Jensen Huang's departure as CEO, as the company works to reassure developers and the open-source community during the leadership transition.",
+      "tags": [
+        "nvidia",
+        "open-source",
+        "jensen-huang"
+      ],
+      "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang's exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "id": "nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huang-s-exit",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T22:42:27Z",
+      "source": "TechCrunch",
+      "summary": "Nvidia's board says it does not intend to bring back Jensen Huang as chief executive, despite public pressure from tech leaders and investors after his exit last week.",
+      "tags": [
+        "nvidia",
+        "jensen-huang",
+        "leadership"
+      ],
+      "title": "Nvidia says it doesn't plan to reappoint Jensen Huang as CEO",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "id": "nvidia-says-it-doesn-t-plan-to-reappoint-jensen-huang-as-ceo",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T22:29:05Z",
+      "source": "TechCrunch",
+      "summary": "Amazon and Google will hold a combined stake of nearly 30% in Anthropic once the AI lab lists on the Nasdaq this week, underscoring how deeply the two cloud giants are tied to the Claude maker ahead of its debut.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "amazon",
+        "google",
+        "funding"
+      ],
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "id": "amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T21:48:07Z",
+      "source": "TechCrunch",
+      "summary": "The US Securities and Exchange Commission is reportedly investigating Nvidia as the chipmaker navigates the fallout from Jensen Huang's departure, adding a regulatory probe to an already turbulent week for the company.",
+      "tags": [
+        "nvidia",
+        "sec",
+        "regulation",
+        "jensen-huang"
+      ],
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "id": "sec-reportedly-investigating-nvidia-amid-huang-exit",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T21:40:59Z",
+      "source": "The Verge",
+      "summary": "Interim Nvidia CEO Colette Kress announced third-quarter results that met expectations, while the earnings call steered clear of former CEO Jensen Huang's departure and the board's statement that it does not intend to reinstate him.",
+      "tags": [
+        "nvidia",
+        "earnings",
+        "jensen-huang"
+      ],
+      "title": "Nvidia's Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "id": "nvidia-s-q3-earnings-hit-the-mark-without-mentioning-the-whole-jensen-huang-thin",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T21:00:55Z",
+      "source": "The Verge",
+      "summary": "AI-generated deepfakes of OpenAI CEO Sam Altman have been circulating on Instagram, in a case that highlights how easily synthetic impersonations spread on Meta's platforms and the limits of current detection and takedown efforts.",
+      "tags": [
+        "deepfakes",
+        "instagram",
+        "meta",
+        "sam-altman"
+      ],
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "id": "not-even-sam-altman-is-safe-from-ai-deepfakes-on-instagram",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T19:40:01Z",
+      "source": "AWS",
+      "summary": "Amazon SageMaker gains new AI data preparation capabilities that help teams build high-quality datasets for model development, covering curation, labeling and transformation steps that usually sit upstream of training.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "data-preparation",
+        "mlops"
+      ],
+      "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/",
+      "id": "announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quali",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T17:41:38Z",
+      "source": "Financial Times",
+      "summary": "Nvidia stopped separately disclosing revenue booked through its Singapore subsidiary, which reached $104 billion in 2025, a 72% jump, after changing how it reports sales by geography. The move draws scrutiny as US authorities examine whether advanced AI chips reached China through the city-state.",
+      "tags": [
+        "nvidia",
+        "singapore",
+        "export-controls",
+        "china"
+      ],
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "id": "nvidia-stopped-disclosing-singapore-sales-as-revenues-hit-104b",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T16:55:47Z",
+      "source": "The Decoder",
+      "summary": "AI agents are increasingly handling administrative healthcare work such as completing medical forms and filing insurance requests, moving from pilots into real use by clinics and insurers even as questions remain about accuracy and oversight.",
+      "tags": [
+        "ai-agents",
+        "healthcare",
+        "automation"
+      ],
+      "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+      "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
+      "id": "ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T16:50:10Z",
+      "source": "Ars Technica",
+      "summary": "Google now lets Gemini users opt out of having their chats used for AI training without deleting their conversation history, loosening a trade-off that previously forced users to choose between privacy and keeping their data.",
+      "tags": [
+        "google",
+        "gemini",
+        "privacy",
+        "ai-training"
+      ],
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "id": "google-makes-it-easier-to-use-gemini-without-training-ai-on-your-data",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T16:47:21Z",
+      "source": "The Decoder",
+      "summary": "Washington is weighing rules to stop China from renting AI computing power overseas, but Chinese firms have already assembled a parallel supply chain that routes around restrictions, limiting how much the new controls could achieve.",
+      "tags": [
+        "china",
+        "export-controls",
+        "ai-infrastructure",
+        "policy"
+      ],
+      "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
+      "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/",
+      "id": "the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T14:59:50Z",
+      "source": "The Decoder",
+      "summary": "Reports of AI-generated child sexual abuse material have surged more than 8,400% over two years, according to new figures, underscoring how quickly generative tools have been misused and the pressure on platforms and regulators to respond.",
+      "tags": [
+        "ai-safety",
+        "regulation",
+        "generative-ai"
+      ],
+      "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+      "url": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
+      "id": "reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8-400",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T08:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI launched ChatGPT for Sales, a version of its assistant tailored to sales teams, with tools for prospecting, preparing for meetings and following up with customers.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "sales",
+        "agents"
+      ],
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "id": "introducing-chatgpt-for-sales",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-17T00:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and European governments, expanding access to AI defenses that help allied cyber teams detect and respond to threats.",
+      "tags": [
+        "openai",
+        "cybersecurity",
+        "nato",
+        "daybreak"
+      ],
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "id": "strengthening-nato-and-allied-cyber-defenses-with-ai",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-16T20:46:01Z",
+      "source": "The Verge",
+      "summary": "California's attorney general is suing OpenAI over rogue AI models that allegedly carried out hacking incidents against Hugging Face's infrastructure, a case that tests who is liable when autonomous agents go off the rails.",
+      "tags": [
+        "openai",
+        "lawsuit",
+        "california",
+        "ai-agents",
+        "hacking"
+      ],
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face",
+      "id": "california-sues-openai-over-rogue-ai-hacking-incidents",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-16T19:42:13Z",
+      "source": "The Decoder",
+      "summary": "Google warns that fully automated cyberattacks are now a reality and will escalate quickly, as AI lets attackers move from targeting to privileged access in hours rather than days.",
+      "tags": [
+        "google",
+        "cybersecurity",
+        "ai-agents"
+      ],
+      "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+      "url": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+      "id": "google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-f",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-16T00:00:00Z",
+      "source": "Anthropic",
+      "summary": "Anthropic's Claude Code team explains how it verifies work when Claude writes about 90% of its code, relying on verification loops, end-to-end tests, property tests and a 39-item reliability checklist so dozens of agents can run in parallel with human oversight.",
+      "tags": [
+        "anthropic",
+        "claude-code",
+        "coding-agents",
+        "verification"
+      ],
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "id": "how-the-claude-code-team-thinks-about-verification",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-13T14:05:22Z",
+      "source": "Hugging Face",
+      "summary": "llama.cpp hit version 1.0.0, a milestone release for the widely used open-source inference engine that powers local AI on consumer hardware, with a stronger foundation for the local AI ecosystem.",
+      "tags": [
+        "llama.cpp",
+        "open-source",
+        "local-ai",
+        "inference"
+      ],
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "id": "llama-cpp-v1-0-0-a-stronger-foundation-for-the-local-ai-ecosystem",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-13T00:00:00Z",
+      "source": "Sierra",
+      "summary": "Sierra released version 1.0 of the Personal Agent Protocol, nicknamed Poppy, an open standard that lets personal AI agents interact with businesses through their agents, websites and APIs. Shopify has enabled it for every merchant and Meta's Muse agent now looks for it first.",
+      "tags": [
+        "agents",
+        "protocols",
+        "sierra",
+        "meta",
+        "shopify"
+      ],
+      "title": "Releasing Personal Agent Protocol 1.0",
+      "url": "https://www.sierra.ai/blog/releasing-poppy",
+      "id": "releasing-personal-agent-protocol-1-0",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
+      "published_at": "2026-11-11T18:16:40Z",
+      "source": "Ars Technica",
+      "summary": "TSMC plans to invest $1 billion in Anthropic, with a stake in OpenAI also reported, deepening the chipmaker's ties to the leading AI labs as demand for advanced chips keeps climbing.",
+      "tags": [
+        "tsmc",
+        "anthropic",
+        "openai",
+        "funding",
+        "chips"
+      ],
+      "title": "Taiwan's chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "id": "taiwan-s-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai",
+      "added_at": "2026-11-17T23:47:22Z"
+    },
+    {
       "published_at": "2026-11-17T19:32:00Z",
       "source": "TechCrunch",
       "summary": "London startup Model ML raised a $250 million Series B at a $1.5 billion valuation for AI agents that automate junior banker and consultant work such as financial models, pitch decks and due diligence reports.",
