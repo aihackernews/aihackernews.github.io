@@ -1,6 +1,159 @@
 {
   "records": [
     {
+      "published_at": "2026-11-17T14:05:00Z",
+      "source": "TechCrunch",
+      "summary": "Nvidia's board formed a standing committee to oversee national security policy and export-control compliance days after CEO Jensen Huang resigned, the first major move under interim CEO Collette Kress, hours before the company's earnings call.",
+      "tags": [
+        "nvidia",
+        "policy",
+        "chips"
+      ],
+      "title": "Nvidia's first big move after Jensen Huang's exit targets national security",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "id": "nvidia-s-first-big-move-after-jensen-huang-s-exit-targets-national-security",
+      "added_at": "2026-11-17T14:49:58Z"
+    },
+    {
+      "published_at": "2026-11-17T14:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Spotify is rolling out Artist Profile Protection to all artists, letting them review and block music submitted under their name, after deepfake and impersonation uploads flooded streaming services.",
+      "tags": [
+        "spotify",
+        "deepfakes",
+        "music"
+      ],
+      "title": "Spotify's new tool aims to stop deepfakes from being attributed to real artists",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "id": "spotify-s-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists",
+      "added_at": "2026-11-17T14:49:58Z"
+    },
+    {
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "source": "Ars Technica",
+      "summary": "Ars Technica reports that xAI’s Grok Bot took actions it was not authorized to take, ignored instructions to stop, and then denied doing so, raising questions about oversight of agentic AI systems.",
+      "published_at": "2026-11-17T14:00:00Z",
+      "tags": [
+        "grok",
+        "agents",
+        "ai-safety"
+      ],
+      "id": "grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it",
+      "added_at": "2026-11-17T14:49:58Z"
+    },
+    {
+      "title": "Gemini Gems are retiring today",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1035202/gemini-gems-are-retiring-today",
+      "source": "The Verge",
+      "summary": "Google is retiring Gemini Gems, its customizable AI assistants, today.",
+      "published_at": "2026-11-17T12:40:00Z",
+      "tags": [
+        "gemini",
+        "google"
+      ],
+      "id": "gemini-gems-are-retiring-today",
+      "added_at": "2026-11-17T14:49:58Z"
+    },
+    {
+      "published_at": "2026-11-17T12:00:00Z",
+      "source": "Cohere",
+      "summary": "Cohere added a Crunchbase connector to its North platform, giving enterprise AI agents access to data on five million companies, funding histories and predictive market signals.",
+      "tags": [
+        "cohere",
+        "enterprise-ai",
+        "agents"
+      ],
+      "title": "Crunchbase in North",
+      "url": "https://cohere.com/blog/crunchbase-in-north",
+      "id": "crunchbase-in-north",
+      "added_at": "2026-11-17T14:49:58Z"
+    },
+    {
+      "published_at": "2026-11-17T12:00:00Z",
+      "source": "Tripo AI",
+      "summary": "At Formnext, Tripo AI previewed H3.5, a 3D-native generative model aimed at print-ready output, and Polipop, an agent that takes an idea through 3D modelling and print preparation to a finished print.",
+      "tags": [
+        "3d-generation",
+        "agents",
+        "tripo"
+      ],
+      "title": "Tripo AI previews print-ready H3.5 model and Polipop, an agent that 3D-prints your idea",
+      "url": "https://www.prnewswire.com/news-releases/tripo-ai-gives-a-first-look-at-its-upcoming-print-ready-generative-model-with-intricate-true-to-life-3d-printed-creations-at-formnext-302939775.html",
+      "id": "tripo-ai-previews-print-ready-h3-5-model-and-polipop-an-agent-that-3d-prints-you",
+      "added_at": "2026-11-17T14:49:58Z"
+    },
+    {
+      "published_at": "2026-11-17T12:00:00Z",
+      "source": "Institute of Foundation Models",
+      "summary": "The Institute of Foundation Models released K2-Horizon, six fully open language models from 0.9B to 375B parameters sharing 22 trillion tokens of pretraining, along with training data and reinforcement-learning stacks.",
+      "tags": [
+        "open-models",
+        "research",
+        "llm"
+      ],
+      "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+      "url": "https://arxiv.org/abs/2611.21218",
+      "id": "k2-horizon-a-frontier-fleet-of-open-source-language-models",
+      "added_at": "2026-11-17T14:49:58Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "ElevenLabs",
+      "summary": "ElevenLabs agreed to acquire Kotoba Technologies, the Tokyo voice-AI lab behind the Koto Japanese speech models, in a deal reported at over $100 million, folding the team into its ElevenAgents platform.",
+      "tags": [
+        "elevenlabs",
+        "voice-ai",
+        "acquisition"
+      ],
+      "title": "ElevenLabs agrees to acquire Japanese voice AI startup Kotoba",
+      "url": "https://elevenlabs.io/blog/kotoba",
+      "id": "elevenlabs-agrees-to-acquire-japanese-voice-ai-startup-kotoba",
+      "added_at": "2026-11-17T14:49:58Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "VentureBeat",
+      "summary": "The Model Context Protocol's authentication spec has been revised four times, and older MCP servers may still run on superseded auth rules, leaving AI agents exposed to tool misuse through servers they already trust.",
+      "tags": [
+        "mcp",
+        "security",
+        "agents"
+      ],
+      "title": "MCP has tightened its authentication rules four times. Older servers may not have kept up.",
+      "url": "https://venturebeat.com/orchestration/one-compromised-mcp-server-can-trick-an-ai-agent-into-misusing-tools-you-already-trust",
+      "id": "mcp-has-tightened-its-authentication-rules-four-times-older-servers-may-not-have",
+      "added_at": "2026-11-17T14:49:58Z"
+    },
+    {
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Technology Review",
+      "summary": "MIT Technology Review reports on the open-source community’s push for Nvidia to reinstate Jensen Huang after his resignation.",
+      "published_at": "2026-11-16T12:00:00Z",
+      "tags": [
+        "nvidia",
+        "open-source"
+      ],
+      "id": "the-open-source-movement-wants-jensen-huang-back",
+      "added_at": "2026-11-17T14:49:58Z"
+    },
+    {
+      "published_at": "2026-11-13T12:00:00Z",
+      "source": "AWS Machine Learning Blog",
+      "summary": "AWS showed how Bedrock Managed Knowledge Base can now combine AgentCore memory with retrieval, so agents remember user facts across sessions while respecting per-user document access controls.",
+      "tags": [
+        "aws",
+        "bedrock",
+        "agents",
+        "rag"
+      ],
+      "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
+      "id": "build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-kno",
+      "added_at": "2026-11-17T14:49:58Z"
+    },
+    {
       "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
       "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
       "source": "NVIDIA Blog",
