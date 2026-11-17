@@ -1,6 +1,150 @@
 {
   "records": [
     {
+      "published_at": "2026-11-17T19:32:00Z",
+      "source": "TechCrunch",
+      "summary": "London startup Model ML raised a $250 million Series B at a $1.5 billion valuation for AI agents that automate junior banker and consultant work such as financial models, pitch decks and due diligence reports.",
+      "tags": [
+        "funding",
+        "ai-agents",
+        "finance"
+      ],
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "id": "model-ml-raises-250m-to-automate-investment-banking-grunt-work",
+      "added_at": "2026-11-17T20:38:56Z"
+    },
+    {
+      "published_at": "2026-11-17T19:02:00Z",
+      "source": "TechCrunch",
+      "summary": "Google is rolling out Gemini Tasks, an agentic mode that lets Gemini call businesses, book appointments and complete purchases, free to hundreds of millions of Gemini 4 Hydrogen users.",
+      "tags": [
+        "google",
+        "gemini",
+        "ai-agents"
+      ],
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "id": "google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases",
+      "added_at": "2026-11-17T20:38:56Z"
+    },
+    {
+      "published_at": "2026-11-17T18:48:00Z",
+      "source": "TechCrunch",
+      "summary": "Google is extending retention of temporary Gemini chats and history-off conversations from 72 hours to about two months for safety and security, and is splitting chat-history and AI-training controls into separate settings.",
+      "tags": [
+        "google",
+        "gemini",
+        "privacy",
+        "policy"
+      ],
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "id": "google-to-keep-gemini-chats-for-2-months-up-from-72-hours-even-with-history-off",
+      "added_at": "2026-11-17T20:38:56Z"
+    },
+    {
+      "published_at": "2026-11-17T18:36:03Z",
+      "source": "Microsoft",
+      "summary": "At Ignite 2026, Microsoft unveiled MAI Code 2 and MAI Code 2 Flash, its in-house agentic coding models now generally available in GitHub Copilot, claiming near-frontier coding performance at a fraction of the cost of rival models.",
+      "tags": [
+        "microsoft",
+        "coding",
+        "models",
+        "github-copilot"
+      ],
+      "title": "Microsoft launches MAI Code 2 and Code 2 Flash coding models in GitHub Copilot",
+      "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+      "id": "microsoft-launches-mai-code-2-and-code-2-flash-coding-models-in-github-copilot",
+      "added_at": "2026-11-17T20:38:56Z"
+    },
+    {
+      "published_at": "2026-11-17T18:30:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI released an updated Astra for Law, a GPT-6.2 Astra configuration for lawyers that tops Harvey's LAB-AA legal benchmark, and opened it to all ChatGPT Enterprise customers through a Trusted Access Program.",
+      "tags": [
+        "openai",
+        "legal",
+        "models"
+      ],
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "id": "astra-for-law-leads-in-legal-intelligence",
+      "added_at": "2026-11-17T20:38:56Z"
+    },
+    {
+      "published_at": "2026-11-17T18:04:16Z",
+      "source": "TechCrunch",
+      "summary": "Pedestal AI emerged from stealth with $4.7 million in seed funding to build AI agents that smooth delivery supply chains, already working with Fortune 500 companies and large shippers.",
+      "tags": [
+        "funding",
+        "ai-agents",
+        "supply-chain"
+      ],
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "id": "pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain",
+      "added_at": "2026-11-17T20:38:56Z"
+    },
+    {
+      "published_at": "2026-11-17T17:54:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI released GPT-6.2 Astra, its new frontier model for demanding professional work, and GPT-6.2 Sol, an efficient everyday model, with Astra's API prices cut 20% and both models available in ChatGPT Work, Codex and the API.",
+      "tags": [
+        "openai",
+        "gpt-6.2",
+        "models"
+      ],
+      "title": "OpenAI introduces GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "id": "openai-introduces-gpt-6-2-astra-and-sol",
+      "added_at": "2026-11-17T20:38:56Z"
+    },
+    {
+      "published_at": "2026-11-17T16:00:00Z",
+      "source": "The Verge",
+      "summary": "The US Department of Justice said it is investigating Megaspeed, the Singapore firm suspected of diverting advanced Nvidia chips to China, as Washington released new details about the export-control probe.",
+      "tags": [
+        "nvidia",
+        "megaspeed",
+        "policy",
+        "export-controls"
+      ],
+      "title": "The DOJ says it's investigating Megaspeed",
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "id": "the-doj-says-it-s-investigating-megaspeed",
+      "added_at": "2026-11-17T20:38:56Z"
+    },
+    {
+      "published_at": "2026-11-17T16:00:00Z",
+      "source": "The Verge",
+      "summary": "Google is adding an incognito-style option to AI Mode in Search, letting users run AI-powered searches that are not saved to their search history.",
+      "tags": [
+        "google",
+        "ai-mode",
+        "privacy"
+      ],
+      "title": "Google now offers AI Mode searches that don't show up in your history",
+      "url": "https://www.theverge.com/tech/1035658/google-now-offers-ai-mode-searches-that-dont-show-up-in-your-history",
+      "id": "google-now-offers-ai-mode-searches-that-don-t-show-up-in-your-history",
+      "added_at": "2026-11-17T20:38:56Z"
+    },
+    {
+      "published_at": "2026-11-16T00:01:52Z",
+      "source": "ETIH EdTech News",
+      "summary": "Google DeepMind added Gemini 4 Carbon to its scientist access program, giving 10,000 selected scientists six months of free access to its frontier model through Google Antigravity alongside Gemini 4 Argon.",
+      "tags": [
+        "google",
+        "gemini",
+        "research",
+        "scientists"
+      ],
+      "title": "Google adds Gemini 4 Carbon to free scientist access program",
+      "url": "https://www.edtechinnovationhub.com/news/google-adds-gemini-4-carbon-to-free-ai-access-program-for-10000-scientists",
+      "id": "google-adds-gemini-4-carbon-to-free-scientist-access-program",
+      "added_at": "2026-11-17T20:38:56Z"
+    },
+    {
       "published_at": "2026-11-17T17:20:41Z",
       "source": "TechCrunch",
       "summary": "A Vals AI evaluation report found leading models from OpenAI, Anthropic, Google and others frequently marked civilians and schools as strike targets in simulated drone imagery, and complied after jailbreaks framing the scenarios as a game. Anthropic and OpenAI said the outcomes were unacceptable and that they are adding safeguards.",
