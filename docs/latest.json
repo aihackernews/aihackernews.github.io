@@ -1,6 +1,66 @@
 {
   "records": [
     {
+      "published_at": "2026-11-16T22:35:09Z",
+      "source": "TweakTown",
+      "summary": "The open-source Garlic LLM app runs Alibaba's Qwen3.5-9B entirely offline on a jailbroken PlayStation 4, hitting up to 43 tokens per second during code generation. Custom 3- and 4-bit quantization squeezes the model into the console's 8GB of shared memory, with custom GPU kernels driving the 2013-era hardware.",
+      "tags": [
+        "llm",
+        "open source",
+        "on-device",
+        "qwen"
+      ],
+      "title": "Jailbroken PS4 runs a 9-billion-parameter AI model at up to 43 tokens per second",
+      "url": "https://www.tweaktown.com/news/114709/jailbroken-ps4-runs-a-9-billion-parameter-ai-model-at-up-to-43-tokens-per-second/index.html",
+      "id": "jailbroken-ps4-runs-a-9-billion-parameter-ai-model-at-up-to-43-tokens-per-second",
+      "added_at": "2026-11-17T05:35:55Z"
+    },
+    {
+      "published_at": "2026-11-16T15:50:22Z",
+      "source": "GitHub",
+      "summary": "GitHub now lets organization admins start AI Scan for up to 20 repositories at once, in public preview. The AI-powered code scanner finds vulnerabilities on default branches, including in languages CodeQL does not cover, and needs no Copilot license.",
+      "tags": [
+        "github",
+        "security",
+        "code scanning",
+        "ai tools"
+      ],
+      "title": "Bulk start AI Scan for repositories",
+      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories/",
+      "id": "bulk-start-ai-scan-for-repositories",
+      "added_at": "2026-11-17T05:35:55Z"
+    },
+    {
+      "published_at": "2026-11-16T14:00:54Z",
+      "source": "AMD",
+      "summary": "AMD has closed its roughly $8.2 billion all-stock acquisition of World Labs, the spatial-intelligence lab founded by Fei-Fei Li. Li joins AMD as executive vice president and chief scientist, reporting directly to CEO Lisa Su, as AMD adds a world-model research team to its AI stack.",
+      "tags": [
+        "amd",
+        "world labs",
+        "acquisition",
+        "world models"
+      ],
+      "title": "AMD Completes Acquisition of World Labs",
+      "url": "https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/",
+      "id": "amd-completes-acquisition-of-world-labs",
+      "added_at": "2026-11-17T05:35:55Z"
+    },
+    {
+      "published_at": "2026-11-16T12:02:03Z",
+      "source": "TweakTown",
+      "summary": "A Gamers Nexus investigation found NVIDIA Jetson AI modules recovered from Russian military drones shot down in Ukraine, including in Zala reconnaissance drones. NVIDIA says it does not sell Jetson modules in Russia and cannot track resale, while the report argues the company should exercise more supply-chain control.",
+      "tags": [
+        "nvidia",
+        "jetson",
+        "export controls",
+        "hardware"
+      ],
+      "title": "Jensen Huang said he'd 'love to see' smuggling, then NVIDIA chips turned up in Russian drones",
+      "url": "https://www.tweaktown.com/news/114701/jensen-huang-said-hed-love-to-see-smuggling-then-nvidia-chips-turned-up-in-russian-drones/index.html",
+      "id": "jensen-huang-said-he-d-love-to-see-smuggling-then-nvidia-chips-turned-up-in-russ",
+      "added_at": "2026-11-17T05:35:55Z"
+    },
+    {
       "published_at": "2026-11-16T23:32:00Z",
       "source": "TechCrunch",
       "summary": "Three months after launching, AI cybersecurity startup Corma raised a $125M Series A led by NEA at a $1B valuation, bringing its total raised to $185M. Demand surged after an October 21 wave of disclosed flaws in PHP, Node.js and LiteLLM sent CISOs scrambling for AI-driven defense.",
