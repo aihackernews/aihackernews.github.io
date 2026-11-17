@@ -1,6 +1,51 @@
 {
   "records": [
     {
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "source": "NVIDIA Blog",
+      "summary": "At SC26, NVIDIA introduced the DGX Spark HPC Developer Kit, a four-node cluster of GB10-powered DGX Spark systems linked in a ring with 512GB of combined memory and 20TB of NVMe storage, aimed at letting researchers run scientific simulations and models up to 700B parameters locally on a desk.",
+      "published_at": "2026-11-16T23:00:05Z",
+      "tags": [
+        "hardware",
+        "nvidia",
+        "hpc",
+        "infrastructure"
+      ],
+      "id": "nvidia-dgx-spark-developer-kit-turns-a-desk-into-a-supercomputing-lab",
+      "added_at": "2026-11-17T11:33:54Z"
+    },
+    {
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/11/commerce-department-moves-close-ai-chip-loophole/417255/",
+      "source": "Nextgov",
+      "summary": "The Commerce Department's Bureau of Industry and Security issued an interim final rule requiring licenses for advanced AI chip exports to Singapore, Malaysia, Indonesia, Thailand and Brazil, and for data centers giving China-linked firms large-scale remote access to such chips. The rule also formally rescinds the Biden-era AI Diffusion Rule.",
+      "published_at": "2026-11-16T19:32:00Z",
+      "tags": [
+        "policy",
+        "export-controls",
+        "ai-chips",
+        "china"
+      ],
+      "id": "us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-co",
+      "added_at": "2026-11-17T11:33:54Z"
+    },
+    {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "source": "TechCrunch",
+      "summary": "OpenAI announced a new image classifier built with NCMEC that detects child sexual abuse material, including AI-generated images, and is offering it free via API to select companies. ChatGPT will also show warnings and temporary suspensions for prompts seeking to sexualize children, alongside new developer guidelines and tools for law enforcement.",
+      "published_at": "2026-11-16T17:00:00Z",
+      "tags": [
+        "ai-safety",
+        "openai",
+        "child-safety",
+        "policy"
+      ],
+      "id": "openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam",
+      "added_at": "2026-11-17T11:33:54Z"
+    },
+    {
       "published_at": "2026-11-17T02:13:41Z",
       "source": "Mem",
       "summary": "AI note-taking app Mem announced it will shut down on January 15, 2027, with notes becoming read-only on December 18, 2026. The company has paused all billing and is urging users to export their notes before the shutdown.",
