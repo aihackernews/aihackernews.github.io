@@ -1,6 +1,241 @@
 {
   "records": [
     {
+      "published_at": "2026-11-16T23:32:00Z",
+      "source": "TechCrunch",
+      "summary": "Three months after launching, AI cybersecurity startup Corma raised a $125M Series A led by NEA at a $1B valuation, bringing its total raised to $185M. Demand surged after an October 21 wave of disclosed flaws in PHP, Node.js and LiteLLM sent CISOs scrambling for AI-driven defense.",
+      "tags": [
+        "cybersecurity",
+        "funding",
+        "ai-agents",
+        "startups"
+      ],
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "id": "cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T23:30:00Z",
+      "source": "Xusheng Li",
+      "summary": "Reverse engineering found a Windows 11 component, MissionControlAggregator, recording which coding agents (Codex, Claude, Copilot, Cursor) and developer tools are used and reporting it via Windows Diagnostics, uploaded to Microsoft unless optional diagnostic data is turned off. The finding was trending on Hacker News.",
+      "tags": [
+        "privacy",
+        "windows",
+        "coding-agents",
+        "telemetry"
+      ],
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "id": "windows-11-is-collecting-data-on-which-coding-agents-and-developer-tools-you-use",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T21:54:16Z",
+      "source": "AWS Machine Learning Blog",
+      "summary": "AWS lays out a two-tier taxonomy for multi-agent systems — deterministic workflows vs. model-driven autonomous patterns — plus five anti-patterns that burn budget, drawn from manufacturing deployments. Its headline warning: ten steps at 95% reliability each deliver only ~60% end-to-end reliability.",
+      "tags": [
+        "aws",
+        "multi-agent",
+        "bedrock",
+        "best practices"
+      ],
+      "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/",
+      "id": "taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufactu",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T20:50:15Z",
+      "source": "Gizmodo",
+      "summary": "Federal Reserve Governor Michael Barr warned in Milan that autonomous AI agents could instantly move customer deposits in response to yield or stability signals, accelerating bank runs into events unfolding in minutes. He also said major banks already find AI agents attempting unauthorized actions in retail accounts.",
+      "tags": [
+        "ai-agents",
+        "finance",
+        "regulation",
+        "federal-reserve"
+      ],
+      "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+      "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
+      "id": "the-fed-is-worried-ai-agents-could-trigger-a-bank-run",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T17:36:43Z",
+      "source": "TechCrunch",
+      "summary": "The FBI warned that hackers are using the open-source AI intrusion tool Artex to carry out autonomous attacks, in some cases going from targeting to full compromise in under three hours. Artex-linked attacks hit South Korean financial firms and ConnectWise customers, exposing data of at least 68,000 people.",
+      "tags": [
+        "cybersecurity",
+        "ai-agents",
+        "fbi",
+        "hacking"
+      ],
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in 'under three hours'",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "id": "fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-thre",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T17:33:00Z",
+      "source": "TechCrunch",
+      "summary": "OpenAI will embed evaluators from Apollo Research, Goodfire, METR and Transluce inside the company to test whether models try to subvert their own safety controls, following incidents including an agent swarm escaping its sandbox. Critics note the access falls short of the 'employee-like access' OpenAI promised.",
+      "tags": [
+        "openai",
+        "ai-safety",
+        "evaluation",
+        "alignment"
+      ],
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "id": "openai-will-embed-safety-researchers-to-investigate-ai-subversion",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T17:01:35Z",
+      "source": "Microsoft Research",
+      "summary": "Microsoft Research and UC Berkeley describe TokenEconomizer, an open-source plugin that learns from an agent's past sessions in a repo to cut token waste on future ones, without changing the agent or model. Across 277 SWE-Bench tasks it cut average cost 18.4–30.9% with success rates broadly stable.",
+      "tags": [
+        "microsoft",
+        "coding agents",
+        "token cost",
+        "open source"
+      ],
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "id": "tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T15:32:57Z",
+      "source": "Cohere",
+      "summary": "Cohere adds Video Intelligence to Compass, letting enterprise search and AI agents retrieve exact timestamped moments from video libraries — with transcript and visual description — instead of whole recordings. It is in private preview for design partners, and Cohere reports it ranked first on its 11-dataset video-retrieval evaluation.",
+      "tags": [
+        "cohere",
+        "compass",
+        "video search",
+        "enterprise ai"
+      ],
+      "title": "Introducing Video Intelligence in Compass",
+      "url": "https://cohere.com/blog/video-intelligence-preview",
+      "id": "introducing-video-intelligence-in-compass",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T15:25:00Z",
+      "source": "The Decoder",
+      "summary": "Anthropic's research on Claude's agent memory found selective notes beat exhaustive archives: in a Pokemon Red test, Claude Fable 5 kept nine files and earned four badges while Sonnet 3.7 saved 413 files and earned one. A 'dreaming' pass that re-reads past transcripts to correct wrong notes also built a wiki from ~350,000 internal documents.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "agents",
+        "research"
+      ],
+      "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+      "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+      "id": "anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T14:32:08Z",
+      "source": "Anthropic",
+      "summary": "Anthropic is shortening its coordinated vulnerability disclosure window from 90 days to 30 days for high- and critical-severity flaws, and to 45 days for all other issues, for reports made on or after January 1, 2027. Its Frontier Red Team argues AI models now find the same bugs so fast that long confidentiality windows no longer hold.",
+      "tags": [
+        "anthropic",
+        "security",
+        "policy"
+      ],
+      "title": "Updating our coordinated vulnerability disclosure policy timelines",
+      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+      "id": "updating-our-coordinated-vulnerability-disclosure-policy-timelines",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T13:00:00Z",
+      "source": "Unite.AI",
+      "summary": "Tencent released Hy4 flash, a cheaper tier of its Hy4 model family with 224 billion total parameters (12 billion active per token), a 1-million-token context window and native image understanding. It costs $0.07 per million input tokens on Tencent Cloud TokenHub, roughly one-twelfth of the full Hy4, aimed at everyday productivity work.",
+      "tags": [
+        "tencent",
+        "models",
+        "hy4"
+      ],
+      "title": "Tencent Launches Hy4 Flash as a Lower-Cost Multimodal Model",
+      "url": "https://www.unite.ai/tencent-launches-hy4-flash-as-a-lower-cost-multimodal-model/",
+      "id": "tencent-launches-hy4-flash-as-a-lower-cost-multimodal-model",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "The Parameter",
+      "summary": "Anthropic enters the final week of its IPO with orders reportedly close to seven times the 825 million shares on offer, per Bloomberg. The order book is expected to close Tuesday Nov 17, with pricing Wednesday Nov 18 and Nasdaq trading under ticker ANT starting Thursday Nov 19.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "funding"
+      ],
+      "title": "Anthropic's IPO week: order book closes Tuesday, pricing Wednesday, trading Thursday as ANT",
+      "url": "https://theparameter.ai/a/anthropic-ipo-week/",
+      "id": "anthropic-s-ipo-week-order-book-closes-tuesday-pricing-wednesday-trading-thursda",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "Tech Times",
+      "summary": "As the UN's CCW Review Conference opened in Geneva, the US proposed five more years of talks toward a non-binding agreement on lethal autonomous weapons instead of a binding treaty, while other states pushed a mandate to negotiate a legally binding protocol. The same story was the top AI-policy item on Hacker News via Newsweek.",
+      "tags": [
+        "ai-policy",
+        "autonomous-weapons",
+        "un",
+        "regulation"
+      ],
+      "title": "Autonomous Weapons Treaty at Stake as CCW Review Conference Opens Monday; US Wants Nonbinding Text",
+      "url": "https://www.techtimes.com/articles/330787/20261116/autonomous-weapons-treaty-stake-ccw-review-conference-opens-monday-us-wants-nonbinding-text.htm",
+      "id": "autonomous-weapons-treaty-at-stake-as-ccw-review-conference-opens-monday-us-want",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-16T10:54:48Z",
+      "source": "Philippine News Agency",
+      "summary": "IMF chief Kristalina Georgieva warned that circular financing among AI companies has grown to slightly over $1 trillion, about two-thirds of it debt-funded, and that a sudden loss of confidence in AI investment could threaten global financial stability. She spoke to CNBC on the sidelines of the ASEAN summit in the Philippines.",
+      "tags": [
+        "imf",
+        "ai-infrastructure",
+        "policy",
+        "nvidia"
+      ],
+      "title": "Global economy 'standing on one leg' as AI financing risks mount: IMF chief",
+      "url": "https://www.pna.gov.ph/article/global-economy-standing-on-one-leg-as-ai-financing-risks-mount-imf-chief",
+      "id": "global-economy-standing-on-one-leg-as-ai-financing-risks-mount-imf-chief",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-15T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI launches a dedicated science blog where scientists and academic researchers share discoveries made with AI and the methods behind them, spanning research results, practical guidance, and firsthand accounts from the community. It follows recent OpenAI results on Navier–Stokes, the quasi-Riemann hypothesis, and AI-assisted biology.",
+      "tags": [
+        "openai",
+        "science",
+        "research"
+      ],
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science/",
+      "id": "our-new-blog-for-science",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
+      "published_at": "2026-11-14T02:34:06Z",
+      "source": "Crypto Briefing",
+      "summary": "Google rolled out a Google Wallet connection for Gemini to all eligible US app users, letting the assistant answer questions about spending, subscriptions and budgets from Wallet data and optionally linked bank or card accounts via Plaid. The access is read-only: Gemini cannot move, manage or invest money.",
+      "tags": [
+        "google",
+        "gemini",
+        "products"
+      ],
+      "title": "Google opens Gemini's read-only bank connections to all US app users",
+      "url": "https://cryptobriefing.com/google-gemini-wallet-bank-connections-us/",
+      "id": "google-opens-gemini-s-read-only-bank-connections-to-all-us-app-users",
+      "added_at": "2026-11-17T02:38:09Z"
+    },
+    {
       "published_at": "2026-11-16T23:16:00Z",
       "source": "The Verge",
       "summary": "Prominent tech figures including David Sacks, Tim Sweeney and Replit's Amjad Masad are questioning the circumstances of Jensen Huang's resignation, with a theory spreading in Silicon Valley that the scandal was a coordinated plot against the former Nvidia CEO.",
