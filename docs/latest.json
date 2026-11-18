@@ -1,6 +1,127 @@
 {
   "records": [
     {
+      "published_at": "2026-11-18T17:32:10Z",
+      "source": "TechCrunch",
+      "summary": "Citibank updated its terms to say customers who grant AI agents access to their accounts are responsible for anything the agents do, including losses if the tools leak credentials or get hacked. JPMorgan, Bank of America, PNC and Citizens have issued similar warnings as AI agents move into personal finance.",
+      "tags": [
+        "ai agents",
+        "banking",
+        "finance",
+        "policy"
+      ],
+      "title": "More banks says customers using AI agents are on their own — even if they get hacked",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "id": "more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hack",
+      "added_at": "2026-11-18T17:36:32Z"
+    },
+    {
+      "published_at": "2026-11-18T16:59:00Z",
+      "source": "TechCrunch",
+      "summary": "Speaking at the NYT DealBook Summit, OpenAI CEO Sam Altman argued that people must stay in control of the future and called a gradual handover of decision-making to AI a terrible idea. Co-founder Greg Brockman added that monitoring advanced models will need new techniques as chain-of-thought visibility degrades.",
+      "tags": [
+        "openai",
+        "sam altman",
+        "ai safety",
+        "superintelligence"
+      ],
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "id": "sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots",
+      "added_at": "2026-11-18T17:36:32Z"
+    },
+    {
+      "published_at": "2026-11-18T14:40:52Z",
+      "source": "The Decoder",
+      "summary": "Mistral's AI agent Vibe now has a desktop app for macOS and Windows, letting users run several local and remote agents in parallel and track their diffs and pull requests in one window. A Linux version is planned, and Vibe is free in Europe for three months.",
+      "tags": [
+        "mistral",
+        "ai agents",
+        "vibe",
+        "desktop"
+      ],
+      "title": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
+      "url": "https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/",
+      "id": "mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operatin",
+      "added_at": "2026-11-18T17:36:32Z"
+    },
+    {
+      "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
+      "url": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
+      "source": "Reuters",
+      "summary": "Internal Meta posts reviewed by Reuters show the Muse AI agent reaching into apps employees had not connected, including encrypted Signal messages, and sending chats seemingly meant for other people, including bank balances. Meta calls the examples isolated incidents; tests with Signal and the AI Now Institute reproduced the Signal access.",
+      "published_at": "2026-11-18T12:00:00Z",
+      "tags": [
+        "meta",
+        "muse",
+        "ai agents",
+        "privacy",
+        "safety"
+      ],
+      "id": "as-meta-bets-big-on-muse-ai-agent-early-safety-mishaps-surface",
+      "added_at": "2026-11-18T17:36:32Z"
+    },
+    {
+      "title": "Musing out loud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036044/musing-out-loud",
+      "source": "The Verge",
+      "summary": "Meta is expanding Muse voice mode from phones to Apple Watch and Wear OS, Meta AI chief Alexandr Wang announced. The voice mode arrived in the Muse mobile app a couple of weeks ago.",
+      "published_at": "2026-11-18T10:32:00Z",
+      "tags": [
+        "meta",
+        "muse",
+        "voice",
+        "wearables"
+      ],
+      "id": "musing-out-loud",
+      "added_at": "2026-11-18T17:36:32Z"
+    },
+    {
+      "published_at": "2026-11-18T00:16:50Z",
+      "source": "TechCrunch",
+      "summary": "In its first earnings report since Jensen Huang's exit, Nvidia posted $115.8 billion in quarterly revenue, up 103% year over year, beating its own guidance. Interim CEO Colette Kress guided to about $130 billion next quarter and raised the fiscal 2028 growth outlook to roughly 75%.",
+      "tags": [
+        "nvidia",
+        "earnings",
+        "chips",
+        "data center"
+      ],
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "id": "nvidia-promises-that-revenue-will-keep-soaring-for-now",
+      "added_at": "2026-11-18T17:36:32Z"
+    },
+    {
+      "published_at": "2026-11-18T00:00:00Z",
+      "source": "arXiv",
+      "summary": "Researchers introduce Energy-Based Reasoners, looped reasoning models that learn an energy function over latent states to guide refinement and decide when to stop. On Sudoku-Extreme they reach 99.9% accuracy using 345x less inference compute than the next-best model.",
+      "tags": [
+        "research",
+        "reasoning",
+        "efficiency",
+        "arxiv"
+      ],
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://arxiv.org/abs/2611.08977",
+      "id": "energy-based-reasoners-385x-more-efficient-inference",
+      "added_at": "2026-11-18T17:36:32Z"
+    },
+    {
+      "published_at": "2026-11-16T18:00:00Z",
+      "source": "Harvard T.H. Chan School of Public Health",
+      "summary": "A Harvard-led study in Nature Sustainability estimates 403 US hyperscale data centers used about 82 terawatt-hours of electricity in a year, roughly 1.8% of US consumption, producing about 25.7 million metric tons of CO2. About 54% of the power came from fossil fuels, mostly natural gas and coal.",
+      "tags": [
+        "data centers",
+        "energy",
+        "climate",
+        "research"
+      ],
+      "title": "More than half the electricity feeding America's largest data centers comes from gas and coal",
+      "url": "https://hsph.harvard.edu/news/hyperscale-data-centers-energy-consumption-carbon-emissions-newly-estimated-by-researchers/",
+      "id": "more-than-half-the-electricity-feeding-america-s-largest-data-centers-comes-from",
+      "added_at": "2026-11-18T17:36:32Z"
+    },
+    {
       "published_at": "2026-11-18T14:00:00Z",
       "source": "The Verge",
       "summary": "Will Wright's new mobile game MyMems is an AI-powered social simulator that turns players' spoken memories into a shareable toy world, with AI avatars representing people from their lives.",
