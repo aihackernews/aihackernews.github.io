@@ -1,6 +1,66 @@
 {
   "records": [
     {
+      "published_at": "2026-11-18T08:00:00Z",
+      "source": "UK Parliament",
+      "summary": "A UK parliamentary committee report calls for statutory reporting of frontier AI safety incidents, noting OpenAI and Anthropic backed a legal footing while Google DeepMind and Meta preferred standardised voluntary frameworks.",
+      "tags": [
+        "policy",
+        "ai safety",
+        "uk",
+        "regulation"
+      ],
+      "title": "Guardrails for growth: AI safety and security",
+      "url": "https://committees.parliament.uk/publications/55827/documents/315162/default/",
+      "id": "guardrails-for-growth-ai-safety-and-security",
+      "added_at": "2026-11-18T08:37:40Z"
+    },
+    {
+      "published_at": "2026-11-17T14:26:00Z",
+      "source": "Business Wire",
+      "summary": "Klarna launched a concierge-style AI assistant that handles shopping, returns, bookings and everyday admin on WhatsApp and iMessage, live now for a small group of early users with a waitlist open.",
+      "tags": [
+        "ai assistant",
+        "klarna",
+        "agents"
+      ],
+      "title": "From returns to restaurant bookings: Klarna's AI assistant finds the best product & price, buys it for you, and you don't pay until it arrives",
+      "url": "https://www.businesswire.com/news/home/20261117005464/en/From-returns-to-restaurant-bookings-Klarnas-AI-assistant-finds-the-best-product-price-buys-it-for-you-and-you-dont-pay-until-it-arrives",
+      "id": "from-returns-to-restaurant-bookings-klarna-s-ai-assistant-finds-the-best-product",
+      "added_at": "2026-11-18T08:37:40Z"
+    },
+    {
+      "published_at": "2026-11-16T22:55:24Z",
+      "source": "BigGo Finance",
+      "summary": "Anthropic told IPO investors its Claude Mythos model ported the software needed to run on AMD MI355X GPUs in about three days with almost no human intervention, a job the company says used to take dozens of engineers six to twelve months.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "amd",
+        "gpu",
+        "ipo"
+      ],
+      "title": "Anthropic Says Claude Cut AMD GPU Migration From 1 Year to 3 Days, Rattling Nvidia's CUDA Moat",
+      "url": "https://finance.biggo.com/news/0f5cd7ec-2345-48df-ad2a-ca39a57cb3e9",
+      "id": "anthropic-says-claude-cut-amd-gpu-migration-from-1-year-to-3-days-rattling-nvidi",
+      "added_at": "2026-11-18T08:37:40Z"
+    },
+    {
+      "published_at": "2026-11-12T12:00:00Z",
+      "source": "Anthropic",
+      "summary": "Claude Code 2.1.323 adds an experimental, opt-in Code Mode in which Claude writes JavaScript to make several tool calls in a single step instead of calling tools one at a time, enabled with an environment variable.",
+      "tags": [
+        "anthropic",
+        "claude code",
+        "coding",
+        "agents"
+      ],
+      "title": "Anthropic adds experimental Code Mode to Claude Code",
+      "url": "https://code.claude.com/docs/en/code-mode",
+      "id": "anthropic-adds-experimental-code-mode-to-claude-code",
+      "added_at": "2026-11-18T08:37:40Z"
+    },
+    {
       "published_at": "2026-11-18T01:44:21Z",
       "source": "TechCrunch",
       "summary": "Nvidia disclosed its stakes in private companies are now worth $65.5 billion, up from $22 billion in January, after investing $16 billion in equities last quarter, but investors expect interim CEO Colette Kress to take a more selective approach to startup deals without Jensen Huang.",
