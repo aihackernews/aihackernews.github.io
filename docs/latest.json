@@ -1,6 +1,109 @@
 {
   "records": [
     {
+      "published_at": "2026-11-18T14:00:00Z",
+      "source": "The Verge",
+      "summary": "Will Wright's new mobile game MyMems is an AI-powered social simulator that turns players' spoken memories into a shareable toy world, with AI avatars representing people from their lives.",
+      "tags": [
+        "ai-games",
+        "will-wright",
+        "generative-ai"
+      ],
+      "title": "Will Wright's next game uses AI to map your memories",
+      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "id": "will-wright-s-next-game-uses-ai-to-map-your-memories",
+      "added_at": "2026-11-18T14:47:46Z"
+    },
+    {
+      "published_at": "2026-11-18T13:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Nvidia interim CEO Colette Kress clarified that the company's loan guarantees for AI data centers only take effect once customers have secured their own financing, and said Nvidia will be far more selective about bankrolling customers going forward.",
+      "tags": [
+        "nvidia",
+        "neoclouds",
+        "ai-infrastructure",
+        "funding"
+      ],
+      "title": "Nvidia clarifies when it will — and won't — keep financing neoclouds",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "id": "nvidia-clarifies-when-it-will-and-won-t-keep-financing-neoclouds",
+      "added_at": "2026-11-18T14:47:46Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Unsiloed AI raised $7.5 million in seed funding led by Felicis to turn complex enterprise documents into structured, traceable data that AI agents can work with accurately.",
+      "tags": [
+        "funding",
+        "startups",
+        "ai-agents",
+        "document-ai"
+      ],
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "id": "felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai",
+      "added_at": "2026-11-18T14:47:46Z"
+    },
+    {
+      "published_at": "2026-11-18T11:30:00Z",
+      "source": "TechCrunch",
+      "summary": "Humyn Labs raised $47 million in equity and venture debt to record and label real-world human activity as training data for U.S. robotics and physical-AI developers.",
+      "tags": [
+        "funding",
+        "robotics",
+        "training-data",
+        "startups"
+      ],
+      "title": "India's Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "id": "india-s-humyn-labs-raises-47m-to-feed-u-s-robotics-companies-the-data-they-need",
+      "added_at": "2026-11-18T14:47:46Z"
+    },
+    {
+      "published_at": "2026-11-18T11:16:00Z",
+      "source": "The Verge",
+      "summary": "Suno added Visuals, a feature that turns songs into AI-generated images and up-to-15-second videos that sync to the music and can lip-sync to lyrics, on web, iOS and Android.",
+      "tags": [
+        "suno",
+        "ai-music",
+        "ai-video",
+        "generative-ai"
+      ],
+      "title": "Suno now lets you make AI videos for your AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "id": "suno-now-lets-you-make-ai-videos-for-your-ai-music",
+      "added_at": "2026-11-18T14:47:46Z"
+    },
+    {
+      "published_at": "2026-11-18T11:02:05Z",
+      "source": "Mac Observer",
+      "summary": "Nvidia agreed to buy about $10 billion of Anthropic shares in a private placement closing alongside the IPO, part of a $26 billion placement backed by seven chip and cloud companies including Google, Microsoft, AMD, Broadcom, Micron and TSMC.",
+      "tags": [
+        "anthropic",
+        "nvidia",
+        "ipo",
+        "funding"
+      ],
+      "title": "Nvidia to Buy $10 Billion in Anthropic Shares as AI Startup Prepares for IPO",
+      "url": "https://www.macobserver.com/news/nvidia-to-buy-10-billion-in-anthropic-shares-as-ai-startup-prepares-for-ipo/",
+      "id": "nvidia-to-buy-10-billion-in-anthropic-shares-as-ai-startup-prepares-for-ipo",
+      "added_at": "2026-11-18T14:47:46Z"
+    },
+    {
+      "published_at": "2026-11-17T23:41:00Z",
+      "source": "The Verge",
+      "summary": "At Microsoft Ignite, CEO Satya Nadella said he is now 'AGI-pilled' about AI's potential economic and political disruption, while saying he does not think frontier models such as Claude are conscious.",
+      "tags": [
+        "microsoft",
+        "agi",
+        "satya-nadella"
+      ],
+      "title": "Satya Nadella says he's AGI-pilled now",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "id": "satya-nadella-says-he-s-agi-pilled-now",
+      "added_at": "2026-11-18T14:47:46Z"
+    },
+    {
       "published_at": "2026-11-18T00:13:00Z",
       "source": "Runtime Wire",
       "summary": "Microsoft's ONNX Runtime repository and at least seven related repos return 404 on GitHub, breaking source builds, while the pip and NuGet packages still install. As of November 18 Microsoft had not explained the disappearance of the widely used open-source inference runtime.",
