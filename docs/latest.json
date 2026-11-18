@@ -1,6 +1,64 @@
 {
   "records": [
     {
+      "title": "Anthropic will likely price mammoth IPO above current $70- to $78-per-share range: report",
+      "url": "https://nypost.com/2026/11/17/business/anthropic-will-likely-price-mammoth-ipo-above-current-range-report/",
+      "source": "New York Post",
+      "summary": "Multiple sources told CNBC's David Faber that Anthropic is likely to price its IPO above the $70-$78 range, with order books closing Tuesday afternoon ahead of a final price on Wednesday and Nasdaq trading under ANT on Thursday.",
+      "published_at": "2026-11-17T20:36:34Z",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "funding"
+      ],
+      "id": "anthropic-will-likely-price-mammoth-ipo-above-current-70-to-78-per-share-range-r",
+      "added_at": "2026-11-18T02:34:34Z"
+    },
+    {
+      "title": "BIS targets remote access to advanced chips through overseas data centers",
+      "url": "https://www.nixonpeabody.com/insights/alerts/2026/11/16/bis-targets-remote-access-to-advanced-chips-through-overseas-data-centers",
+      "source": "Nixon Peabody",
+      "summary": "The Commerce Department's Bureau of Industry and Security issued an interim final rule requiring licenses for advanced AI chips sent to data centers that give large-scale remote compute access to China-linked firms, plus new license requirements for chips shipped to Singapore, Malaysia, Indonesia, Thailand and Brazil, while rescinding the Biden-era AI Diffusion Rule.",
+      "published_at": "2026-11-17T12:00:00Z",
+      "tags": [
+        "policy",
+        "export-controls",
+        "chips"
+      ],
+      "id": "bis-targets-remote-access-to-advanced-chips-through-overseas-data-centers",
+      "added_at": "2026-11-18T02:34:34Z"
+    },
+    {
+      "title": "Calif uses AI to find Java4Shell as OpenJDK and Oracle ship fixes",
+      "url": "https://www.unite.ai/calif-uses-ai-to-find-java4shell-as-openjdk-and-oracle-ship-fixes/",
+      "source": "Unite.AI",
+      "summary": "Security firm Calif disclosed Java4Shell, a critical OpenJDK Base64 decoder flaw it found with AI assistance in about an hour, and Oracle and OpenJDK shipped fixes the same day; the flaw could allow unauthenticated remote code execution on affected Java servers.",
+      "published_at": "2026-11-17T12:00:00Z",
+      "tags": [
+        "security",
+        "openai",
+        "vulnerability",
+        "java"
+      ],
+      "id": "calif-uses-ai-to-find-java4shell-as-openjdk-and-oracle-ship-fixes",
+      "added_at": "2026-11-18T02:34:34Z"
+    },
+    {
+      "title": "Google spots the first hacker AI system that finds and exploits flaws autonomously",
+      "url": "https://www.csoonline.com/article/4249595/google-spots-the-first-hacker-ai-system-that-finds-and-exploits-flaws-autonomously.html",
+      "source": "CSO Online",
+      "summary": "Google Threat Intelligence Group says it found a multi-agent framework dubbed exploit_agent that turns security patches into working exploits with no human in the loop, the first time researchers have seen vulnerability discovery and exploitation fully automated by threat actors.",
+      "published_at": "2026-11-17T05:17:12Z",
+      "tags": [
+        "google",
+        "security",
+        "agents",
+        "research"
+      ],
+      "id": "google-spots-the-first-hacker-ai-system-that-finds-and-exploits-flaws-autonomous",
+      "added_at": "2026-11-18T02:34:34Z"
+    },
+    {
       "published_at": "2026-11-17T23:37:48Z",
       "source": "TechCrunch",
       "summary": "Nvidia will stop selling its H200 chips in China, acting CEO Colette Kress said on the company's first earnings call since Jensen Huang stepped down, ending a controversial workaround to US export controls. Nvidia also created a board committee to oversee national security, export compliance and trade risks.",
