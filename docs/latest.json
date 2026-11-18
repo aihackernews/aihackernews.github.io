@@ -1,6 +1,62 @@
 {
   "records": [
     {
+      "published_at": "2026-11-18T01:44:21Z",
+      "source": "TechCrunch",
+      "summary": "Nvidia disclosed its stakes in private companies are now worth $65.5 billion, up from $22 billion in January, after investing $16 billion in equities last quarter, but investors expect interim CEO Colette Kress to take a more selective approach to startup deals without Jensen Huang.",
+      "tags": [
+        "nvidia",
+        "ai-investment",
+        "startups"
+      ],
+      "title": "Nvidia's startup stakes ballooned to $65B, but Huang's exit puts future deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "id": "nvidia-s-startup-stakes-ballooned-to-65b-but-huang-s-exit-puts-future-deals-in-d",
+      "added_at": "2026-11-18T05:35:01Z"
+    },
+    {
+      "published_at": "2026-11-17T17:32:25Z",
+      "source": "TechCrunch",
+      "summary": "Proton launched Lumo Desktop for Windows, macOS and Linux, bringing its privacy-focused AI assistant to personal computers with local connectors, granular per-action permissions and a promise that chats are never used for ads or model training.",
+      "tags": [
+        "ai-assistant",
+        "privacy",
+        "proton"
+      ],
+      "title": "Proton's Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "id": "proton-s-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-des",
+      "added_at": "2026-11-18T05:35:01Z"
+    },
+    {
+      "published_at": "2026-11-17T12:00:00Z",
+      "source": "Canadian Lawyer",
+      "summary": "Four nonprofit groups sued Anthropic, Google, Meta, OpenAI and SpaceX's AI division in California court, asking a judge to freeze development of AI more capable than each company's most advanced system as of November 12, arguing the firms cannot reliably control their systems.",
+      "tags": [
+        "ai-policy",
+        "lawsuit",
+        "ai-safety"
+      ],
+      "title": "Advocacy groups sue five AI companies, seek halt to new AI model development",
+      "url": "https://www.canadianlawyermag.com/news/international/advocacy-groups-sue-five-ai-companies-seek-halt-to-new-ai-model-development/394929",
+      "id": "advocacy-groups-sue-five-ai-companies-seek-halt-to-new-ai-model-development",
+      "added_at": "2026-11-18T05:35:01Z"
+    },
+    {
+      "published_at": "2026-11-16T18:11:10Z",
+      "source": "TechCrunch",
+      "summary": "OpenAI CEO Sam Altman said the AI industry will be fine without Jensen Huang at Nvidia, while calling Huang's role in the AI boom extremely special and valuable and declining to say whether he should return as CEO.",
+      "tags": [
+        "openai",
+        "nvidia",
+        "ai-industry"
+      ],
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be 'fine'",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "id": "sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine",
+      "added_at": "2026-11-18T05:35:01Z"
+    },
+    {
       "title": "Anthropic will likely price mammoth IPO above current $70- to $78-per-share range: report",
       "url": "https://nypost.com/2026/11/17/business/anthropic-will-likely-price-mammoth-ipo-above-current-range-report/",
       "source": "New York Post",
