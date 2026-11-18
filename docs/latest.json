@@ -1,6 +1,217 @@
 {
   "records": [
     {
+      "published_at": "2026-11-18T23:25:00Z",
+      "source": "TechCrunch",
+      "summary": "At the NYT DealBook Summit, Elon Musk said Nvidia's board made a poor decision ousting Jensen Huang, calling him irreplaceable and saying he would hire him. Musk also signed a petition with over 200,000 others urging Nvidia to reinstate its former CEO.",
+      "tags": [
+        "nvidia",
+        "jensen-huang",
+        "industry"
+      ],
+      "title": "Elon Musk says ousting Jensen Huang is like 'kicking Michael Jordan off your team'",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "id": "elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T23:17:00Z",
+      "source": "The Verge",
+      "summary": "The nation's largest school districts are moving away from Google's tools in favor of AI-powered alternatives. The shift marks a significant change in how schools choose classroom technology as AI products gain ground in education.",
+      "tags": [
+        "education",
+        "google",
+        "ai-products"
+      ],
+      "title": "The nation's largest school districts are ditching Google for AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "id": "the-nation-s-largest-school-districts-are-ditching-google-for-ai",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T22:58:00Z",
+      "source": "TechCrunch",
+      "summary": "Microsoft CEO Satya Nadella said the rise of AI agents will reshape the internet's economics, forcing ad-based aggregators to rethink their business models as agents, not humans, browse and transact. He warned companies that block agents risk losing out to rivals that embrace them.",
+      "tags": [
+        "ai-agents",
+        "microsoft",
+        "web"
+      ],
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "id": "satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T22:35:00Z",
+      "source": "The Verge",
+      "summary": "Microsoft CEO Satya Nadella said he does not know when the rush to patch vulnerabilities discovered by AI will end, as organizations scramble to fix flaws found by frontier models. The comments came at the NYT DealBook Summit amid a wave of AI-discovered critical bugs.",
+      "tags": [
+        "cybersecurity",
+        "microsoft",
+        "ai-safety"
+      ],
+      "title": "Microsoft CEO Satya Nadella doesn't know when the rush to patch AI-discovered bugs will end",
+      "url": "https://www.theverge.com/tech/1037140/microsoft-satya-nadella-ai-bug-bounty",
+      "id": "microsoft-ceo-satya-nadella-doesn-t-know-when-the-rush-to-patch-ai-discovered-bu",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T22:35:00Z",
+      "source": "The Verge",
+      "summary": "Anthropic priced its initial public offering at $83 per share, above its $70-to-$78 range, ahead of its Nasdaq debut as ANT on Thursday. The pricing caps a record-breaking offering for the first major pure-play AI company to go public.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "funding"
+      ],
+      "title": "Anthropic priced its initial public offering at $83 per share",
+      "url": "https://www.theverge.com/tech/1037128/anthropic-ipo-share-price",
+      "id": "anthropic-priced-its-initial-public-offering-at-83-per-share",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T21:57:40Z",
+      "source": "TechCrunch",
+      "summary": "Nvidia said it will file its quarterly 10-Q in the coming weeks rather than on earnings day as usual, offering no reason. Management told an analyst the delay relates to whether the filing must disclose more about the ongoing investigation into Jensen Huang.",
+      "tags": [
+        "nvidia",
+        "sec",
+        "earnings"
+      ],
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "id": "nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T21:34:13Z",
+      "source": "TechCrunch",
+      "summary": "Anduril co-founder Palmer Luckey warned at the DealBook Summit that AI-enabled hacking is advancing faster than outdated systems can defend against, with adversaries including North Korea exploiting the gap. He argued defenders must move faster, since AI will ultimately favor the side using it best for defense.",
+      "tags": [
+        "cybersecurity",
+        "ai-safety",
+        "defense"
+      ],
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: 'It's time to start running'",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "id": "palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-it-s-time-to",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T21:34:00Z",
+      "source": "Google DeepMind",
+      "summary": "Google released Gemini 4 Neon, the fourth Gemini 4 model in four weeks, promising frontier-level reasoning for complex coding, knowledge work, and science at higher speed and lower cost than the flagship Carbon. It scores 61 on the Artificial Analysis Intelligence Index and costs $3 per million input tokens.",
+      "tags": [
+        "gemini",
+        "google",
+        "models"
+      ],
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "id": "introducing-gemini-4-neon",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T19:54:56Z",
+      "source": "RadixArk",
+      "summary": "RadixArk released DaisyRose-27B, its first model, built on Qwen3.8-27B and trained with reinforcement learning on just 1,200 curated long-horizon agent tasks. It more than doubles the base model's Terminal-Bench 4.1 score, from 5.6% to 12.0%, with checkpoints available under Apache 2.0.",
+      "tags": [
+        "open-models",
+        "reinforcement-learning",
+        "coding"
+      ],
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "id": "daisyrose-27b-pushing-the-frontier-of-post-training-efficiency",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T19:40:00Z",
+      "source": "The Verge",
+      "summary": "The Trump administration's latest land deal will turn a site in the Philippines into an AI data-center hub. The project ties US AI infrastructure ambitions to overseas development as demand for compute keeps growing.",
+      "tags": [
+        "ai-infrastructure",
+        "policy",
+        "data-centers"
+      ],
+      "title": "Trump's latest land grab is an AI hub in the Philippines",
+      "url": "https://www.theverge.com/policy/1037143/trump-philippines-ai-data-centers",
+      "id": "trump-s-latest-land-grab-is-an-ai-hub-in-the-philippines",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T15:44:00Z",
+      "source": "The Verge",
+      "summary": "Chip companies have largely ignored the frontier AI pause that researchers once called for, and the industry is pressing ahead with ever-larger AI hardware. The piece looks at how the pause debate has faded as chipmakers race to meet demand.",
+      "tags": [
+        "ai-policy",
+        "chips",
+        "industry"
+      ],
+      "title": "Remember the frontier AI pause? Chip companies don't either",
+      "url": "https://www.theverge.com/tech/1037010/ai-pause-chip-makers",
+      "id": "remember-the-frontier-ai-pause-chip-companies-don-t-either",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "In a Harvard lecture adapted into an essay, OpenAI argues the tech industry quietly assumes humans will forfeit primacy over world affairs to superintelligent machines, and rejects that inevitability. It calls for building AI compatible with human primacy, with accountable agents and intelligible, revocable permissions.",
+      "tags": [
+        "ai-policy",
+        "openai",
+        "essay"
+      ],
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus/",
+      "id": "the-silent-consensus",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI published a deep dive into how the Codex sandbox constrains the coding agent's commands using OS-level sandboxing, permission profiles, and a network proxy. The post explains the design tradeoffs, configuration options, and enforcement across macOS, Linux, and Windows.",
+      "tags": [
+        "codex",
+        "openai",
+        "agents",
+        "security"
+      ],
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox/",
+      "id": "inside-the-codex-sandbox",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI detailed how it manages frontier-model risk across research, internal, and external deployment, including no live internet access during training, a Control Room that can halt workloads in 35 seconds, and safety reviews at each stage. The post follows a July Hugging Face incident and a September training pause.",
+      "tags": [
+        "ai-safety",
+        "openai",
+        "frontier-models"
+      ],
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk/",
+      "id": "managing-frontier-ai-risk-from-training-to-deployment",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
+      "published_at": "2026-11-18T00:00:00Z",
+      "source": "Hugging Face",
+      "summary": "Reson8 open-sourced Rumble-2-Flash, a 0.5-billion-parameter speech recognition model for over 40 languages under Apache 2.0. It beats much larger models on the Open ASR Leaderboard, matches a 30B model on real phone calls, and transcribes an hour of audio in about half a second.",
+      "tags": [
+        "open-models",
+        "speech",
+        "asr"
+      ],
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "id": "rumble-2-flash-an-open-0-5b-speech-model-for-40-languages",
+      "added_at": "2026-11-18T23:39:55Z"
+    },
+    {
       "published_at": "2026-11-18T19:56:39Z",
       "source": "TechCrunch",
       "summary": "Snapchat opened its Lens Studio to AI coding assistants including Claude Code and Cursor, letting developers build AR Lenses by describing what they want instead of hand-building them.",
