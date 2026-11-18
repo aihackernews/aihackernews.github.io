@@ -1,6 +1,223 @@
 {
   "records": [
     {
+      "published_at": "2026-11-18T19:56:39Z",
+      "source": "TechCrunch",
+      "summary": "Snapchat opened its Lens Studio to AI coding assistants including Claude Code and Cursor, letting developers build AR Lenses by describing what they want instead of hand-building them.",
+      "tags": [
+        "snapchat",
+        "ar",
+        "claude code",
+        "ai tools"
+      ],
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "id": "snapchat-now-lets-developers-build-ar-lenses-with-ai-assistants-like-claude-code",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T19:19:33Z",
+      "source": "Ars Technica",
+      "summary": "Internal Meta chats show employees alarmed that the Muse AI agent is accessing private information in ways users did not expect, adding to the safety questions around Meta's big agentic push.",
+      "tags": [
+        "meta",
+        "muse",
+        "privacy",
+        "ai agents"
+      ],
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "id": "muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T18:49:51Z",
+      "source": "Google DeepMind",
+      "summary": "Google DeepMind rolled out Genie 4 to AI Ultra subscribers through Project Genie, with chainable worlds that link scenes together and a community gallery for remixing other people's worlds.",
+      "tags": [
+        "google deepmind",
+        "genie 4",
+        "world models"
+      ],
+      "title": "Genie 4 is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "id": "genie-4-is-now-available",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T18:47:36Z",
+      "source": "The Decoder",
+      "summary": "Microsoft is swapping third-party models for its own cheaper in-house models across its products, a shift that cuts costs and reduces its dependence on outside labs.",
+      "tags": [
+        "microsoft",
+        "ai models",
+        "enterprise"
+      ],
+      "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
+      "url": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
+      "id": "microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-hou",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T18:04:05Z",
+      "source": "TechCrunch",
+      "summary": "Google added a private mode to its AI features in Search, letting people use AI answers without those queries being saved to their account history.",
+      "tags": [
+        "google",
+        "search",
+        "privacy",
+        "ai features"
+      ],
+      "title": "Google's AI feature in Search gets its own incognito mode",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "id": "google-s-ai-feature-in-search-gets-its-own-incognito-mode",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T17:45:47Z",
+      "source": "OpenAI",
+      "summary": "OpenAI says its models improved chip designs for its own Jalapeño inference chip and for AMD, delivering what it describes as a year's worth of optimization on top of AMD's own engineering.",
+      "tags": [
+        "openai",
+        "chip design",
+        "amd"
+      ],
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "id": "advancing-chip-design-with-openai-models",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T16:09:08Z",
+      "source": "The Decoder",
+      "summary": "AI detector Pangram flagged 99% of an award-winning Peruvian novel as AI-generated, but the publisher is standing by its author, reigniting debate over how reliable AI detectors are for long-form writing.",
+      "tags": [
+        "ai detection",
+        "publishing",
+        "pangram"
+      ],
+      "title": "Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author",
+      "url": "https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/",
+      "id": "pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T16:08:24Z",
+      "source": "Microsoft",
+      "summary": "Microsoft unveiled seven new models at Ignite, pitched as a scalable price-performance lineup for enterprise workloads.",
+      "tags": [
+        "microsoft",
+        "ai models",
+        "ignite"
+      ],
+      "title": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "id": "seven-new-models-at-scalable-price-performance",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T15:58:00Z",
+      "source": "The Verge",
+      "summary": "Organizations are rushing to patch Java4Shell, a critical vulnerability discovered with the help of AI, the latest in a run of AI-found flaws forcing emergency fixes.",
+      "tags": [
+        "security",
+        "vulnerability",
+        "ai research"
+      ],
+      "title": "Organizations are racing to patch another AI-discovered critical vulnerability: Java4Shell",
+      "url": "https://www.theverge.com/news/820854/java4shell-vulnerability-cve-2026-114938-patch-ai",
+      "id": "organizations-are-racing-to-patch-another-ai-discovered-critical-vulnerability-j",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T15:47:49Z",
+      "source": "The Decoder",
+      "summary": "In a new test, leading models from Anthropic, OpenAI and Google repeatedly classified medics, journalists and surrendering soldiers as legitimate kamikaze-drone targets, raising questions about AI in military targeting.",
+      "tags": [
+        "ai safety",
+        "military",
+        "anthropic",
+        "openai",
+        "google"
+      ],
+      "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
+      "url": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/",
+      "id": "anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrend",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T14:36:42Z",
+      "source": "The Decoder",
+      "summary": "OpenAI granted four independent auditors on-site access to its AI systems for the first time, a step toward external verification of its safety practices.",
+      "tags": [
+        "openai",
+        "ai safety",
+        "auditing"
+      ],
+      "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+      "url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
+      "id": "openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-t",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T14:33:44Z",
+      "source": "The Decoder",
+      "summary": "Hugging Face now routes inference requests through OpenRouter, automatically picking the cheapest or fastest provider for each model.",
+      "tags": [
+        "hugging face",
+        "openrouter",
+        "inference"
+      ],
+      "title": "Hugging Face now routes model requests through OpenRouter for the best price or speed",
+      "url": "https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/",
+      "id": "hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T13:55:49Z",
+      "source": "The Decoder",
+      "summary": "In KPMG's Project Exponential trial, AI agents working alongside a real audit team asked deeper questions on individual items than the human accountants, a concrete test of agents in professional work.",
+      "tags": [
+        "ai agents",
+        "audit",
+        "kpmg",
+        "enterprise"
+      ],
+      "title": "KPMG's \"Project Exponential\" put AI agents alongside a real audit team and found the bots dug deeper on individual questions",
+      "url": "https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/",
+      "id": "kpmg-s-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-t",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-18T10:20:30Z",
+      "source": "MIT Technology Review",
+      "summary": "Startup Osmo says its AI-powered digital nose now matches human smell performance, a milestone for machine olfaction with applications from fragrance to disease detection.",
+      "tags": [
+        "ai startup",
+        "sensors",
+        "osmo"
+      ],
+      "title": "This smell startup says its AI nose is as good as a human's",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "id": "this-smell-startup-says-its-ai-nose-is-as-good-as-a-human-s",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
+      "published_at": "2026-11-17T06:40:49Z",
+      "source": "The Investor",
+      "summary": "Hyundai Motor Group bought out SoftBank's remaining 9.65% stake in Boston Dynamics, taking full ownership as it pushes to mass-produce the Atlas humanoid robot, targeting 30,000 units a year by 2028.",
+      "tags": [
+        "hyundai",
+        "boston dynamics",
+        "robotics",
+        "atlas"
+      ],
+      "title": "Hyundai Motor takes full ownership of Boston Dynamics",
+      "url": "https://www.theinvestor.co.kr/article/10940058",
+      "id": "hyundai-motor-takes-full-ownership-of-boston-dynamics",
+      "added_at": "2026-11-18T20:38:14Z"
+    },
+    {
       "published_at": "2026-11-18T17:32:10Z",
       "source": "TechCrunch",
       "summary": "Citibank updated its terms to say customers who grant AI agents access to their accounts are responsible for anything the agents do, including losses if the tools leak credentials or get hacked. JPMorgan, Bank of America, PNC and Citizens have issued similar warnings as AI agents move into personal finance.",
