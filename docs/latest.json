@@ -1,6 +1,51 @@
 {
   "records": [
     {
+      "published_at": "2026-11-18T00:13:00Z",
+      "source": "Runtime Wire",
+      "summary": "Microsoft's ONNX Runtime repository and at least seven related repos return 404 on GitHub, breaking source builds, while the pip and NuGet packages still install. As of November 18 Microsoft had not explained the disappearance of the widely used open-source inference runtime.",
+      "tags": [
+        "microsoft",
+        "onnx",
+        "github",
+        "open-source"
+      ],
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub, along with at least seven related repositories",
+      "url": "https://runtimewire.com/article/microsoft-s-onnx-runtime-has-disappeared-from-github-along-with-at-least-seven",
+      "id": "microsoft-s-onnx-runtime-has-disappeared-from-github-along-with-at-least-seven-r",
+      "added_at": "2026-11-18T11:33:51Z"
+    },
+    {
+      "published_at": "2026-11-17T20:00:00Z",
+      "source": "Cerebras",
+      "summary": "Cerebras put disaggregated inference into production on its Inference Cloud: AMD Instinct GPUs handle prompt processing while CS-3 wafer-scale systems generate tokens, delivering five times the throughput per megawatt of a CS-3-only setup with no loss in generation speed. AWS, Fireworks AI and others are named as early-access partners.",
+      "tags": [
+        "cerebras",
+        "inference",
+        "chips",
+        "infrastructure"
+      ],
+      "title": "Cerebras launches disaggregated inference",
+      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+      "id": "cerebras-launches-disaggregated-inference",
+      "added_at": "2026-11-18T11:33:51Z"
+    },
+    {
+      "published_at": "2026-11-17T19:16:00Z",
+      "source": "Google Developers Blog",
+      "summary": "Google launched a Robotics plugin for Antigravity that turns the coding agent into a robotics workbench: it handles hardware bring-up, MuJoCo simulation and closed-loop robot control with Gemini 4 Hydrogen, getting a demo arm calibrated and ready in about 10 minutes. Hydrogen scored 58 on the Artificial Analysis Robotics 0.1 benchmark, matching the flagship Argon at lower cost.",
+      "tags": [
+        "gemini",
+        "robotics",
+        "google",
+        "antigravity"
+      ],
+      "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+      "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+      "id": "gemini-4-hydrogen-a-faster-model-for-general-purpose-robotics",
+      "added_at": "2026-11-18T11:33:51Z"
+    },
+    {
       "published_at": "2026-11-18T08:00:00Z",
       "source": "UK Parliament",
       "summary": "A UK parliamentary committee report calls for statutory reporting of frontier AI safety incidents, noting OpenAI and Anthropic backed a legal footing while Google DeepMind and Meta preferred standardised voluntary frameworks.",
