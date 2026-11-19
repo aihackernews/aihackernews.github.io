@@ -1,6 +1,167 @@
 {
   "records": [
     {
+      "published_at": "2026-11-19T20:13:00Z",
+      "source": "Reuters",
+      "summary": "Meta plans to price its pocket-sized Muse Charm AI device at $300 and bundle up to 12 months of free Verizon 5G data, ahead of a planned holiday-season launch in December.",
+      "tags": [
+        "meta",
+        "hardware",
+        "ai-devices"
+      ],
+      "title": "Meta to price Muse Charm gadget at $300, The Information reports",
+      "url": "https://www.reuters.com/business/media-telecom/meta-price-muse-charm-gadget-300-information-reports-2026-11-19/",
+      "id": "meta-to-price-muse-charm-gadget-at-300-the-information-reports",
+      "added_at": "2026-11-19T20:42:50Z"
+    },
+    {
+      "published_at": "2026-11-19T19:58:00Z",
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon Polly now offers voice cloning as a gated generally available release: a few minutes of recordings from a consenting speaker produce a custom generative voice in seven languages, with consent confirmation, watermarking and account-scoped access controls.",
+      "tags": [
+        "aws",
+        "voice",
+        "text-to-speech"
+      ],
+      "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/",
+      "id": "amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand",
+      "added_at": "2026-11-19T20:42:50Z"
+    },
+    {
+      "published_at": "2026-11-19T18:09:11Z",
+      "source": "TechCrunch",
+      "summary": "Google is bringing computer use to the Gemini desktop app on macOS, letting the AI complete multistep tasks across native Mac apps, files and the web in a live preview for Google AI Plus, Pro and Ultra subscribers in the US.",
+      "tags": [
+        "google",
+        "gemini",
+        "computer-use",
+        "macos"
+      ],
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "id": "google-gives-gemini-the-ability-to-use-your-mac-for-you",
+      "added_at": "2026-11-19T20:42:50Z"
+    },
+    {
+      "published_at": "2026-11-19T17:38:00Z",
+      "source": "TechCrunch",
+      "summary": "Internal Meta posts reviewed by Reuters show employees flagging that the Muse AI agent surfaced other users' messages, bank balances and Signal reminders across accounts; Meta says staff test versions the public does not have.",
+      "tags": [
+        "meta",
+        "privacy",
+        "ai-agents",
+        "safety"
+      ],
+      "title": "Meta's AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "id": "meta-s-ai-agent-muse-is-mixing-up-conversations-and-could-be-exposing-private-da",
+      "added_at": "2026-11-19T20:42:50Z"
+    },
+    {
+      "published_at": "2026-11-19T17:02:41Z",
+      "source": "The Decoder",
+      "summary": "After the US closed the cloud loophole for AI chips, Moonshot AI cancelled a $150M Indonesia deal and TSMC and Samsung halted shipments to Chinese customers, while a NYT investigation found Alibaba routed Nvidia chips to Chinese military-linked researchers via front companies.",
+      "tags": [
+        "china",
+        "chips",
+        "policy",
+        "cloud"
+      ],
+      "title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
+      "url": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
+      "id": "chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-a",
+      "added_at": "2026-11-19T20:42:50Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI describes Performance Factory, a Codex-powered system that autonomously investigates ChatGPT performance regressions, proposes fixes, and verifies recovery in production, root-causing over 600 cases in just over three months.",
+      "tags": [
+        "openai",
+        "codex",
+        "chatgpt",
+        "engineering"
+      ],
+      "title": "How OpenAI's Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/",
+      "id": "how-openai-s-performance-factory-keeps-chatgpt-fast",
+      "added_at": "2026-11-19T20:42:50Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "Google Blog",
+      "summary": "Blue Origin's New Glenn rocket will launch Google's Project Suncatcher satellites, each carrying roughly a data-center rack's worth of TPU compute, into sun-synchronous orbit in Q1 2029 to test running machine-learning workloads in space.",
+      "tags": [
+        "google",
+        "blue-origin",
+        "space",
+        "infrastructure"
+      ],
+      "title": "Google partners with Blue Origin on Project Suncatcher heavy-lift launch",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+      "id": "google-partners-with-blue-origin-on-project-suncatcher-heavy-lift-launch",
+      "added_at": "2026-11-19T20:42:50Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "Technology.org",
+      "summary": "Interim CEO Colette Kress said on Nvidia's earnings call that the company has stopped shipping licensed Hopper data-center chips, including the H200, to China, and its guidance now assumes no China data-center revenue.",
+      "tags": [
+        "nvidia",
+        "chips",
+        "china",
+        "policy"
+      ],
+      "title": "Nvidia stops shipping Hopper AI chips to China",
+      "url": "https://www.technology.org/2026/11/19/nvidia-stops-shipping-hopper-h200-ai-chips-china-kress/",
+      "id": "nvidia-stops-shipping-hopper-ai-chips-to-china",
+      "added_at": "2026-11-19T20:42:50Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "Hugging Face",
+      "summary": "OVHcloud released the open weights for Olala Mini 7A1B, its first in-house model: 6.8B total parameters with only about 1B active per token, a 32K-token context, trained on European supercomputers and designed to run on a laptop or an 8GB GPU.",
+      "tags": [
+        "open-weights",
+        "models",
+        "ovhcloud"
+      ],
+      "title": "OVHcloud releases open-weight Olala Mini 7A1B model that runs on a laptop",
+      "url": "https://huggingface.co/OVHaiLLM/Olala-v1.0-mini-7A1B",
+      "id": "ovhcloud-releases-open-weight-olala-mini-7a1b-model-that-runs-on-a-laptop",
+      "added_at": "2026-11-19T20:42:50Z"
+    },
+    {
+      "published_at": "2026-11-19T01:39:00Z",
+      "source": "PYMNTS",
+      "summary": "Palo Alto Networks agreed to acquire Applied Compute, a platform for post-training and inference of open-weight AI models, in an all-stock deal valued at $4.5 billion, expected to close in fiscal Q3 2027.",
+      "tags": [
+        "funding",
+        "acquisition",
+        "startups"
+      ],
+      "title": "Palo Alto Networks plans $4.5 billion acquisition of AI startup Applied Compute",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/palo-alto-networks-plans-4-5-billion-acquisition-of-ai-startup-applied-compute/",
+      "id": "palo-alto-networks-plans-4-5-billion-acquisition-of-ai-startup-applied-compute",
+      "added_at": "2026-11-19T20:42:50Z"
+    },
+    {
+      "published_at": "2026-11-17T12:00:00Z",
+      "source": "Anthropic",
+      "summary": "Anthropic reports Claude solved two long-open theoretical-physics problems: completing a black-hole calculation set out in 2003 and finding the exact limit of a quantum-gravity testing technique, with teams of agent copies working for about six weeks and key results verified in Lean.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "research",
+        "physics"
+      ],
+      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "id": "claude-fable-5-2-solves-two-open-problems-in-the-physics-of-black-holes",
+      "added_at": "2026-11-19T20:42:50Z"
+    },
+    {
       "published_at": "2026-11-19T16:59:00Z",
       "source": "TechCrunch",
       "summary": "Anthropic began trading on Nasdaq as ANT, opening at $111.50 — a 33% premium over its $83 IPO price — valuing the Claude maker above $2 trillion. CEO Dario Amodei used the opening-bell speech to recommit to pacing AI development safely.",
