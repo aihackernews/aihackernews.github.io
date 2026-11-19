@@ -1,6 +1,132 @@
 {
   "records": [
     {
+      "published_at": "2026-11-19T00:42:56Z",
+      "source": "TechCrunch",
+      "summary": "Nadella said the buyouts offered to 60,000 Microsoft employees were about reorganizing the company around AI, with employees shifting from doing work directly to managing AI agents, rather than being replaced by AI outright.",
+      "tags": [
+        "microsoft",
+        "ai-agents",
+        "workforce"
+      ],
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "id": "microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
+      "added_at": "2026-11-19T05:42:13Z"
+    },
+    {
+      "published_at": "2026-11-19T00:30:00Z",
+      "source": "New York Post",
+      "summary": "Gov. Gavin Newsom released an 85-page report proposing California gain emergency powers to shut down dangerous AI systems, require independent safety inspections, and curb recursive self-improvement research that could outpace human oversight.",
+      "tags": [
+        "ai-policy",
+        "ai-safety",
+        "california"
+      ],
+      "title": "Gavin Newsom releases rogue AI report, calls for giving California the power to pull the plug",
+      "url": "https://nypost.com/2026/11/18/us-news/gavin-newsom-proposes-sweeping-new-restrictions-on-ai/",
+      "id": "gavin-newsom-releases-rogue-ai-report-calls-for-giving-california-the-power-to-p",
+      "added_at": "2026-11-19T05:42:13Z"
+    },
+    {
+      "published_at": "2026-11-19T00:15:58Z",
+      "source": "AWS Machine Learning Blog",
+      "summary": "AWS added full fine-tuning to SageMaker AI's serverless model customization, letting teams fully fine-tune models without managing training infrastructure; AWS reports 90% semantic correctness in a coding experiment with over 100,000 examples.",
+      "tags": [
+        "aws",
+        "fine-tuning",
+        "sagemaker"
+      ],
+      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+      "url": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+      "id": "full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization",
+      "added_at": "2026-11-19T05:42:13Z"
+    },
+    {
+      "published_at": "2026-11-18T23:17:28Z",
+      "source": "TechCrunch",
+      "summary": "Speaking at the DealBook Summit, Nadella said he retains confidence in Nvidia's team under interim CEO Colette Kress after Jensen Huang's resignation, calling the departure 'pretty tragic.'",
+      "tags": [
+        "nvidia",
+        "microsoft",
+        "leadership"
+      ],
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang's exit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "id": "microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huang-s-exit",
+      "added_at": "2026-11-19T05:42:13Z"
+    },
+    {
+      "published_at": "2026-11-18T22:56:00Z",
+      "source": "The Verge",
+      "summary": "Musk said Jensen Huang's departure from xAI's board was 'a no-brainer' following Huang's resignation as Nvidia CEO.",
+      "tags": [
+        "xai",
+        "nvidia",
+        "elon-musk"
+      ],
+      "title": "Elon Musk on Jensen Huang's departure from xAI's board: 'It's a no-brainer.'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037171/elon-musk-jensen-huang-xai-board-nvidia-grok",
+      "id": "elon-musk-on-jensen-huang-s-departure-from-xai-s-board-it-s-a-no-brainer",
+      "added_at": "2026-11-19T05:42:13Z"
+    },
+    {
+      "published_at": "2026-11-18T18:34:00Z",
+      "source": "The Verge",
+      "summary": "In Nvidia's first earnings call without Jensen Huang, interim CEO Colette Kress pushed back on brain-drain fears and signaled tighter reins on customer financing, raising the question of how much of Nvidia's dominance rested on Huang himself.",
+      "tags": [
+        "nvidia",
+        "earnings",
+        "analysis"
+      ],
+      "title": "What is Nvidia without AI's sugar daddy, the US government?",
+      "url": "https://www.theverge.com/tech/1036647/nvidia-q3-earnings-ai-sugar-daddy-us-government",
+      "id": "what-is-nvidia-without-ai-s-sugar-daddy-the-us-government",
+      "added_at": "2026-11-19T05:42:13Z"
+    },
+    {
+      "published_at": "2026-11-18T17:50:00Z",
+      "source": "The Verge",
+      "summary": "Disney showed off new Star Wars animatronics whose AI-driven behavior gives the characters distinct personalities, a step toward more lifelike theme-park figures.",
+      "tags": [
+        "disney",
+        "robotics",
+        "ai"
+      ],
+      "title": "Disney's new Star Wars animatronics have actual personality",
+      "url": "https://www.theverge.com/tech/1037018/disney-star-wars-animatronic-personality-ai",
+      "id": "disney-s-new-star-wars-animatronics-have-actual-personality",
+      "added_at": "2026-11-19T05:42:13Z"
+    },
+    {
+      "published_at": "2026-11-18T17:26:28Z",
+      "source": "Hacker News",
+      "summary": "Maritime, a Y Combinator F26 startup, launched a managed cloud that gives each production AI agent its own computer — persistent workspaces, sandboxes, desktops and phones — starting at $1 per month per agent.",
+      "tags": [
+        "ai-agents",
+        "cloud",
+        "startups"
+      ],
+      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "url": "https://news.ycombinator.com/item?id=50549188",
+      "id": "launch-hn-maritime-yc-f26-a-managed-cloud-for-production-ai-agents",
+      "added_at": "2026-11-19T05:42:13Z"
+    },
+    {
+      "published_at": "2026-11-18T00:00:00Z",
+      "source": "Slow Chronicle",
+      "summary": "A veteran hacker describes his workflow for AI-assisted reverse engineering, pointing agents at binaries with DeepSeek, Ghidra via an MCP bridge, and radare2, and credits the approach with device and firmware hacks that would have taken years by hand.",
+      "tags": [
+        "llm",
+        "reverse-engineering",
+        "agents"
+      ],
+      "title": "LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "id": "llm-assisted-reverse-engineering",
+      "added_at": "2026-11-19T05:42:13Z"
+    },
+    {
       "published_at": "2026-11-18T23:45:00Z",
       "source": "TechCrunch",
       "summary": "At the NYT DealBook Summit, Microsoft's CEO warned that much US critical infrastructure runs on firmware that can't be patched, just as AI makes sophisticated cyberattacks easier to carry out. He also argued AI-driven vulnerability discovery is forcing patches into production faster than systems can safely absorb them.",
