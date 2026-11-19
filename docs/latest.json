@@ -1,6 +1,81 @@
 {
   "records": [
     {
+      "published_at": "2026-11-18T22:01:00Z",
+      "source": "Runtime Wire",
+      "summary": "OpenAI launched ChatGPT for Accounting, a dedicated plugin plus partner connectors for QuickBooks, Xero, Oracle NetSuite, BILL, FreshBooks, Rillet and Campfire, to handle invoices, bank reconciliation, month-end reports and audit prep, with humans approving entries before they post.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "accounting",
+        "product"
+      ],
+      "title": "OpenAI launches ChatGPT for Accounting across QuickBooks, Xero and NetSuite",
+      "url": "https://runtimewire.com/article/openai-launches-chatgpt-for-accounting-across-quickbooks-xero-and-netsuite",
+      "id": "openai-launches-chatgpt-for-accounting-across-quickbooks-xero-and-netsuite",
+      "added_at": "2026-11-19T08:34:01Z"
+    },
+    {
+      "published_at": "2026-11-18T19:49:00Z",
+      "source": "Runtime Wire",
+      "summary": "Firecrawl launched Firecrawl Local, an open-source single Rust binary that runs its scrape, crawl and map tools on the user's own machine, doubles as an MCP server for AI coding agents, and serves the Firecrawl v2 API on localhost, with no API key needed for local routes.",
+      "tags": [
+        "firecrawl",
+        "open-source",
+        "agents",
+        "developer-tools"
+      ],
+      "title": "Firecrawl Local puts its Rust scraper on the laptop, says it idles at 11 MB",
+      "url": "https://runtimewire.com/article/firecrawl-local-puts-its-rust-scraper-on-the-laptop-says-it-idles-at-11-mb",
+      "id": "firecrawl-local-puts-its-rust-scraper-on-the-laptop-says-it-idles-at-11-mb",
+      "added_at": "2026-11-19T08:34:01Z"
+    },
+    {
+      "published_at": "2026-11-18T18:57:00Z",
+      "source": "9to5Mac",
+      "summary": "OpenAI rolled out Live Dictation in ChatGPT, transcribing speech into text in real time as users talk instead of waiting for a recording to finish, and removed the previous 10-minute dictation limit. It is rolling out globally to all ChatGPT plans on iOS, Android, web and desktop.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "voice",
+        "dictation"
+      ],
+      "title": "ChatGPT app gains enhanced Live Dictation streaming without 10-minute limit",
+      "url": "https://9to5mac.com/2026/11/18/chatgpt-app-gains-enhanced-live-dictation-streaming-without-10-minute-limit/",
+      "id": "chatgpt-app-gains-enhanced-live-dictation-streaming-without-10-minute-limit",
+      "added_at": "2026-11-19T08:34:01Z"
+    },
+    {
+      "published_at": "2026-11-18T16:00:00Z",
+      "source": "Google Blog",
+      "summary": "Google Labs introduced Stitch Loop, a long-running product agent that connects to a codebase and live metrics to keep improving a shipped product around the clock, testing fixes in a sandbox and opening GitHub pull requests for human review. A global waitlist opened, with Google AI Ultra users getting priority access.",
+      "tags": [
+        "google",
+        "agents",
+        "stitch",
+        "developer-tools"
+      ],
+      "title": "Stitch Loop: Continuous product optimization for teams",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
+      "id": "stitch-loop-continuous-product-optimization-for-teams",
+      "added_at": "2026-11-19T08:34:01Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "VPSRanking",
+      "summary": "OpenAI opened a public beta for discounted completion windows in the Responses API's background mode: a 2-hour target cuts token rates 30% below Standard and an 8-hour target cuts them 40%, for GPT-6.2 Astra, GPT-6.2 Sol, GPT-6.1 Terra and GPT-6 Luna, aimed at long-running agent workflows that can wait.",
+      "tags": [
+        "openai",
+        "api",
+        "pricing",
+        "gpt-6"
+      ],
+      "title": "OpenAI adds discounted 2-hour and 8-hour background completion windows to the Responses API",
+      "url": "https://vpsranking.com/news/ai/ai-2026-11-17-openai-responses-background-completion-windows/",
+      "id": "openai-adds-discounted-2-hour-and-8-hour-background-completion-windows-to-the-re",
+      "added_at": "2026-11-19T08:34:01Z"
+    },
+    {
       "published_at": "2026-11-19T00:42:56Z",
       "source": "TechCrunch",
       "summary": "Nadella said the buyouts offered to 60,000 Microsoft employees were about reorganizing the company around AI, with employees shifting from doing work directly to managing AI agents, rather than being replaced by AI outright.",
