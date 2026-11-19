@@ -1,6 +1,66 @@
 {
   "records": [
     {
+      "published_at": "2026-11-19T09:33:00Z",
+      "source": "The Verge",
+      "summary": "Google is bundling YouTube Premium Family into its top-tier AI Ultra subscription, adding a family streaming perk to the plan that already includes its most capable Gemini models and higher usage limits.",
+      "tags": [
+        "google",
+        "gemini",
+        "ai-ultra",
+        "youtube"
+      ],
+      "title": "Google's AI Ultra plan now includes YouTube Premium Family",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036994/googles-ai-ultra-plan-now-includes-youtube-premium-family",
+      "id": "google-s-ai-ultra-plan-now-includes-youtube-premium-family",
+      "added_at": "2026-11-19T11:34:33Z"
+    },
+    {
+      "published_at": "2026-11-18T23:24:00Z",
+      "source": "The Verge",
+      "summary": "New York City, Los Angeles and Chicago school districts are weighing alternatives to Google Search after Google said schools that opt out of its Gemini-powered AI features will lose Search access too, since the two are deeply integrated.",
+      "tags": [
+        "google",
+        "gemini",
+        "education",
+        "ai-policy"
+      ],
+      "title": "The nation's largest school districts consider ditching Google Search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037047/nations-largest-school-districts-consider-ditching-google-search",
+      "id": "the-nation-s-largest-school-districts-consider-ditching-google-search",
+      "added_at": "2026-11-19T11:34:33Z"
+    },
+    {
+      "published_at": "2026-11-18T21:31:00Z",
+      "source": "TechCrunch",
+      "summary": "Anduril CEO Palmer Luckey argued at the NYT DealBook Summit that China benefits from Jensen Huang's ouster from Nvidia and wants the ousted CEO reinstated, pointing to a petition signed by more than 200,000 people including Elon Musk and other tech CEOs.",
+      "tags": [
+        "nvidia",
+        "jensen-huang",
+        "palmer-luckey",
+        "leadership"
+      ],
+      "title": "Palmer Luckey thinks China is 'thrilled to have Jensen out,' so he wants the ousted Nvidia CEO reinstated",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "id": "palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted",
+      "added_at": "2026-11-19T11:34:33Z"
+    },
+    {
+      "published_at": "2026-11-18T16:14:09Z",
+      "source": "TechCrunch",
+      "summary": "Speaking at the NYT DealBook Summit, Sam Altman and Greg Brockman said they had spoken privately with Jensen Huang after his resignation, crediting Huang's early bet on OpenAI while declining to speculate on whether he will return to Nvidia.",
+      "tags": [
+        "openai",
+        "sam-altman",
+        "nvidia",
+        "jensen-huang"
+      ],
+      "title": "OpenAI CEO Sam Altman says it's 'hard to imagine the AI industry without Jensen'",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "id": "openai-ceo-sam-altman-says-it-s-hard-to-imagine-the-ai-industry-without-jensen",
+      "added_at": "2026-11-19T11:34:33Z"
+    },
+    {
       "published_at": "2026-11-18T22:01:00Z",
       "source": "Runtime Wire",
       "summary": "OpenAI launched ChatGPT for Accounting, a dedicated plugin plus partner connectors for QuickBooks, Xero, Oracle NetSuite, BILL, FreshBooks, Rillet and Campfire, to handle invoices, bank reconciliation, month-end reports and audit prep, with humans approving entries before they post.",
