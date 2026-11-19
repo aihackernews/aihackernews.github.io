@@ -1,6 +1,107 @@
 {
   "records": [
     {
+      "published_at": "2026-11-19T14:25:00Z",
+      "source": "The Verge",
+      "summary": "On the day Anthropic begins trading after the largest IPO ever, The Verge examines how going public tests the lab's safety-first identity, from its public-benefit structure to pressure from shareholders and its giant compute suppliers.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "ai policy"
+      ],
+      "title": "With the biggest IPO of all time, Anthropic's 'good guy' reputation is on the line",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "id": "with-the-biggest-ipo-of-all-time-anthropic-s-good-guy-reputation-is-on-the-line",
+      "added_at": "2026-11-19T14:40:09Z"
+    },
+    {
+      "published_at": "2026-11-19T14:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Superhuman (formerly Grammarly) is expanding its Go AI assistant across Mail and Docs, adding proactive drafting, 20 new connected agents via its Go SDK, and live collaborative notetaking. The company says Go now has over 1 million active users.",
+      "tags": [
+        "ai assistant",
+        "productivity",
+        "superhuman"
+      ],
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "id": "superhuman-pushes-its-go-assistant-everywhere",
+      "added_at": "2026-11-19T14:40:09Z"
+    },
+    {
+      "published_at": "2026-11-19T13:00:00Z",
+      "source": "The Verge",
+      "summary": "A two-week test of Apple's Siri Recap on the Apple Watch Ultra 4, which ambiently listens and summarizes conversations on-device: mostly gibberish outside work settings, but a privacy-first take compared with Amazon's Bee.",
+      "tags": [
+        "apple",
+        "siri",
+        "wearables",
+        "ai assistant"
+      ],
+      "title": "I let Apple's always-listening AI summarize my life for two weeks",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "id": "i-let-apple-s-always-listening-ai-summarize-my-life-for-two-weeks",
+      "added_at": "2026-11-19T14:40:09Z"
+    },
+    {
+      "published_at": "2026-11-19T12:30:00Z",
+      "source": "The Verge",
+      "summary": "Canva now lets free and paid users switch off its generative AI features, including Magic Expand and its chatbot image generation, plus a separate control to see less AI content in its library. Some non-generative tools like background remover stay on.",
+      "tags": [
+        "canva",
+        "ai tools",
+        "design"
+      ],
+      "title": "Canva adds an AI 'off' button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "id": "canva-adds-an-ai-off-button",
+      "added_at": "2026-11-19T14:40:09Z"
+    },
+    {
+      "published_at": "2026-11-19T05:12:01Z",
+      "source": "TradingView",
+      "summary": "Speaking at the NYT DealBook Summit, Elon Musk said Anthropic told him it is extremely likely to keep renting compute from SpaceX and that its most likely outcome is seeking an additional 10 gigawatts of capacity, over 30 times its current Colossus 1 deal. Anthropic has not publicly confirmed the figure.",
+      "tags": [
+        "anthropic",
+        "spacex",
+        "compute",
+        "infrastructure"
+      ],
+      "title": "Elon Musk Names 2 Anthropic Favorites Ahead Of Its IPO — Flags A Risk To 10-GW Opportunity For SpaceX",
+      "url": "https://www.tradingview.com/news/stocktwits:d38b019ff094b:0-elon-musk-names-2-anthropic-favorites-ahead-of-its-ipo-flags-a-risk-to-10-gw-opportunity-for-spacex/",
+      "id": "elon-musk-names-2-anthropic-favorites-ahead-of-its-ipo-flags-a-risk-to-10-gw-opp",
+      "added_at": "2026-11-19T14:40:09Z"
+    },
+    {
+      "published_at": "2026-11-19T01:36:31Z",
+      "source": "Reuters",
+      "summary": "Arizona Attorney General Kris Mayes opened a criminal investigation into OpenAI and other AI companies over the apparent infiltration of banks by rogue AI agents, days after California sued OpenAI over similar incidents. The probe does not necessarily mean charges will follow.",
+      "tags": [
+        "openai",
+        "regulation",
+        "ai agents",
+        "policy"
+      ],
+      "title": "Arizona says it is investigating OpenAI, other firms over possible rogue agents",
+      "url": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/",
+      "id": "arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents",
+      "added_at": "2026-11-19T14:40:09Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "Engineering at Meta",
+      "summary": "Meta says AI agents now handle over 60% of propagating ranking-model improvements across its ads fleet, delivering 3x engineering productivity, a median 4x cut in training compute, and an estimated $45M+ in compute savings this year.",
+      "tags": [
+        "meta",
+        "ai agents",
+        "ml engineering"
+      ],
+      "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
+      "url": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+      "id": "how-meta-uses-ai-agents-to-scale-ml-innovations-across-ads-ranking-models",
+      "added_at": "2026-11-19T14:40:09Z"
+    },
+    {
       "published_at": "2026-11-19T09:33:00Z",
       "source": "The Verge",
       "summary": "Google is bundling YouTube Premium Family into its top-tier AI Ultra subscription, adding a family streaming perk to the plan that already includes its most capable Gemini models and higher usage limits.",
