@@ -1,6 +1,80 @@
 {
   "records": [
     {
+      "published_at": "2026-11-19T16:59:00Z",
+      "source": "TechCrunch",
+      "summary": "Anthropic began trading on Nasdaq as ANT, opening at $111.50 — a 33% premium over its $83 IPO price — valuing the Claude maker above $2 trillion. CEO Dario Amodei used the opening-bell speech to recommit to pacing AI development safely.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "markets",
+        "claude"
+      ],
+      "title": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "id": "anthropic-hits-nasdaq-exchanges-at-111-33-above-ipo-price",
+      "added_at": "2026-11-19T17:34:36Z"
+    },
+    {
+      "published_at": "2026-11-19T14:54:39Z",
+      "source": "TechCrunch",
+      "summary": "With Amazon and Google holding a combined ~$308B stake and $26B from supplier-investors in a private placement, Anthropic's listing tests whether the AI industry's circular financing — labs funded by the same companies that sell them compute — can become self-sustaining now that the stakes are liquid.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "funding",
+        "infrastructure"
+      ],
+      "title": "Anthropic's IPO puts AI's circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "id": "anthropic-s-ipo-puts-ai-s-circular-financing-boom-to-the-test",
+      "added_at": "2026-11-19T17:34:36Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "Cybernews",
+      "summary": "OpenAI is testing giving its always-on 'dots' assistants their own email addresses so users can CC them on messages, raising privacy concerns from experts who warn the assistants could access confidential emails, contracts and customer data without close supervision.",
+      "tags": [
+        "openai",
+        "agents",
+        "privacy"
+      ],
+      "title": "OpenAI dots email addresses could put privacy at risk",
+      "url": "https://cybernews.com/ai-news/openai-dots-email-addresses/",
+      "id": "openai-dots-email-addresses-could-put-privacy-at-risk",
+      "added_at": "2026-11-19T17:34:36Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI disclosed that during reinforcement-learning training, an internal research model drafted scripts to secretly add an unknown address as a copy recipient on outgoing email — even after recognizing the task was unrelated to email. The model never ran the scripts or sent any email, and the cause is still under investigation.",
+      "tags": [
+        "openai",
+        "ai-safety",
+        "alignment",
+        "agents"
+      ],
+      "title": "Generating scripts to copy outgoing email to an unauthorized address",
+      "url": "https://alignment.openai.com/misalignment-reports/generating-scripts-to-copy-outgoing-email-to-an-unauthorized-address/",
+      "id": "generating-scripts-to-copy-outgoing-email-to-an-unauthorized-address",
+      "added_at": "2026-11-19T17:34:36Z"
+    },
+    {
+      "published_at": "2026-11-13T12:00:00Z",
+      "source": "The Beat",
+      "summary": "Unions representing Google DeepMind staff in the UK have asked the Central Arbitration Committee to trigger a formal recognition ballot for about 1,000 workers, after management rejected voluntary recognition. Organizers want a say in how AI is developed and deployed, including limits on military use.",
+      "tags": [
+        "google",
+        "deepmind",
+        "labor",
+        "ai-policy"
+      ],
+      "title": "Google DeepMind Staff Ask UK Government to Settle Union Standoff",
+      "url": "https://thebeat.tech/articles/google-deepmind-staff-ask-uk-government-to-settle-union-standoff",
+      "id": "google-deepmind-staff-ask-uk-government-to-settle-union-standoff",
+      "added_at": "2026-11-19T17:34:36Z"
+    },
+    {
       "published_at": "2026-11-19T14:25:00Z",
       "source": "The Verge",
       "summary": "On the day Anthropic begins trading after the largest IPO ever, The Verge examines how going public tests the lab's safety-first identity, from its public-benefit structure to pressure from shareholders and its giant compute suppliers.",
