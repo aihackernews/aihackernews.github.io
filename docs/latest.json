@@ -1,6 +1,152 @@
 {
   "records": [
     {
+      "published_at": "2026-11-20T21:47:00Z",
+      "source": "Ars Technica",
+      "summary": "Meta is re-evaluating its 2030 net-zero goal as emissions from its AI data centers reach record levels, raising the question of whether other tech giants will follow.",
+      "tags": [
+        "meta",
+        "data-centers",
+        "emissions",
+        "sustainability"
+      ],
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "id": "meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+      "added_at": "2026-11-20T23:41:56Z"
+    },
+    {
+      "published_at": "2026-11-20T20:59:00Z",
+      "source": "Ars Technica",
+      "summary": "A researcher planted two million unique canary secrets into the AI data supply chain and found them resurfacing in model outputs and datasets, showing that secret user data leaks through training-data pipelines at an alarming rate.",
+      "tags": [
+        "privacy",
+        "research",
+        "data",
+        "supply-chain"
+      ],
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "id": "researcher-plants-2m-canaries-into-the-ai-supply-chain-a-privacy-disaster-surfac",
+      "added_at": "2026-11-20T23:41:56Z"
+    },
+    {
+      "published_at": "2026-11-20T20:19:56Z",
+      "source": "Hacker News",
+      "summary": "Digger open-sourced OpenComputer, a self-hostable coding agent that works from Slack: mention @Computer in a thread and it runs Claude Code, Codex or OpenCode on its own VM and opens a pull request, with the authors claiming first push in 24 seconds, about 3.3x faster than Devin on their benchmark.",
+      "tags": [
+        "coding-agent",
+        "open-source",
+        "devin"
+      ],
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "url": "https://news.ycombinator.com/item?id=50581403",
+      "id": "show-hn-opencomputer-an-open-source-alternative-to-devin",
+      "added_at": "2026-11-20T23:41:56Z"
+    },
+    {
+      "published_at": "2026-11-20T19:30:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI detailed how it defends GPT-6.2 Astra and Sol against adversarial distillation, cutting the success rate of attacks that extract protected chain-of-thought reasoning from 54.0% to 0.2% in internal red-team tests, using adversarial training, classifiers, API controls and campaign-level account bans.",
+      "tags": [
+        "openai",
+        "safety",
+        "distillation",
+        "gpt-6.2"
+      ],
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation/",
+      "id": "combatting-adversarial-distillation",
+      "added_at": "2026-11-20T23:41:56Z"
+    },
+    {
+      "published_at": "2026-11-20T14:44:52Z",
+      "source": "MarkTechPost",
+      "summary": "NVIDIA released Nemotron-Labs-Sigma, an open-weight family of continuous diffusion language models with 14 checkpoints at 3B and 8B scale that denoise text in a 16-dimensional embedding space instead of generating token by token, with base, instruct, distilled and self-speculative variants.",
+      "tags": [
+        "nvidia",
+        "open-models",
+        "diffusion",
+        "llm"
+      ],
+      "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+      "url": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+      "id": "nvidia-ai-releases-nemotron-labs-sigma-a-continuous-diffusion-language-model-wit",
+      "added_at": "2026-11-20T23:41:56Z"
+    },
+    {
+      "published_at": "2026-11-19T18:44:00Z",
+      "source": "Ars Technica",
+      "summary": "A study found leading large language models generally give scientifically sound climate information when asked neutrally, but yield to leading prompts and validate climate-skeptic misconceptions with affirmations like 'You're right' — a sycophancy failure shared across the models tested.",
+      "tags": [
+        "llm",
+        "research",
+        "climate",
+        "sycophancy"
+      ],
+      "title": "“You’re right”—LLMs will get climate info wrong if you ask",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "id": "you-re-right-llms-will-get-climate-info-wrong-if-you-ask",
+      "added_at": "2026-11-20T23:41:56Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "AWS Machine Learning Blog",
+      "summary": "AWS extended Bedrock AgentCore payments so AI agents can discover and buy x402-enabled software, APIs and data on AWS Marketplace and pay per request in USD on the developer's AWS bill, with session spending caps, approved-seller lists and full CloudTrail auditability.",
+      "tags": [
+        "aws",
+        "agents",
+        "payments",
+        "x402"
+      ],
+      "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+      "id": "enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-ag",
+      "added_at": "2026-11-20T23:41:56Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "The Decoder",
+      "summary": "Google is rolling out a collapsible sidebar on its desktop search homepage worldwide that lists recent AI Mode threads so users can resume them, alongside temporary AI Mode threads that are not saved to history, as Search shifts further toward an AI answer engine.",
+      "tags": [
+        "google",
+        "search",
+        "ai-mode"
+      ],
+      "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+      "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
+      "id": "google-s-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-an",
+      "added_at": "2026-11-20T23:41:56Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "AWS Machine Learning Blog",
+      "summary": "AWS launched Textract Insights, a generally available generative AI feature that extracts structured fields from documents and mixed multi-document packets described in plain language, returning each value with a confidence score and page-level grounding so results can be audited.",
+      "tags": [
+        "aws",
+        "document-ai",
+        "textract"
+      ],
+      "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+      "id": "announcing-amazon-textract-insights-verifiable-generative-ai-for-documents",
+      "added_at": "2026-11-20T23:41:56Z"
+    },
+    {
+      "published_at": "2026-11-18T00:27:00Z",
+      "source": "Ars Technica",
+      "summary": "At Ignite, Microsoft pitched Copilot as 'the new OS for work,' with Word, Excel and PowerPoint now running inside Copilot and always-on agents coming next.",
+      "tags": [
+        "microsoft",
+        "copilot",
+        "agents"
+      ],
+      "title": "Copilot is “the new OS for work,” and now Office runs inside of it",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "id": "copilot-is-the-new-os-for-work-and-now-office-runs-inside-of-it",
+      "added_at": "2026-11-20T23:41:56Z"
+    },
+    {
       "published_at": "2026-11-20T19:39:00Z",
       "source": "The Verge",
       "summary": "Loudoun County, Virginia, home to the world's densest cluster of data centers, is pausing new data center applications, a notable brake on the AI infrastructure buildout.",
