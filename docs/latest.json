@@ -1,6 +1,117 @@
 {
   "records": [
     {
+      "published_at": "2026-11-20T19:39:00Z",
+      "source": "The Verge",
+      "summary": "Loudoun County, Virginia, home to the world's densest cluster of data centers, is pausing new data center applications, a notable brake on the AI infrastructure buildout.",
+      "tags": [
+        "data-centers",
+        "policy",
+        "infrastructure"
+      ],
+      "title": "Loudoun County is pausing new data center applications",
+      "url": "https://www.theverge.com/policy/1038917/loudoun-county-is-pausing-new-data-center-applications",
+      "id": "loudoun-county-is-pausing-new-data-center-applications",
+      "added_at": "2026-11-20T20:38:34Z"
+    },
+    {
+      "published_at": "2026-11-20T19:30:00Z",
+      "source": "Reuters",
+      "summary": "The SEC is examining potential accounting issues at Nvidia, including a past change to how the company reports regional revenue that removed Singapore from its geographic breakdown, adding a new regulatory front as the chipmaker faces fallout from the Huang scandal.",
+      "tags": [
+        "nvidia",
+        "regulation",
+        "sec"
+      ],
+      "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
+      "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+      "id": "nvidia-s-accounting-is-a-focus-of-us-sec-investigation-sources-say",
+      "added_at": "2026-11-20T20:38:34Z"
+    },
+    {
+      "published_at": "2026-11-20T18:50:00Z",
+      "source": "The Verge",
+      "summary": "President Trump threatened a large tax on companies that move AI data centers outside the United States, pressuring firms to keep AI infrastructure domestic.",
+      "tags": [
+        "policy",
+        "data-centers"
+      ],
+      "title": "Trump threatens 'tremendous tax' for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "id": "trump-threatens-tremendous-tax-for-moving-ai-data-centers-outside-the-us",
+      "added_at": "2026-11-20T20:38:34Z"
+    },
+    {
+      "published_at": "2026-11-20T17:36:00Z",
+      "source": "The Verge",
+      "summary": "A charity linked to former Nvidia CEO Jensen Huang is spending $350 million on CoreWeave, the AI cloud provider, tying the ousted chief's philanthropy to AI compute.",
+      "tags": [
+        "nvidia",
+        "coreweave",
+        "infrastructure"
+      ],
+      "title": "Jensen Huang's charity is spending $350 million on CoreWeave",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038792/jensen-huangs-charity-is-spending-350-million-on-coreweave",
+      "id": "jensen-huang-s-charity-is-spending-350-million-on-coreweave",
+      "added_at": "2026-11-20T20:38:34Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI introduced MedChemBench, a 99-problem benchmark testing whether AI models can reason about medicinal chemistry, with GPT-6.2 Astra scoring highest at 84.5% of available credit.",
+      "tags": [
+        "openai",
+        "benchmark",
+        "science"
+      ],
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench/",
+      "id": "can-ai-help-scientists-identify-promising-drug-candidates",
+      "added_at": "2026-11-20T20:38:34Z"
+    },
+    {
+      "published_at": "2026-11-20T00:30:00Z",
+      "source": "Hugging Face Blog",
+      "summary": "Thinking Machines Lab released Inkling 2 Mini, a small multimodal mixture-of-experts model built for local setups that loops its middle layers three times to act larger than its 26B parameters, with a 1M-token context and image input.",
+      "tags": [
+        "thinking-machines",
+        "open-weights",
+        "models"
+      ],
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "id": "welcome-inkling-2-mini-cutting-edge-performance-for-your-local-setup",
+      "added_at": "2026-11-20T20:38:34Z"
+    },
+    {
+      "published_at": "2026-11-20T00:30:00Z",
+      "source": "Gizmodo",
+      "summary": "More than 500 Google workers signed a petition asking the company to let schools use Google Search without its AI features, after Google said schools that ban AI would lose Search access.",
+      "tags": [
+        "google",
+        "education",
+        "policy"
+      ],
+      "title": "Google Employees Petition to Let Schools Use Search Without AI",
+      "url": "https://gizmodo.com/google-employees-petition-to-let-schools-use-search-without-ai-2000842549",
+      "id": "google-employees-petition-to-let-schools-use-search-without-ai",
+      "added_at": "2026-11-20T20:38:34Z"
+    },
+    {
+      "published_at": "2026-11-16T21:30:00Z",
+      "source": "Lovable",
+      "summary": "Lovable launched Drafts, letting users copy a whole app, design and database included, to test different ideas in parallel without touching the live version.",
+      "tags": [
+        "lovable",
+        "ai-coding",
+        "products"
+      ],
+      "title": "Now you can explore any idea in parallel without touching what's live",
+      "url": "https://lovable.dev/blog/introducing-drafts",
+      "id": "now-you-can-explore-any-idea-in-parallel-without-touching-what-s-live",
+      "added_at": "2026-11-20T20:38:34Z"
+    },
+    {
       "published_at": "2026-11-20T17:28:00Z",
       "source": "The Verge",
       "summary": "Google's Gemini app can now generate GIFs, adding short animated clips to the app's creative tools.",
