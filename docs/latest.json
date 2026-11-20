@@ -1,6 +1,195 @@
 {
   "records": [
     {
+      "published_at": "2026-11-20T17:28:00Z",
+      "source": "The Verge",
+      "summary": "Google's Gemini app can now generate GIFs, adding short animated clips to the app's creative tools.",
+      "tags": [
+        "google",
+        "gemini",
+        "products"
+      ],
+      "title": "Google's Gemini app can now make GIFs",
+      "url": "https://www.theverge.com/tech/1038771/googles-gemini-app-can-now-make-gifs",
+      "id": "google-s-gemini-app-can-now-make-gifs",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
+      "published_at": "2026-11-20T13:28:00Z",
+      "source": "The Verge",
+      "summary": "Nothing will unveil its first screen-free AI device on December 8, a gadget the company has been teasing as a voice-first recorder.",
+      "tags": [
+        "hardware",
+        "ai-devices",
+        "nothing"
+      ],
+      "title": "Nothing will announce its screen-free AI device on December 8th",
+      "url": "https://www.theverge.com/tech/1038405/nothing-screen-free-ai-device-announce-december-8",
+      "id": "nothing-will-announce-its-screen-free-ai-device-on-december-8th",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
+      "published_at": "2026-11-20T13:21:11Z",
+      "source": "TechCrunch",
+      "summary": "California's attorney general served Nvidia an investigative subpoena after reports that former CEO Jensen Huang had an affair with a woman the U.S. government believes is a Chinese spy, probing whether advanced chips or confidential information reached China and whether investors were misled.",
+      "tags": [
+        "nvidia",
+        "policy",
+        "regulation",
+        "china"
+      ],
+      "title": "California AG subpoenas Nvidia over worries about Huang's ties with China",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "id": "california-ag-subpoenas-nvidia-over-worries-about-huang-s-ties-with-china",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
+      "published_at": "2026-11-20T12:30:00Z",
+      "source": "The Verge",
+      "summary": "Signal is blocking AI assistants like Gemini and Siri from reading users' screens in its mobile app, extending its screenshot protections to AI agents.",
+      "tags": [
+        "privacy",
+        "signal",
+        "ai-agents"
+      ],
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "id": "signal-is-blocking-gemini-and-siri-ai-from-reading-your-screen",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Scientific American",
+      "summary": "Anthropic mathematician Levent Alpöge says he and Claude found a proof of the Riemann Hypothesis and its generalized form, posting Lean code that computers can check step by step. No independent expert has verified the proof yet, so the 167-year-old problem remains officially unsolved.",
+      "tags": [
+        "research",
+        "math",
+        "claude",
+        "anthropic"
+      ],
+      "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
+      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+      "id": "anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-i",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Caixin Global",
+      "summary": "DeepSeek completed a second external funding round of about 100 billion yuan ($15 billion), with business registration changes finalized on Nov. 17, as it prepares for a possible IPO on Shanghai's STAR Market.",
+      "tags": [
+        "funding",
+        "deepseek",
+        "china",
+        "ipo"
+      ],
+      "title": "DeepSeek Closes 100 Billion Yuan Funding Round",
+      "url": "https://www.caixinglobal.com/2026-11-20/deepseek-closes-100-billion-yuan-funding-round-102506825.html",
+      "id": "deepseek-closes-100-billion-yuan-funding-round",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Hugging Face",
+      "summary": "Hugging Face shows that RL-trained LoRA adapters tuned inside a specific agent harness can lift Qwen3.8-27B's Terminal-Bench score from 39% to 55% while using about half the tokens, and shares a reusable recipe for training your own.",
+      "tags": [
+        "research",
+        "agents",
+        "reinforcement-learning",
+        "open-source"
+      ],
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "id": "introducing-harness-adapters-adapt-your-favorite-model-to-your-harness-to-improv",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
+      "published_at": "2026-11-20T08:50:00Z",
+      "source": "The Verge",
+      "summary": "OpenAI is starting to roll out Dots, its personal AI agent, to ChatGPT Plus subscribers after an earlier limited launch.",
+      "tags": [
+        "openai",
+        "agents",
+        "chatgpt"
+      ],
+      "title": "OpenAI is starting to bring Dots to Plus tier subscribers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038370/openai-is-starting-to-bring-dots-to-plus-tier-subscribers",
+      "id": "openai-is-starting-to-bring-dots-to-plus-tier-subscribers",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
+      "published_at": "2026-11-19T22:30:00Z",
+      "source": "The Decoder",
+      "summary": "Nvidia is reportedly in advanced talks to acquire Inception, a startup building diffusion-based language models, for at least $500 million plus earnouts, aiming to bolster its open-source Nemotron models. Neither company has confirmed the deal.",
+      "tags": [
+        "nvidia",
+        "acquisition",
+        "diffusion-models",
+        "startups"
+      ],
+      "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+      "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
+      "id": "nvidia-bets-at-least-500-million-on-inception-s-diffusion-models-to-strengthen-i",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "TechCrunch",
+      "summary": "At Slush, Fireworks AI co-founder Chenyu Zhao argued most companies don't need frontier models and can run cheaper open-weight models tuned on their own data, as the inference startup eyes another funding round after two security breaches this fall.",
+      "tags": [
+        "startups",
+        "open-weight",
+        "inference",
+        "fireworks-ai"
+      ],
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "id": "anthropic-rival-says-companies-can-mostly-skip-the-pricey-models",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "The Verge",
+      "summary": "DistroKid handed over information about its AI detection tool to Universal Music Group and Sony after the labels subpoenaed the distributor, part of the music industry's crackdown on AI-generated tracks.",
+      "tags": [
+        "music",
+        "ai-detection",
+        "copyright"
+      ],
+      "title": "DistroKid hands over info about AI detection tool to UMG and Sony",
+      "url": "https://www.theverge.com/entertainment/1037625/umg-sony-subpoena-distrokid-suno",
+      "id": "distrokid-hands-over-info-about-ai-detection-tool-to-umg-and-sony",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "Nous Research",
+      "summary": "Nous Research's open-source Hermes Agent now works inside Microsoft Teams, the Microsoft Store and Azure Container Apps Sandboxes, letting employees hand off knowledge work to an agent that turns successful workflows into shareable team skills.",
+      "tags": [
+        "agents",
+        "open-source",
+        "microsoft-teams",
+        "enterprise"
+      ],
+      "title": "Nous Research partners with Microsoft to bring Hermes Agent to the enterprise",
+      "url": "https://nousresearch.com/hermes-enterprise-in-microsoft-teams",
+      "id": "nous-research-partners-with-microsoft-to-bring-hermes-agent-to-the-enterprise",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
+      "published_at": "2026-11-18T00:00:00Z",
+      "source": "arXiv",
+      "summary": "Researchers show an open 27B language model can diagnose its own failures and rewrite its own weights through reasoning alone, improving accuracy by 6.6 points on unseen problems and even repairing a damaged copy of itself, with no gradients or retraining.",
+      "tags": [
+        "research",
+        "self-improvement",
+        "language-models"
+      ],
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "id": "language-models-can-rewrite-their-own-weights",
+      "added_at": "2026-11-20T17:38:24Z"
+    },
+    {
       "title": "Frostbite: A new CPU architecture discovered, designed, and verified end-to-end by AI",
       "url": "https://architectlabs.com/blog/frostbite",
       "source": "Architect Labs",
