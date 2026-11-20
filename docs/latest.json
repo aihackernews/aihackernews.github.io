@@ -1,6 +1,205 @@
 {
   "records": [
     {
+      "published_at": "2026-11-20T00:43:50Z",
+      "source": "TechCrunch",
+      "summary": "Anthropic's seven founders sold about $1.95 billion of stock in the record $81.3B IPO, roughly $280 million each at the $83 share price, while pledging most of their remaining equity to philanthropy.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "funding"
+      ],
+      "title": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "id": "anthropic-s-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "published_at": "2026-11-19T21:42:31Z",
+      "source": "TechCrunch",
+      "summary": "A wave of outages at airlines, banks, and Microsoft is being linked by security experts to AI tools surfacing software flaws faster than ever, forcing rushed patching that disrupts legacy systems.",
+      "tags": [
+        "ai-agents",
+        "cybersecurity",
+        "outages"
+      ],
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "id": "these-tech-outages-are-giving-y2k-ai-agent-style",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "source": "Ars Technica",
+      "summary": "Two teenagers are suing their school and police after a bag of Doritos set off an AI gun-detection system, the latest lawsuit over a false positive from school surveillance AI.",
+      "published_at": "2026-11-19T20:19:28Z",
+      "tags": [
+        "ai-safety",
+        "surveillance",
+        "policy"
+      ],
+      "id": "traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "published_at": "2026-11-19T16:30:00Z",
+      "source": "TechCrunch",
+      "summary": "At Anthropic's Nasdaq debut, CEO Dario Amodei vowed the company would pace AI training and deployment until it is confident the systems are safe and remain under human control, resisting business or political pressure.",
+      "tags": [
+        "anthropic",
+        "ai-safety",
+        "ipo"
+      ],
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "id": "at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "AWS Architecture Blog",
+      "summary": "Cognition runs Devin on EC2 Mac hosts so the coding agent can build and test iOS and macOS apps itself, spinning up a fresh macOS VM per session in under a minute across six AWS regions.",
+      "tags": [
+        "ai-agents",
+        "devin",
+        "aws",
+        "apple"
+      ],
+      "title": "AI coding agents on Amazon EC2 Mac: How Cognition scales Devin for macOS",
+      "url": "https://aws.amazon.com/blogs/architecture/ai-coding-agents-on-amazon-ec2-mac-how-cognition-scales-devin-for-macos/",
+      "id": "ai-coding-agents-on-amazon-ec2-mac-how-cognition-scales-devin-for-macos",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "DeepMind Institute",
+      "summary": "DeepMind research scientist Tim Genewein argues superintelligence could arrive within a decade through four pathways — scaling, paradigm shifts, agent coordination, and recursive self-improvement — and maps how to track progress.",
+      "tags": [
+        "agi",
+        "research",
+        "deepmind"
+      ],
+      "title": "What Comes After AGI?",
+      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "id": "what-comes-after-agi",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "MIT News",
+      "summary": "An MIT study finds air pollution from electricity used by AI data centers caused about 650 premature deaths in the US in 2023, with the worst per-capita impacts in the Midwest, far from where the data centers sit.",
+      "tags": [
+        "data-centers",
+        "environment",
+        "research"
+      ],
+      "title": "Study reveals data centers' long-distance damage to air quality",
+      "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+      "id": "study-reveals-data-centers-long-distance-damage-to-air-quality",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "title": "Trump administration approved more than 879,000 AI chip sales to Chinese companies, per new disclosure",
+      "url": "https://www.theverge.com/policy/1037886/trump-administration-approves-huawei-h200-ai-chip-sales",
+      "source": "The Verge",
+      "summary": "The Trump administration approved more than 879,000 AI chip sales to Chinese companies, according to a new disclosure, including H200 chips for Huawei — a major data point in the US-China chip export debate.",
+      "published_at": "2026-11-19T12:00:00Z",
+      "tags": [
+        "chips",
+        "policy",
+        "china",
+        "export-controls"
+      ],
+      "id": "trump-administration-approved-more-than-879-000-ai-chip-sales-to-chinese-compani",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "title": "Google is putting AI chats right on the homepage",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037736/google-ai-mode-homepage",
+      "source": "The Verge",
+      "summary": "Google is bringing AI chats to its homepage, putting AI Mode front and center on the page where billions of searches begin.",
+      "published_at": "2026-11-19T12:00:00Z",
+      "tags": [
+        "google",
+        "ai-mode",
+        "search"
+      ],
+      "id": "google-is-putting-ai-chats-right-on-the-homepage",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "title": "OpenAI is testing a new design for mobile ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037966/openai-mobile-chatgpt-redesign-test",
+      "source": "The Verge",
+      "summary": "OpenAI is testing a redesigned mobile ChatGPT interface, rethinking how the app looks and works on phones.",
+      "published_at": "2026-11-19T12:00:00Z",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "mobile"
+      ],
+      "id": "openai-is-testing-a-new-design-for-mobile-chatgpt",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "title": "Data center development follows a legacy of redlining",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037921/data-centers-ai-history-redlining",
+      "source": "The Verge",
+      "summary": "A look at how AI data center development is following historic patterns of redlining, concentrating new infrastructure in communities already burdened by industrial development.",
+      "published_at": "2026-11-19T12:00:00Z",
+      "tags": [
+        "data-centers",
+        "policy",
+        "environment"
+      ],
+      "id": "data-center-development-follows-a-legacy-of-redlining",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "published_at": "2026-11-18T19:40:00Z",
+      "source": "Gizmodo",
+      "summary": "A coalition organized by the Center for AI Safety published the MisAnthropic Statement, signed by about 90 researchers, academics, and tech figures, arguing Anthropic is not a safe AI company as it goes public.",
+      "tags": [
+        "anthropic",
+        "ai-safety",
+        "policy",
+        "ipo"
+      ],
+      "title": "Anthropic's Critics Unite Against It Ahead of IPO",
+      "url": "https://gizmodo.com/the-accelerationists-are-trying-to-stop-anthropic-2000841831",
+      "id": "anthropic-s-critics-unite-against-it-ahead-of-ipo",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "published_at": "2026-11-17T12:00:00Z",
+      "source": "VentureBeat",
+      "summary": "Early testers of OpenAI's GPT-6.2 Astra and Sol report frustrating experiences despite strong benchmark scores, calling Astra hard to steer and in some cases essentially unusable for long delegated work.",
+      "tags": [
+        "openai",
+        "gpt-6.2",
+        "models"
+      ],
+      "title": "'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users",
+      "url": "https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users",
+      "id": "essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
+      "published_at": "2026-11-17T12:00:00Z",
+      "source": "VentureBeat",
+      "summary": "Fountain launched Orchestra, an agent builder that lets employers create AI agents to handle frontline recruiting tasks like shift coverage and applicant follow-up, with human approval and completion checks built in.",
+      "tags": [
+        "ai-agents",
+        "enterprise",
+        "hiring"
+      ],
+      "title": "AI agents are coming to help hire, schedule, and manage frontline workers as Fountain launches Orchestra",
+      "url": "https://venturebeat.com/orchestration/ai-agents-are-coming-to-help-hire-schedule-and-manage-frontline-workers-as-fountain-launches-orchestra",
+      "id": "ai-agents-are-coming-to-help-hire-schedule-and-manage-frontline-workers-as-fount",
+      "added_at": "2026-11-20T08:38:49Z"
+    },
+    {
       "published_at": "2026-11-20T00:56:01Z",
       "source": "TechCrunch",
       "summary": "A Bloomberg-spotted Apple job listing describes an AI agent that can use a computer like a person, browsing the web, working across apps, running commands and writing code. Apple is reportedly also tightening macOS controls on third-party agents.",
