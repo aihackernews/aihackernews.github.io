@@ -1,6 +1,74 @@
 {
   "records": [
     {
+      "title": "Frostbite: A new CPU architecture discovered, designed, and verified end-to-end by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "source": "Architect Labs",
+      "summary": "Architect Labs says its AI agent swarms designed a novel general-purpose CPU, Frostbite, from ISA to final layout, claiming 4.59x performance-per-watt over a modern superscalar core on held-out workloads.",
+      "published_at": "2026-11-20T10:30:00Z",
+      "tags": [
+        "research",
+        "hardware",
+        "agents"
+      ],
+      "id": "frostbite-a-new-cpu-architecture-discovered-designed-and-verified-end-to-end-by",
+      "added_at": "2026-11-20T14:35:35Z"
+    },
+    {
+      "title": "Gemini API tool retrieval for efficient agent scaling",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google Blog",
+      "summary": "Google launches Tool Retrieval in preview in the Gemini Interactions API, letting agents keep large tool libraries on standby and load a tool's parameter schema only when a task needs it, cutting tokens and improving tool selection.",
+      "published_at": "2026-11-19T12:00:00Z",
+      "tags": [
+        "models",
+        "agents",
+        "api"
+      ],
+      "id": "gemini-api-tool-retrieval-for-efficient-agent-scaling",
+      "added_at": "2026-11-20T14:35:35Z"
+    },
+    {
+      "title": "Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web",
+      "url": "https://blog.google/security/mirror-dimension-for-agents/",
+      "source": "Google Blog",
+      "summary": "Google's Chrome security team built a synthetic 'mirror dimension' of the web with thousands of fake sites so browser-use agents can be trained and stress-tested against prompt-injection attacks without touching real users or services.",
+      "published_at": "2026-11-19T12:00:00Z",
+      "tags": [
+        "safety",
+        "agents",
+        "research"
+      ],
+      "id": "mirror-dimension-for-agents-evaluating-browser-use-agents-without-the-web",
+      "added_at": "2026-11-20T14:35:35Z"
+    },
+    {
+      "title": "GPT-Live 1.1 now available on AI Gateway",
+      "url": "https://vercel.com/changelog/gpt-live-1-1-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "summary": "OpenAI's GPT-Live 1.1 full-duplex voice model is now available through Vercel AI Gateway, bringing steadier multilingual accents, better detail recognition, and a cheaper standby mode for idle voice sessions.",
+      "published_at": "2026-11-19T00:00:00Z",
+      "tags": [
+        "models",
+        "voice"
+      ],
+      "id": "gpt-live-1-1-now-available-on-ai-gateway",
+      "added_at": "2026-11-20T14:35:35Z"
+    },
+    {
+      "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+      "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+      "source": "IEEE Spectrum",
+      "summary": "Epic Games is reworking Unreal Engine for the AI-coding era: Unreal Engine 6 will drop visual Blueprints for the text-based Verse language and expose engine systems via APIs so AI agents can work with the engine directly through code.",
+      "published_at": "2026-11-18T12:00:03Z",
+      "tags": [
+        "ai-coding",
+        "gaming"
+      ],
+      "id": "epic-games-turns-to-ai-coding-for-the-unreal-engine",
+      "added_at": "2026-11-20T14:35:35Z"
+    },
+    {
       "published_at": "2026-11-20T00:43:50Z",
       "source": "TechCrunch",
       "summary": "Anthropic's seven founders sold about $1.95 billion of stock in the record $81.3B IPO, roughly $280 million each at the $83 share price, while pledging most of their remaining equity to philanthropy.",
