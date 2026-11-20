@@ -1,6 +1,48 @@
 {
   "records": [
     {
+      "published_at": "2026-11-20T00:56:01Z",
+      "source": "TechCrunch",
+      "summary": "A Bloomberg-spotted Apple job listing describes an AI agent that can use a computer like a person, browsing the web, working across apps, running commands and writing code. Apple is reportedly also tightening macOS controls on third-party agents.",
+      "tags": [
+        "apple",
+        "ai-agents",
+        "mac"
+      ],
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "id": "apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+      "added_at": "2026-11-20T02:34:03Z"
+    },
+    {
+      "published_at": "2026-11-19T19:10:45Z",
+      "source": "TechCrunch",
+      "summary": "Anthropic's record IPO could channel about $156 billion to philanthropy through its Public Benefit Fund endowment, employee share pledges and company matches, equal to roughly a quarter of all US charitable giving last year.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "philanthropy"
+      ],
+      "title": "Anthropic's IPO could deliver $156B to charity",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "id": "anthropic-s-ipo-could-deliver-156b-to-charity",
+      "added_at": "2026-11-20T02:34:03Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "USA Today",
+      "summary": "A GAO report says covert testers got ChatGPT, Claude, Gemini and Grok to produce viable plans for a bombing and a power-grid attack, each in under 12 hours, after bypassing safeguards that initially refused. The watchdog made no recommendations.",
+      "tags": [
+        "ai-safety",
+        "policy",
+        "gao"
+      ],
+      "title": "US investigators got AI chatbots to plan mass-casualty, power grid attacks",
+      "url": "https://www.usatoday.com/story/news/nation/2026/11/19/ai-chatbots-helped-plan-attacks/92858789007/",
+      "id": "us-investigators-got-ai-chatbots-to-plan-mass-casualty-power-grid-attacks",
+      "added_at": "2026-11-20T02:34:03Z"
+    },
+    {
       "published_at": "2026-11-19T20:13:00Z",
       "source": "Reuters",
       "summary": "Meta plans to price its pocket-sized Muse Charm AI device at $300 and bundle up to 12 months of free Verizon 5G data, ahead of a planned holiday-season launch in December.",
