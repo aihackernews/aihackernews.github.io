@@ -1,6 +1,97 @@
 {
   "records": [
     {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Tech Xplore",
+      "summary": "Anthropic shares slid more than 9% in early trading Friday, a day after the record debut that closed at $97.17. The company also confirmed underwriters fully exercised their option to buy extra shares, lifting the total raised to about $93.5 billion.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "stocks",
+        "funding"
+      ],
+      "title": "Anthropic falls more than 9% day after record IPO",
+      "url": "https://techxplore.com/news/2026-11-anthropic-falls-day-ipo.html",
+      "id": "anthropic-falls-more-than-9-day-after-record-ipo",
+      "added_at": "2026-11-21T02:39:40Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Latent Space",
+      "summary": "Linear passed $100 million in annual recurring revenue with more than 40,000 paying customers, and AI agents now create over half of the issues in the product, up from 3% a year ago. COO Cristina Cordova describes how the company's go-to-market shifted around agent-driven workflows.",
+      "tags": [
+        "linear",
+        "ai-agents",
+        "revenue",
+        "startups"
+      ],
+      "title": "Scaling Linear's GTM to $100M ARR — Cristina Cordova, COO",
+      "url": "https://latent.space/p/linear-scaling/",
+      "id": "scaling-linear-s-gtm-to-100m-arr-cristina-cordova-coo",
+      "added_at": "2026-11-21T02:39:40Z"
+    },
+    {
+      "published_at": "2026-11-19T18:59:00Z",
+      "source": "U.S. Senate",
+      "summary": "Four senators introduced the AUDIT AI Act, which would require publicly traded companies to disclose their AI governance, financing arrangements, and material AI risks. The bill follows Anthropic's record IPO and growing concern about the financial system's exposure to AI investment.",
+      "tags": [
+        "policy",
+        "regulation",
+        "senate",
+        "ai-investment",
+        "disclosure"
+      ],
+      "title": "Warner, Kennedy, Alsobrooks, Rounds Introduce Bipartisan Legislation to Increase Transparency and Oversight of AI Investments",
+      "url": "https://www.warner.senate.gov/newsroom/press-releases/warner-kennedy-alsobrooks-rounds-introduce-bipartisan-legislation-to-increase-transparency-and-oversight-of-ai-investments/",
+      "id": "warner-kennedy-alsobrooks-rounds-introduce-bipartisan-legislation-to-increase-tr",
+      "added_at": "2026-11-21T02:39:40Z"
+    },
+    {
+      "published_at": "2026-11-19T15:14:54Z",
+      "source": "The Register",
+      "summary": "The European Commission confirmed an AI-assisted cyber campaign disrupted its internal systems for over ten days, taking HR and medical reimbursement platforms offline. Investigators suspect the attackers used ARTEX, an AI-powered penetration-testing framework.",
+      "tags": [
+        "cybersecurity",
+        "eu",
+        "ai-agents",
+        "artex"
+      ],
+      "title": "European Commission scrambles to contain AI-assisted cyberattack",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103",
+      "id": "european-commission-scrambles-to-contain-ai-assisted-cyberattack",
+      "added_at": "2026-11-21T02:39:40Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "ForkLog",
+      "summary": "Moonshot AI scrapped a $150 million deal to lease Nvidia Blackwell Ultra B300 capacity through an Indonesian data center, after the U.S. moved to restrict Chinese companies' remote access to advanced chips. The Information reported the cancellation, citing sources.",
+      "tags": [
+        "moonshot",
+        "nvidia",
+        "export-controls",
+        "chips"
+      ],
+      "title": "Moonshot AI Cancels $150M Nvidia Chip Leasing Deal",
+      "url": "https://forklog.com/en/moonshot-ai-cancels-150m-nvidia-chip-leasing-deal/",
+      "id": "moonshot-ai-cancels-150m-nvidia-chip-leasing-deal",
+      "added_at": "2026-11-21T02:39:40Z"
+    },
+    {
+      "published_at": "2026-11-17T12:00:00Z",
+      "source": "Zero Day Initiative",
+      "summary": "Trend Micro's Zero Day Initiative detailed how an argument-injection flaw in Docker Model Runner (CVE-2026-28400) lets an ordinary container corrupt Docker Desktop's VM disk and, under non-default configurations, execute code on the Mac or Windows host. Docker has issued fixes for the escapes.",
+      "tags": [
+        "security",
+        "docker",
+        "local-ai",
+        "vulnerability"
+      ],
+      "title": "Hostile Inference: Exploiting Docker Model Runner for Container Escapes",
+      "url": "https://www.zerodayinitiative.com/blog/2026/11/17/hostile-inference-exploiting-docker-model-runner-for-container-escapes",
+      "id": "hostile-inference-exploiting-docker-model-runner-for-container-escapes",
+      "added_at": "2026-11-21T02:39:40Z"
+    },
+    {
       "published_at": "2026-11-20T21:47:00Z",
       "source": "Ars Technica",
       "summary": "Meta is re-evaluating its 2030 net-zero goal as emissions from its AI data centers reach record levels, raising the question of whether other tech giants will follow.",
