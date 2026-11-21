@@ -1,6 +1,76 @@
 {
   "records": [
     {
+      "published_at": "2026-11-21T05:38:01Z",
+      "source": "Ricapar",
+      "summary": "ClawDOS runs an AI coding agent natively on a 1983 IBM PC XT, writing and compiling programs through the Claude API on an 8088 processor with 640K of RAM.",
+      "tags": [
+        "coding-agents",
+        "dos",
+        "retro"
+      ],
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "id": "clawdos-an-ai-coding-agent-for-dos",
+      "added_at": "2026-11-21T14:34:50Z"
+    },
+    {
+      "published_at": "2026-11-20T18:18:42Z",
+      "source": "Math 216",
+      "summary": "Stanford mathematician Ravi Vakil hurried out a draft proof of the generalized Riemann Hypothesis by Alessandro Masullo, worked on for years with review by Brian Conrad, after an AI-assisted proof claim from Anthropic's Levent Alpöge was announced the same day. The draft is all-human, and other mathematicians have already flagged issues to check.",
+      "tags": [
+        "math",
+        "riemann-hypothesis",
+        "research"
+      ],
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "id": "hurried-announcement-alessandro-masullo-grh",
+      "added_at": "2026-11-21T14:34:50Z"
+    },
+    {
+      "published_at": "2026-11-20T17:21:36Z",
+      "source": "Terence Tao",
+      "summary": "Terence Tao assesses the day's twin claimed breakthroughs: the AI-assisted Navier-Stokes blow-up proof, which he says has a readable paper plus Lean formalization, and the Riemann Hypothesis claims, where the AI-assisted artifact is Lean-only and verification has only just begun.",
+      "tags": [
+        "math",
+        "riemann-hypothesis",
+        "navier-stokes"
+      ],
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "id": "unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis",
+      "added_at": "2026-11-21T14:34:50Z"
+    },
+    {
+      "published_at": "2026-11-20T15:34:31Z",
+      "source": "GitHub",
+      "summary": "NYU mathematician Tristan Buckmaster and Anthropic researcher Levent Alpöge posted a claimed proof that solutions to the unforced 3D Navier-Stokes equations can blow up in finite time, a Millennium Prize problem, backed by a 600,000-line Lean formalization built with heavy help from AI models.",
+      "tags": [
+        "math",
+        "navier-stokes",
+        "research"
+      ],
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "id": "finite-time-blow-up-for-the-navier-stokes-equations",
+      "added_at": "2026-11-21T14:34:50Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "METR",
+      "summary": "METR's Q4 capability update finds frontier models' 50% time horizons doubling roughly every 3.6 months, reaching tasks that take skilled humans up to 27 hours, while models still lag badly on open-ended research judgment and show widespread reward hacking.",
+      "tags": [
+        "evaluation",
+        "benchmarks",
+        "ai-rd"
+      ],
+      "title": "AI R&D-relevant model capabilities are improving rapidly and are getting harder to measure",
+      "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+      "id": "ai-r-d-relevant-model-capabilities-are-improving-rapidly-and-are-getting-harder",
+      "added_at": "2026-11-21T14:34:50Z"
+    },
+    {
       "published_at": "2026-11-20T21:30:00Z",
       "source": "CNN",
       "summary": "U.S. stocks plunged Friday as the AI sell-off deepened: the Nasdaq fell 5.3%, wiping out all its 2026 gains, while Anthropic slid 8.5% on its second day of trading and Nvidia dropped 14%, its worst day in almost two years.",
