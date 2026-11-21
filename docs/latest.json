@@ -1,6 +1,64 @@
 {
   "records": [
     {
+      "published_at": "2026-11-20T21:30:00Z",
+      "source": "CNN",
+      "summary": "U.S. stocks plunged Friday as the AI sell-off deepened: the Nasdaq fell 5.3%, wiping out all its 2026 gains, while Anthropic slid 8.5% on its second day of trading and Nvidia dropped 14%, its worst day in almost two years.",
+      "tags": [
+        "markets",
+        "anthropic",
+        "nvidia",
+        "ai-bubble"
+      ],
+      "title": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
+      "url": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai?cid=external-feeds_iluminar_meta",
+      "id": "nasdaq-wipes-out-gains-for-the-year-as-anthropic-ipo-fails-to-quell-ai-nerves",
+      "added_at": "2026-11-21T08:34:26Z"
+    },
+    {
+      "published_at": "2026-11-20T00:00:00Z",
+      "source": "Anthropic",
+      "summary": "Anthropic formally closed its IPO with underwriters exercising their full option, bringing the public sale to 1.127 billion shares and $93.5 billion gross. A concurrent $26 billion private placement to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC lifts the total raised to about $119.5 billion.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "funding"
+      ],
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters' option to purchase additional shares, and closing of concurrent private placement",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "id": "anthropic-announces-closing-of-initial-public-offering-including-full-exercise-o",
+      "added_at": "2026-11-21T08:34:26Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "Nextgov",
+      "summary": "Covert GAO testing found ChatGPT, Claude, Gemini and Grok each produced viable plans for a mass-casualty bombing or an attack on the electrical grid within 12 hours, after investigators bypassed the platforms' safeguards. The watchdog verified the plans with experts and disclosed no prompts or techniques.",
+      "tags": [
+        "policy",
+        "safety",
+        "gao",
+        "regulation"
+      ],
+      "title": "Major AI platforms generated viable plans for terrorist attacks, GAO finds",
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/11/major-ai-platforms-generated-viable-plans-terrorist-attacks-gao-finds/417305/?oref=ng-homepage-river",
+      "id": "major-ai-platforms-generated-viable-plans-for-terrorist-attacks-gao-finds",
+      "added_at": "2026-11-21T08:34:26Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "Hacker News",
+      "summary": "Dettato is a new open-source audio-to-MIDI transcription model that matches or beats much larger rivals at just 20 million parameters, roughly 65x smaller than the next-best open model. It was trained with no copyrighted recordings.",
+      "tags": [
+        "open-source",
+        "music",
+        "model"
+      ],
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "url": "https://kobi.music/research/dettato",
+      "id": "show-hn-i-made-an-audio-to-midi-model-60x-more-efficient",
+      "added_at": "2026-11-21T08:34:26Z"
+    },
+    {
       "published_at": "2026-11-20T22:50:00Z",
       "source": "The Verge",
       "summary": "Etsy said it will revise its new AI policy after sellers pushed back against its rules around AI-generated listings. The marketplace is reworking the policy in response to the backlash from its seller community.",
