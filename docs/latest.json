@@ -1,6 +1,95 @@
 {
   "records": [
     {
+      "published_at": "2026-11-21T16:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Microdrama startup Shortical premiered an AI-generated series starring a licensed digital avatar of actor Aki Avni and is now inviting others to license their faces for AI-generated content.",
+      "tags": [
+        "ai-video",
+        "hollywood",
+        "likeness",
+        "microdrama"
+      ],
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "id": "is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-h",
+      "added_at": "2026-11-21T17:35:43Z"
+    },
+    {
+      "published_at": "2026-11-21T15:30:00Z",
+      "source": "Lean Prover Community",
+      "summary": "The Lean and Mathlib communities jointly certified Levent Alpöge's Lean proof of the Riemann Hypothesis, confirming the statement, the compilation, and the proof's validity with several independent proof checkers.",
+      "tags": [
+        "mathematics",
+        "riemann-hypothesis",
+        "lean",
+        "verification"
+      ],
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "id": "lean-verification-of-the-riemann-hypothesis",
+      "added_at": "2026-11-21T17:35:43Z"
+    },
+    {
+      "published_at": "2026-11-21T11:30:00Z",
+      "source": "sgiannopoulos",
+      "summary": "Given only hex dumps, a frontier model identified, patched, and even wrote working executables from scratch, and correctly analyzed a malware sample's behavior without any disassembler or decompiler.",
+      "tags": [
+        "llm",
+        "reverse-engineering",
+        "security",
+        "research"
+      ],
+      "title": "Programming in the Machine Code Space: LLMs can read & write executables byte by byte",
+      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "id": "programming-in-the-machine-code-space-llms-can-read-write-executables-byte-by-by",
+      "added_at": "2026-11-21T17:35:43Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Runway",
+      "summary": "Runway says coding agents drove 38% of its merged pull requests in October, and nearly every merged pull request in its App Studio codebase was written by agents, with AI review approving most merges on its own.",
+      "tags": [
+        "coding-agents",
+        "software-development",
+        "runway"
+      ],
+      "title": "Building a Software Factory",
+      "url": "https://runway.com/news/engineering/building-a-software-factory",
+      "id": "building-a-software-factory",
+      "added_at": "2026-11-21T17:35:43Z"
+    },
+    {
+      "published_at": "2026-11-19T17:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Everful raised a $48.5M Series A for its AI-enabled platform connecting small retailers with Chinese factories, using AI agents to automate sourcing, quality control, and logistics.",
+      "tags": [
+        "funding",
+        "startups",
+        "ai-agents",
+        "e-commerce"
+      ],
+      "title": "Former Alibaba exec's Everful raises $48.5M to connect retailers with Chinese factories",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "id": "former-alibaba-exec-s-everful-raises-48-5m-to-connect-retailers-with-chinese-fac",
+      "added_at": "2026-11-21T17:35:43Z"
+    },
+    {
+      "published_at": "2026-11-17T12:00:00Z",
+      "source": "Databricks",
+      "summary": "Databricks launched a public index of enterprise AI usage drawn from 10,000+ companies, showing open-weight models quadrupling to 31% of token traffic and Claude Opus 5.5 surging to 38% of proprietary-model tokens in six weeks.",
+      "tags": [
+        "enterprise-ai",
+        "tokenomics",
+        "databricks",
+        "index"
+      ],
+      "title": "Introducing the Databricks AI Index: The state of enterprise AI tokenomics",
+      "url": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
+      "id": "introducing-the-databricks-ai-index-the-state-of-enterprise-ai-tokenomics",
+      "added_at": "2026-11-21T17:35:43Z"
+    },
+    {
       "published_at": "2026-11-21T05:38:01Z",
       "source": "Ricapar",
       "summary": "ClawDOS runs an AI coding agent natively on a 1983 IBM PC XT, writing and compiling programs through the Claude API on an 8088 processor with 640K of RAM.",
