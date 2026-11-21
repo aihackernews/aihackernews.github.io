@@ -1,6 +1,145 @@
 {
   "records": [
     {
+      "title": "The UN fails to agree on rules regulating 'killer robots'",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "summary": "UN negotiations ended without agreement on rules to regulate lethal autonomous weapons systems, leaving the fast-moving technology without binding international limits.",
+      "published_at": "2026-11-21T20:03:00Z",
+      "tags": [
+        "policy",
+        "regulation"
+      ],
+      "id": "the-un-fails-to-agree-on-rules-regulating-killer-robots",
+      "added_at": "2026-11-21T20:39:49Z"
+    },
+    {
+      "published_at": "2026-11-21T12:00:00Z",
+      "source": "MarkTechPost",
+      "summary": "OpenAI made GPT-Live-1.1 available in its API, a full-duplex voice model with more consistent multilingual accents and better task completion, plus a new standby mode that bills idle WebRTC sessions at $0.02 per minute instead of $0.05.",
+      "tags": [
+        "models",
+        "voice",
+        "api"
+      ],
+      "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+      "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+      "id": "openai-ships-gpt-live-1-1-for-voice-agents-cuts-idle-cost-to-0-02-min",
+      "added_at": "2026-11-21T20:39:49Z"
+    },
+    {
+      "published_at": "2026-11-21T00:00:00Z",
+      "source": "alphaXiv",
+      "summary": "In a 12-week experiment, 936 autonomous AI agents across 35 human-run labs published 936 papers on a shared preprint server, exchanged 9,500 messages, and even founded their own peer-review journal. The full archive of papers, code, reviews, and chat logs is now public.",
+      "tags": [
+        "research",
+        "agents",
+        "science"
+      ],
+      "title": "A Society of AI Scientists",
+      "url": "https://www.alphaxiv.org/abs/2611.society-ai-scientists",
+      "id": "a-society-of-ai-scientists",
+      "added_at": "2026-11-21T20:39:49Z"
+    },
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "source": "Ars Technica",
+      "summary": "Google is rolling out a redesigned search homepage centered on AI chat history, dropping the traditional search button and adding an AI sidebar.",
+      "published_at": "2026-11-20T21:58:29Z",
+      "tags": [
+        "google",
+        "search",
+        "products"
+      ],
+      "id": "google-rolls-out-new-search-homepage-with-ai-chat-history-and-no-search-button",
+      "added_at": "2026-11-21T20:39:49Z"
+    },
+    {
+      "published_at": "2026-11-20T17:40:01Z",
+      "source": "TechCrunch",
+      "summary": "Lenders behind SpaceX's $40 billion chip financing deal reportedly asked that none of the chips be used for its orbital data-center plans, since chips in orbit cannot be repossessed as collateral, a financing hurdle for space-based AI compute.",
+      "tags": [
+        "infrastructure",
+        "spacex",
+        "chips"
+      ],
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "id": "chips-can-survive-the-space-environment-can-their-financing",
+      "added_at": "2026-11-21T20:39:49Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Traictory",
+      "summary": "OpenAI's new GPT-6.2 family regressed on SimpleBench: Astra fell to 77.3%, below the 83.7% human baseline and 6.3 points under its predecessor, while Sol dropped 13 points to 69.9%, trailing even the older GPT-6.1 Terra.",
+      "tags": [
+        "benchmarks",
+        "openai",
+        "models"
+      ],
+      "title": "GPT-6.2 Astra drops below the human baseline on SimpleBench, and Sol falls 13 points",
+      "url": "https://traictory.com/news/2026-11-20-gpt-6-2-astra-simplebench-regression",
+      "id": "gpt-6-2-astra-drops-below-the-human-baseline-on-simplebench-and-sol-falls-13-poi",
+      "added_at": "2026-11-21T20:39:49Z"
+    },
+    {
+      "published_at": "2026-11-19T18:55:41Z",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple released Depth Pro 2, a family of four models from 24M to 872M parameters that estimate per-pixel metric depth from a single photo, video, or live feed at full resolution, with sharper edges and frame-to-frame consistency. Code and weights are public for non-commercial research.",
+      "tags": [
+        "models",
+        "computer-vision",
+        "open-weights"
+      ],
+      "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+      "url": "https://arxiv.org/abs/2611.26603",
+      "id": "depth-pro-2-sharp-and-temporally-consistent-metric-monocular-depth",
+      "added_at": "2026-11-21T20:39:49Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "Hugging Face",
+      "summary": "Hugging Face's Tarek Ziade shows how to run a 180B-parameter mixture-of-experts model on a 32GB Mac by streaming experts from SSD through Transformers, reaching within 6% of the Strata engine's token speed.",
+      "tags": [
+        "inference",
+        "open-source",
+        "models"
+      ],
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "id": "180b-parameters-32gb-of-ram-pushing-moe-inference-to-the-limit-with-transformers",
+      "added_at": "2026-11-21T20:39:49Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "Gizmodo",
+      "summary": "Anthropic disclosed in an amended IPO filing that it has met a threshold in its Responsible Scaling Policy for AI-accelerated research and development, based on expectations about future models. An independent METR assessment estimated its capability progress is running about twice as fast as before.",
+      "tags": [
+        "safety",
+        "policy",
+        "anthropic"
+      ],
+      "title": "Anthropic says its recursive self-improvement alarm has been triggered",
+      "url": "https://gizmodo.com/anthropic-says-its-recursive-self-improvement-alarm-has-been-triggered-2000840253",
+      "id": "anthropic-says-its-recursive-self-improvement-alarm-has-been-triggered",
+      "added_at": "2026-11-21T20:39:49Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "Fermion Research",
+      "summary": "Researchers mapped all 442,368 neurons in Qwen3-8B, finding single neurons that reliably switch the model's language, persona, or behavior: one makes every reply German, another turns it into a cat named Whiskers, with controls against random neurons.",
+      "tags": [
+        "research",
+        "interpretability",
+        "open-weights"
+      ],
+      "title": "Mapping every neuron in Qwen3-8B",
+      "url": "https://www.fermionresearch.com/research/mapping-every-neuron-in-qwen3-8b/",
+      "id": "mapping-every-neuron-in-qwen3-8b",
+      "added_at": "2026-11-21T20:39:49Z"
+    },
+    {
       "published_at": "2026-11-21T16:00:00Z",
       "source": "TechCrunch",
       "summary": "Microdrama startup Shortical premiered an AI-generated series starring a licensed digital avatar of actor Aki Avni and is now inviting others to license their faces for AI-generated content.",
