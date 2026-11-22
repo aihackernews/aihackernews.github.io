@@ -1,6 +1,184 @@
 {
   "records": [
     {
+      "published_at": "2026-11-22T18:40:00Z",
+      "source": "TechCrunch",
+      "summary": "In an interview about his book 'Hyperscale,' journalist Paris Marx argues AI data centers have become the most visible, bipartisan flashpoint of the tech backlash because their costs in power, water and noise land directly on local communities.",
+      "tags": [
+        "data-centers",
+        "policy",
+        "infrastructure"
+      ],
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+      "added_at": "2026-11-22T20:44:52Z"
+    },
+    {
+      "published_at": "2026-11-22T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI argues perplexity should become a shared yardstick for tracking pretraining progress across labs, publishing its own internal measurements and proposing common development limits tied to concrete safety milestones.",
+      "tags": [
+        "openai",
+        "research",
+        "safety",
+        "models"
+      ],
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "id": "perplexity-and-intelligence",
+      "added_at": "2026-11-22T20:44:52Z"
+    },
+    {
+      "published_at": "2026-11-21T12:00:00Z",
+      "source": "Together AI",
+      "summary": "Together AI discloses that an AI coding agent committed a credential to its public GitHub repository, letting an unauthorized party download stored customer prompt samples from June and July; the company is making zero data retention the default for new accounts.",
+      "tags": [
+        "security",
+        "together-ai",
+        "agents",
+        "privacy"
+      ],
+      "title": "Security event: Prompt leakage for requests in June and July of 2026",
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "id": "security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "added_at": "2026-11-22T20:44:52Z"
+    },
+    {
+      "published_at": "2026-11-21T02:40:00Z",
+      "source": "Microsoft",
+      "summary": "Microsoft rolls out OpenAI's GPT-6.2 Sol across Copilot Chat, Cowork, Studio and the Office apps, while the heavier Astra model reaches all eligible users only in Cowork and Studio, with Frontier-only access in Chat and Office.",
+      "tags": [
+        "microsoft",
+        "copilot",
+        "openai",
+        "gpt-6.2"
+      ],
+      "title": "Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot",
+      "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/available-today-openais-gpt-6-2-sol-and-gpt-6-2-astra-in-microsoft-copilot/4574229",
+      "id": "available-today-openai-s-gpt-6-2-sol-and-gpt-6-2-astra-in-microsoft-copilot",
+      "added_at": "2026-11-22T20:44:52Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Anthropic",
+      "summary": "Anthropic's November 20 release notes bring Claude's computer-use capability, seeing the screen and operating desktop apps, to Team and Enterprise plans in beta, off by default with admin controls including app allow and block lists.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "computer-use",
+        "enterprise"
+      ],
+      "title": "Computer use (beta) for Team and Enterprise plans",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "id": "computer-use-beta-for-team-and-enterprise-plans",
+      "added_at": "2026-11-22T20:44:52Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Google Research",
+      "summary": "Google Research explains how Duplex now runs inside Tasks in Gemini, letting the assistant phone businesses on a user's behalf on Gemini 4 models, with every call disclosed as automated and merchants able to opt out.",
+      "tags": [
+        "google",
+        "gemini",
+        "duplex",
+        "agents"
+      ],
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "id": "how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
+      "added_at": "2026-11-22T20:44:52Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Apollo Global Management",
+      "summary": "Apollo and Goldman Sachs priced about $44 billion of notes to buy Nvidia's next-generation Vera Rubin GPUs for SpaceX's terrestrial compute buildout, billed as the largest GPU financing executed to date.",
+      "tags": [
+        "spacex",
+        "nvidia",
+        "financing",
+        "infrastructure"
+      ],
+      "title": "Apollo and Goldman Sachs Announce Pricing of $44 Billion SpaceX GPU Financing",
+      "url": "https://ir.apollo.com/news-events/press-releases/detail/662/apollo-and-goldman-sachs-announce-pricing-of-44-billion",
+      "id": "apollo-and-goldman-sachs-announce-pricing-of-44-billion-spacex-gpu-financing",
+      "added_at": "2026-11-22T20:44:52Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "AMD",
+      "summary": "AMD publishes Nitro-P, a VAE-free pixel-space text-to-image framework, releasing weights and training code; its distilled one-step variant reaches 90 images per second at 512px on a single MI300X GPU.",
+      "tags": [
+        "amd",
+        "image-generation",
+        "open-source",
+        "research"
+      ],
+      "title": "Nitro-P: Pixel-Space Text-to-Image via Hierarchical Semantic-to-Pixel Generation",
+      "url": "https://rocm.blogs.amd.com/artificial-intelligence/nitro-p/README.html",
+      "id": "nitro-p-pixel-space-text-to-image-via-hierarchical-semantic-to-pixel-generation",
+      "added_at": "2026-11-22T20:44:52Z"
+    },
+    {
+      "published_at": "2026-11-19T21:30:00Z",
+      "source": "Databricks",
+      "summary": "Databricks opens its Genie ZeroOps agent to public beta; it watches jobs, pipelines and tables, investigates failures and proposes fixes as pull requests for human approval, drawing on 80,000 pipeline issues seen in private preview.",
+      "tags": [
+        "databricks",
+        "agents",
+        "data",
+        "enterprise"
+      ],
+      "title": "Genie ZeroOps, now in public beta: An autonomous agent that fixes data pipelines, with lessons from 80,000 customer issues",
+      "url": "https://www.databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer",
+      "id": "genie-zeroops-now-in-public-beta-an-autonomous-agent-that-fixes-data-pipelines-w",
+      "added_at": "2026-11-22T20:44:52Z"
+    },
+    {
+      "published_at": "2026-11-19T08:00:00Z",
+      "source": "Stripe",
+      "summary": "Stripe puts agent money movement into public preview, letting AI agents transfer funds, convert currency and pay vendors through Treasury within business-set limits, with human approval required by default.",
+      "tags": [
+        "stripe",
+        "agents",
+        "fintech"
+      ],
+      "title": "Give your agents controlled access to analyze your data and move funds",
+      "url": "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds",
+      "id": "give-your-agents-controlled-access-to-analyze-your-data-and-move-funds",
+      "added_at": "2026-11-22T20:44:52Z"
+    },
+    {
+      "published_at": "2026-11-18T13:45:00Z",
+      "source": "The Motley Fool",
+      "summary": "Anthropic has agreed to pay SpaceX up to $120.5 billion for AI compute through 2029, about $3.1 billion a month at full delivery, though either side can exit on 90 days' notice once lock-in periods end in early 2027.",
+      "tags": [
+        "anthropic",
+        "spacex",
+        "compute",
+        "infrastructure"
+      ],
+      "title": "Anthropic Will Pay SpaceX Up to $120.5 Billion for Compute Through 2029",
+      "url": "https://www.fool.com/investing/2026/11/18/anthropic-pay-spacex-120-billion-compute-ipo/",
+      "id": "anthropic-will-pay-spacex-up-to-120-5-billion-for-compute-through-2029",
+      "added_at": "2026-11-22T20:44:52Z"
+    },
+    {
+      "published_at": "2026-11-16T12:00:00Z",
+      "source": "NVIDIA",
+      "summary": "Nvidia, IBM and Fermilab will build a modular quantum-classical codesign platform pairing DGX B200 systems with IBM quantum processors, alongside a new decoding algorithm Nvidia says speeds error-correction research up to 13,000x.",
+      "tags": [
+        "nvidia",
+        "ibm",
+        "quantum",
+        "research"
+      ],
+      "title": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Collaboration-With-IBM-and-Fermi-National-Accelerator-Laboratory-to-Launch-Quantum-Classical-Codesign-Platform-Plus-Error-Correction-Breakthrough-to-Advance-Practical-Quantum-Computing/default.aspx",
+      "id": "nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laborator",
+      "added_at": "2026-11-22T20:44:52Z"
+    },
+    {
       "published_at": "2026-11-20T14:14:26Z",
       "source": "TechNode",
       "summary": "Tencent has published the weights of its flagship Hy4 model, a 770-billion-parameter mixture-of-experts model with a roughly one-million-token context window, about two weeks after the model's API debut. The release is under Tencent's own Hy License rather than plain Apache 2.0.",

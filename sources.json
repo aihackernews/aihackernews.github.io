@@ -18,6 +18,12 @@
     },
     {
       "kind": "lab blog",
+      "name": "Google Research Blog",
+      "notes": "Added Nov 22, 2026 (Sunday review): Google Research posts (Duplex, Antigravity, Gemini research) that the fixed list missed this week.",
+      "url": "https://research.google/blog/"
+    },
+    {
+      "kind": "lab blog",
       "name": "Meta AI Blog",
       "url": "https://ai.meta.com/blog/"
     },
@@ -131,6 +137,6 @@
       "url": "https://the-decoder.com/"
     }
   ],
-  "updated": "2026-11-15",
+  "updated": "2026-11-22",
   "version": 1
 }
