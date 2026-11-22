@@ -1,6 +1,50 @@
 {
   "records": [
     {
+      "published_at": "2026-11-20T14:14:26Z",
+      "source": "TechNode",
+      "summary": "Tencent has published the weights of its flagship Hy4 model, a 770-billion-parameter mixture-of-experts model with a roughly one-million-token context window, about two weeks after the model's API debut. The release is under Tencent's own Hy License rather than plain Apache 2.0.",
+      "tags": [
+        "tencent",
+        "open-weights",
+        "models"
+      ],
+      "title": "Tencent releases Hy4 model weights with million-token context",
+      "url": "https://technode.com/2026/11/20/tencent-releases-hy4-model-weights-with-million-token-context/",
+      "id": "tencent-releases-hy4-model-weights-with-million-token-context",
+      "added_at": "2026-11-22T11:34:23Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "GeekWire",
+      "summary": "Google is bringing Seattle-based Howie, whose AI assistant schedules meetings by being copied into email threads, into its Google Labs division. Terms were not disclosed; the team will keep serving existing customers while building AI tools for small businesses.",
+      "tags": [
+        "google",
+        "acquisition",
+        "agents",
+        "startups"
+      ],
+      "title": "Google acquires Seattle startup Howie and its AI scheduling assistant",
+      "url": "https://www.geekwire.com/2026/google-acquires-seattle-startup-howie-and-its-ai-scheduling-assistant/",
+      "id": "google-acquires-seattle-startup-howie-and-its-ai-scheduling-assistant",
+      "added_at": "2026-11-22T11:34:23Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "Search Engine Journal",
+      "summary": "OpenAI's new guide for GPT-6.2 tells developers to drop old style rules like 'be concise', since Astra is terse by default, and warns that editing earlier conversation history now causes the API to discard the model's reasoning, which can hurt answer quality.",
+      "tags": [
+        "openai",
+        "gpt-6.2",
+        "developers",
+        "api"
+      ],
+      "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra",
+      "url": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
+      "id": "openai-publishes-prompting-guidance-for-gpt-6-2-astra",
+      "added_at": "2026-11-22T11:34:23Z"
+    },
+    {
       "published_at": "2026-11-21T12:00:00Z",
       "source": "Crypto Briefing",
       "summary": "Amazon is in final-stage talks to acquire AI startup Decart for about $7.5 billion, the Financial Times reported, with a deal possibly announced as early as next week. Decart's software helps AI workloads run efficiently across different chips, including Amazon's Trainium hardware.",
