@@ -1,6 +1,81 @@
 {
   "records": [
     {
+      "published_at": "2026-11-22T00:00:00Z",
+      "source": "AIReport",
+      "summary": "MOSI, the Shanghai startup spun out of Fudan University professor Qiu Xipeng's OpenMOSS team, closed a Pre-A round of more than RMB 1 billion (about $140 million) led by Huakong Fund. The company has shipped more than 20 open-source speech, vision, and multimodal models in the first half of 2026 and is preparing to launch MOSS Live, a real-time omni-modal interaction system.",
+      "tags": [
+        "mosi",
+        "funding",
+        "open-source",
+        "multimodal"
+      ],
+      "title": "MOSI Pre-A Funding: Fudan MOSS Team Raises Over RMB 1 Billion for Omni-Modal Real-Time AI",
+      "url": "https://www.aireport.net/Gn_d61d3b73d86e",
+      "id": "mosi-pre-a-funding-fudan-moss-team-raises-over-rmb-1-billion-for-omni-modal-real",
+      "added_at": "2026-11-22T20:48:30Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Oracle",
+      "summary": "Oracle says it has secured all the funding needed for its roughly $300 billion, five-year computing contract with OpenAI, after a $20 billion capital raise earlier in November, and calls itself the first hyperscaler fully funded for this AI investment cycle. Its Abilene campus is nearly complete and a second gigawatt-scale site in Shackelford County, Texas, is fully permitted.",
+      "tags": [
+        "oracle",
+        "openai",
+        "infrastructure",
+        "funding"
+      ],
+      "title": "Oracle says its OpenAI infrastructure contract is fully funded",
+      "url": "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/",
+      "id": "oracle-says-its-openai-infrastructure-contract-is-fully-funded",
+      "added_at": "2026-11-22T20:48:30Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "MIT Technology Review",
+      "summary": "METR published its Time Horizon 2 evaluation update, finding frontier models keep doubling the length of verifiable coding tasks they can complete about every 3.6 months, reaching up to 27 hours of human-equivalent work, but still fall well short of humans on open-ended tasks that require research judgment. METR warns current public evidence cannot rule out drastic AI R&D acceleration in the next few years.",
+      "tags": [
+        "metr",
+        "evaluation",
+        "research",
+        "ai-progress"
+      ],
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "id": "the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+      "added_at": "2026-11-22T20:48:30Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "Linq",
+      "summary": "Linq, which sells messaging, voice, and computer-use infrastructure that lets AI agents reach people in text threads and calls, raised a $90 million Series B led by Andreessen Horowitz at a $1 billion valuation. The round lifts its total funding past $120 million, and Ben Horowitz joins the board.",
+      "tags": [
+        "linq",
+        "funding",
+        "ai-agents",
+        "startups"
+      ],
+      "title": "Linq Raises $90M, Welcomes Ben Horowitz to the Board",
+      "url": "https://linqapp.com/blog/linq-raises-90m-welcomes-ben-horowitz-to-the-board",
+      "id": "linq-raises-90m-welcomes-ben-horowitz-to-the-board",
+      "added_at": "2026-11-22T20:48:30Z"
+    },
+    {
+      "published_at": "2026-11-17T20:13:00Z",
+      "source": "Perplexity",
+      "summary": "Perplexity launched the Orchestrator API, a single endpoint serving more than 45 models from OpenAI, Anthropic, Google, xAI, and open-weight providers, with automatic failover between deployments of the same model and unified billing at each model's published rate. An automatic routing feature that picks the model from a task description is in preview.",
+      "tags": [
+        "perplexity",
+        "api",
+        "inference",
+        "developers"
+      ],
+      "title": "Orchestrator: One API for frontier and open-weight models",
+      "url": "https://www.perplexity.ai/hub/blog/introducing-orchestrator",
+      "id": "orchestrator-one-api-for-frontier-and-open-weight-models",
+      "added_at": "2026-11-22T20:48:30Z"
+    },
+    {
       "published_at": "2026-11-22T18:40:00Z",
       "source": "TechCrunch",
       "summary": "In an interview about his book 'Hyperscale,' journalist Paris Marx argues AI data centers have become the most visible, bipartisan flashpoint of the tech backlash because their costs in power, water and noise land directly on local communities.",
