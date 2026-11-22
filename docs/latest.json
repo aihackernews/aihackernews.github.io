@@ -1,6 +1,110 @@
 {
   "records": [
     {
+      "published_at": "2026-11-21T12:00:00Z",
+      "source": "Crypto Briefing",
+      "summary": "Amazon is in final-stage talks to acquire AI startup Decart for about $7.5 billion, the Financial Times reported, with a deal possibly announced as early as next week. Decart's software helps AI workloads run efficiently across different chips, including Amazon's Trainium hardware.",
+      "tags": [
+        "acquisitions",
+        "amazon",
+        "infrastructure",
+        "chips"
+      ],
+      "title": "Amazon nears $7.5 billion deal to buy AI startup Decart",
+      "url": "https://cryptobriefing.com/amazon-nears-deal-ai-startup-decart/",
+      "id": "amazon-nears-7-5-billion-deal-to-buy-ai-startup-decart",
+      "added_at": "2026-11-22T08:32:20Z"
+    },
+    {
+      "published_at": "2026-11-21T12:00:00Z",
+      "source": "St. Petersburg Daily",
+      "summary": "Google CEO Sundar Pichai announced $5 million in support for IIT Kharagpur to advance AI research, education and capacity building. The funding will focus on Indic languages, agriculture, materials science and educational technology.",
+      "tags": [
+        "google",
+        "funding",
+        "research",
+        "india"
+      ],
+      "title": "Google's $5 million support for IIT Kharagpur to take country's AI-for-all vision forward: CEO Pichai",
+      "url": "https://www.stpetersburgdaily.com/stories/googles-5-million-support-for-iit-kharagpur-to-take-countrys-ai-for-all-vision-forward-ceo,2274713",
+      "id": "google-s-5-million-support-for-iit-kharagpur-to-take-country-s-ai-for-all-vision",
+      "added_at": "2026-11-22T08:32:20Z"
+    },
+    {
+      "published_at": "2026-11-20T23:05:00Z",
+      "source": "The Wall Street Journal",
+      "summary": "Databricks is in early talks to raise several billion dollars in a new round that would value the data and AI software company at about $225 billion, the Wall Street Journal reported. The figure would top the $190 billion valuation from its $5 billion round in August.",
+      "tags": [
+        "funding",
+        "databricks",
+        "valuation"
+      ],
+      "title": "Databricks In Early Talks To Raise Funds At $225 Billion Valuation",
+      "url": "https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de",
+      "id": "databricks-in-early-talks-to-raise-funds-at-225-billion-valuation",
+      "added_at": "2026-11-22T08:32:20Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "TradingView",
+      "summary": "Cognition, maker of the Devin AI coding agent, is in talks to raise $2 billion or more at a $75 billion valuation, Bloomberg reported. It would be the company's third funding round of 2026, following a $2 billion Series E at a $48 billion valuation about two months earlier.",
+      "tags": [
+        "startups",
+        "funding",
+        "coding-agents",
+        "cognition"
+      ],
+      "title": "AI coding platform Cognition embarks on new $2B funding round: report",
+      "url": "https://www.tradingview.com/news/seekingalpha:25fdd72ab094b:0-ai-coding-platform-cognition-embarks-on-new-2b-funding-round-report/",
+      "id": "ai-coding-platform-cognition-embarks-on-new-2b-funding-round-report",
+      "added_at": "2026-11-22T08:32:20Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "SiliconANGLE",
+      "summary": "AI agent security startup Metano emerged from stealth with $12 million in seed funding led by Sierra Ventures. Its platform unifies agent discovery, context-aware threat detection and real-time enforcement so enterprises can control autonomous agents across endpoints, cloud and SaaS apps.",
+      "tags": [
+        "startups",
+        "funding",
+        "ai-agents",
+        "security"
+      ],
+      "title": "Metano launches with $12M to help enterprises secure AI agents",
+      "url": "https://siliconangle.com/2026/11/19/metano-launches-with-12m-to-help-enterprises-secure-ai-agents/",
+      "id": "metano-launches-with-12m-to-help-enterprises-secure-ai-agents",
+      "added_at": "2026-11-22T08:32:20Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "GeekWire",
+      "summary": "Seattle startup StepSecurity raised an oversubscribed $20 million Series A led by Elephant to protect software supply chains. Its platform guards developer machines, code repositories, package downloads and CI/CD pipelines, and it plans to extend protection to AI agent sandboxes.",
+      "tags": [
+        "startups",
+        "funding",
+        "security",
+        "ai-agents"
+      ],
+      "title": "StepSecurity, led by two Microsoft vets, raises $20M to defend developers' tools from hackers",
+      "url": "https://www.geekwire.com/2026/stepsecurity-founded-by-two-microsoft-vets-raises-20m-to-defend-developers-tools-from-hackers/",
+      "id": "stepsecurity-led-by-two-microsoft-vets-raises-20m-to-defend-developers-tools-fro",
+      "added_at": "2026-11-22T08:32:20Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "Unite.AI",
+      "summary": "Carnegie Mellon spinout Xlue raised a $35 million seed round led by Conviction to build a foundation model for human health. Trained on longitudinal health records, the model forecasts how patients' health evolves to flag elevated cancer risk and simulate treatment outcomes.",
+      "tags": [
+        "startups",
+        "funding",
+        "healthcare",
+        "models"
+      ],
+      "title": "Xlue Raises $35M Seed Led by Conviction to Build a Health World Model",
+      "url": "https://www.unite.ai/carnegie-mellon-researcher-raises-35m-for-clinical-intelligence-work/",
+      "id": "xlue-raises-35m-seed-led-by-conviction-to-build-a-health-world-model",
+      "added_at": "2026-11-22T08:32:20Z"
+    },
+    {
       "published_at": "2026-11-22T00:00:00Z",
       "source": "OpenRouter",
       "summary": "After canary-token research by Dragos found prompt data compromised or retained by some inference providers, OpenRouter off-boarded three providers, stripped 125 endpoints of Zero Data Retention eligibility, and notified affected customers. OpenRouter itself was not breached; provider notices from Novita, Phala and Together AI describe the underlying incidents.",
