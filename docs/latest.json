@@ -1,6 +1,111 @@
 {
   "records": [
     {
+      "published_at": "2026-11-22T00:00:00Z",
+      "source": "OpenRouter",
+      "summary": "After canary-token research by Dragos found prompt data compromised or retained by some inference providers, OpenRouter off-boarded three providers, stripped 125 endpoints of Zero Data Retention eligibility, and notified affected customers. OpenRouter itself was not breached; provider notices from Novita, Phala and Together AI describe the underlying incidents.",
+      "tags": [
+        "security",
+        "infrastructure",
+        "inference",
+        "privacy"
+      ],
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "id": "data-processing-incidents-on-inference-providers",
+      "added_at": "2026-11-22T05:36:45Z"
+    },
+    {
+      "published_at": "2026-11-21T21:30:00Z",
+      "source": "Pandex",
+      "summary": "Pandex gives AI agents access to official European law through the Model Context Protocol, letting agents query EU legislation as a tool instead of relying on memorized or hallucinated legal text.",
+      "tags": [
+        "agents",
+        "mcp",
+        "eu-law",
+        "legal-ai"
+      ],
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "id": "pandex-official-european-law-for-ai-agents-over-mcp",
+      "added_at": "2026-11-22T05:36:45Z"
+    },
+    {
+      "published_at": "2026-11-21T18:02:00Z",
+      "source": "GitHub",
+      "summary": "The LookAtMyQuant quantization compiler squeezes Thinking Machines Lab's Inkling-2-Mini from 18.89 GB down to a 5.38 GB build (1.63 bits per weight) that runs on Apple Silicon via a custom MLX runtime, retaining about 91% of the teacher model's benchmark performance.",
+      "tags": [
+        "open-weights",
+        "quantization",
+        "local-ai",
+        "apple-silicon"
+      ],
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "id": "inkling-2-mini-in-5-4-gb-memory",
+      "added_at": "2026-11-22T05:36:45Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Baseten",
+      "summary": "Baseten releases bison-1 (31B) and groundhog-1 (26B MoE), open-weight decision models built on Google's Gemma 4 that return calibrated probabilities instead of text. Bison-1 tops the Artificial Analysis Decision Index at 76, and both offer 128k context and image input.",
+      "tags": [
+        "models",
+        "decision-models",
+        "open-weights",
+        "gemma"
+      ],
+      "title": "Meet bison-1 and groundhog-1, frontier American decision models",
+      "url": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1/",
+      "id": "meet-bison-1-and-groundhog-1-frontier-american-decision-models",
+      "added_at": "2026-11-22T05:36:45Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Mistral AI",
+      "summary": "Mistral opens its Asia-Pacific headquarters in Singapore as an extension of its Science Hub, developing sovereign AI models for the public sector, high-tech manufacturing and robotics. The company plans to more than double regional headcount to 200 by 2027.",
+      "tags": [
+        "mistral",
+        "singapore",
+        "sovereign-ai",
+        "expansion"
+      ],
+      "title": "Mistral opens Singapore office as an extended science hub for sovereign AI in Asia Pacific",
+      "url": "https://www.edb.gov.sg/en/news-and-insights/mistral-opens-singapore-office-as-an-extended-science-hub-for-sovereign-ai-in-asia-pacific",
+      "id": "mistral-opens-singapore-office-as-an-extended-science-hub-for-sovereign-ai-in-as",
+      "added_at": "2026-11-22T05:36:45Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "NVIDIA",
+      "summary": "NVIDIA Vera Rubin NVL72 systems are now running in Azure data centers with VM access expanding in preview, and NVIDIA's Nemotron 3.5 open models arrive in Microsoft Foundry with customization tooling. The expanded partnership also covers Azure Local edge systems and RTX-powered Windows PCs.",
+      "tags": [
+        "infrastructure",
+        "vera-rubin",
+        "azure",
+        "nemotron"
+      ],
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "id": "nvidia-and-microsoft-expand-accelerated-computing-from-azure-to-windows-pcs",
+      "added_at": "2026-11-22T05:36:45Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "Docker",
+      "summary": "Docker launches AI Governance, a trust layer for agentic AI built on three controls: sandbox policies for network and filesystem access, Cedar-based MCP tool governance, and structured audit logs that can feed a SIEM. It sits on top of Docker Sandboxes, which run agents in isolated microVMs.",
+      "tags": [
+        "agents",
+        "security",
+        "governance",
+        "docker"
+      ],
+      "title": "The Trust Layer: Securing Agentic AI with Docker AI Governance",
+      "url": "https://www.docker.com/blog/agentic-ai-security-docker-governance/",
+      "id": "the-trust-layer-securing-agentic-ai-with-docker-ai-governance",
+      "added_at": "2026-11-22T05:36:45Z"
+    },
+    {
       "title": "The UN fails to agree on rules regulating 'killer robots'",
       "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
       "source": "The Verge",
