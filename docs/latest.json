@@ -1,6 +1,165 @@
 {
   "records": [
     {
+      "published_at": "2026-11-23T14:00:00Z",
+      "source": "NVIDIA",
+      "summary": "Nvidia's board has reinstated Jensen Huang as president, CEO and board director, reversing his resignation weeks earlier after an espionage scandal that wiped out more than $1 trillion in market value.",
+      "tags": [
+        "nvidia",
+        "jensen-huang",
+        "leadership"
+      ],
+      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "id": "nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "added_at": "2026-11-23T14:38:45Z"
+    },
+    {
+      "published_at": "2026-11-23T13:45:32Z",
+      "source": "The Decoder",
+      "summary": "US intelligence agencies had tracked the Nvidia scandal figure's ties to Chinese intelligence for more than a year before Jensen Huang's resignation, according to new reporting on the episode.",
+      "tags": [
+        "nvidia",
+        "espionage",
+        "policy"
+      ],
+      "title": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+      "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
+      "id": "us-spies-tracked-nvidia-scandal-figure-s-ties-to-chinese-intelligence-for-over-a",
+      "added_at": "2026-11-23T14:38:45Z"
+    },
+    {
+      "published_at": "2026-11-23T11:00:00Z",
+      "source": "The Verge",
+      "summary": "Walmart's new Agent Gateway launches with support for Meta's Muse agent, letting the AI shop for Black Friday deals on a user's behalf.",
+      "tags": [
+        "meta",
+        "muse",
+        "agents",
+        "shopping"
+      ],
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "id": "meta-muse-can-do-your-black-friday-shopping-at-walmart",
+      "added_at": "2026-11-23T14:38:45Z"
+    },
+    {
+      "published_at": "2026-11-23T06:51:56Z",
+      "source": "Z.ai",
+      "summary": "Z.ai released GLM-5.4, its first flagship model built on a Loop Transformer that runs 28 layers of the GLM-5 base model twice, claiming intelligence comparable to 2-3 trillion-parameter models with added vision and a 1M-token context.",
+      "tags": [
+        "models",
+        "glm",
+        "zhipu",
+        "coding"
+      ],
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "id": "glm-5-4-toward-generalized-coding-with-our-first-loop-transformer",
+      "added_at": "2026-11-23T14:38:45Z"
+    },
+    {
+      "published_at": "2026-11-22T21:14:07Z",
+      "source": "TechCrunch",
+      "summary": "OpenAI chief scientist Jakub Pachocki discussed how AI development could be deliberately limited, weighing in on the debate over slowing frontier model progress.",
+      "tags": [
+        "openai",
+        "ai-safety",
+        "policy"
+      ],
+      "title": "OpenAI's chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "id": "openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+      "added_at": "2026-11-23T14:38:45Z"
+    },
+    {
+      "published_at": "2026-11-22T15:52:57Z",
+      "source": "The Verge",
+      "summary": "A Wall Street Journal profile surfaced old Slack messages in which Anthropic CEO Dario Amodei floated immersive video games as a way to ease the political strife caused by AI-driven joblessness.",
+      "tags": [
+        "anthropic",
+        "amodei",
+        "jobs",
+        "ai-economy"
+      ],
+      "title": "video games are the opiate of the masses",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "id": "video-games-are-the-opiate-of-the-masses",
+      "added_at": "2026-11-23T14:38:45Z"
+    },
+    {
+      "published_at": "2026-11-19T11:09:00Z",
+      "source": "VentureBeat",
+      "summary": "The UK AI Security Institute found a universal jailbreak against pre-release GPT-6.2 Astra using half as many queries as it needed for GPT-6 Astra; OpenAI says it has since changed the model's safeguards, though the institute has not yet retested them.",
+      "tags": [
+        "openai",
+        "ai-safety",
+        "jailbreak",
+        "uk"
+      ],
+      "title": "OpenAI's pre-release GPT-6.2 Astra was easier to jailbreak than its predecessor, UK government testers found",
+      "url": "https://venturebeat.com/security/openais-pre-release-gpt-6-2-astra-was-easier-to-jailbreak-than-its-predecessor-uk-government-testers-found",
+      "id": "openai-s-pre-release-gpt-6-2-astra-was-easier-to-jailbreak-than-its-predecessor",
+      "added_at": "2026-11-23T14:38:45Z"
+    },
+    {
+      "published_at": "2026-11-19T09:41:00Z",
+      "source": "Hugging Face",
+      "summary": "Researchers show how a backdoored open model can be triggered by a single word to take malicious actions, and how ViKernel's action-level checks can catch the attack before it executes.",
+      "tags": [
+        "security",
+        "open-models",
+        "backdoor"
+      ],
+      "title": "A Model You Downloaded, Backdoored: One Trigger Word, and ViKernel Stops It at the Action",
+      "url": "https://huggingface.co/blog/FINAL-Bench/a-model-you-downloaded-backdoored-one-trigger-word",
+      "id": "a-model-you-downloaded-backdoored-one-trigger-word-and-vikernel-stops-it-at-the",
+      "added_at": "2026-11-23T14:38:45Z"
+    },
+    {
+      "published_at": "2026-11-18T13:39:18Z",
+      "source": "Vero Security",
+      "summary": "Vero Security raised $11 million in seed funding and launched AISecurityEngineering.org, a free community for the people tasked with governing enterprise AI agents.",
+      "tags": [
+        "funding",
+        "ai-security",
+        "agents"
+      ],
+      "title": "Vero raises $11M to shape AI Security Engineering",
+      "url": "https://www.vero.security/blog/vero-raises-11m-to-shape-how-ai-security-engineering-is-done",
+      "id": "vero-raises-11m-to-shape-ai-security-engineering",
+      "added_at": "2026-11-23T14:38:45Z"
+    },
+    {
+      "published_at": "2026-11-18T13:37:27Z",
+      "source": "Hugging Face",
+      "summary": "A new ViKernel Scanner benchmark gave 20 open-weight models shell access and every one failed the security test, showing how easily downloaded models can be tricked into running malicious actions.",
+      "tags": [
+        "security",
+        "open-models",
+        "benchmark"
+      ],
+      "title": "We Handed 20 Open Models a Shell. 20 of Them Failed: Introducing ViKernel Scanner",
+      "url": "https://huggingface.co/blog/FINAL-Bench/we-handed-20-open-models-a-shell-20-of-them-failed",
+      "id": "we-handed-20-open-models-a-shell-20-of-them-failed-introducing-vikernel-scanner",
+      "added_at": "2026-11-23T14:38:45Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "ResolveAI",
+      "summary": "ResolveAI launched SRE-1, a 27B open-weights model trained with reinforcement learning to trace production alerts to their root cause, alongside a Primary On-call service that puts AI agents first in the incident paging chain.",
+      "tags": [
+        "models",
+        "sre",
+        "agents",
+        "incident-response"
+      ],
+      "title": "ResolveAI Introduces SRE-1, the Most Accurate Model for Production at Every Budget",
+      "url": "https://resolve.ai/news/introduces-SRE-1-model-and-primary-on-call",
+      "id": "resolveai-introduces-sre-1-the-most-accurate-model-for-production-at-every-budge",
+      "added_at": "2026-11-23T14:38:45Z"
+    },
+    {
       "published_at": "2026-11-23T01:25:53Z",
       "source": "TechCrunch",
       "summary": "Notable Capital, GIC and Baillie Gifford placed outsized early bets on Anthropic that have paid off many times over after its record IPO, with GIC alone investing more than $4.5 billion across three funding rounds.",
