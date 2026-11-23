@@ -1,6 +1,110 @@
 {
   "records": [
     {
+      "published_at": "2026-11-23T01:25:53Z",
+      "source": "TechCrunch",
+      "summary": "Notable Capital, GIC and Baillie Gifford placed outsized early bets on Anthropic that have paid off many times over after its record IPO, with GIC alone investing more than $4.5 billion across three funding rounds.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "venture-capital",
+        "funding"
+      ],
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "id": "how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+      "added_at": "2026-11-23T08:37:31Z"
+    },
+    {
+      "published_at": "2026-11-22T22:18:48Z",
+      "source": "GitHub",
+      "summary": "A new open-source tool that runs agentic coding locally on a Mac with a single command.",
+      "tags": [
+        "coding-agents",
+        "open-source",
+        "mac",
+        "local-ai"
+      ],
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "url": "https://github.com/mjwsolo/localcode",
+      "id": "localcode-open-source-agentic-coding-on-your-mac-with-one-command",
+      "added_at": "2026-11-23T08:37:31Z"
+    },
+    {
+      "published_at": "2026-11-22T21:01:16Z",
+      "source": "GPU Partner",
+      "summary": "A hands-on beginner's guide to running AI models locally using Inkling, Qwen and Unsloth tooling.",
+      "tags": [
+        "local-ai",
+        "guide",
+        "inkling",
+        "qwen"
+      ],
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "id": "a-beginner-s-guide-to-local-ai-with-inkling-qwen-and-unsloth",
+      "added_at": "2026-11-23T08:37:31Z"
+    },
+    {
+      "published_at": "2026-11-22T13:56:58Z",
+      "source": "GitHub",
+      "summary": "An indie game that puts the player in the role of an LLM's subagent, carrying out delegated tasks for a larger model.",
+      "tags": [
+        "llm",
+        "agents",
+        "game"
+      ],
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "id": "show-hn-i-built-a-game-where-you-are-an-llm-s-subagent",
+      "added_at": "2026-11-23T08:37:31Z"
+    },
+    {
+      "published_at": "2026-11-22T12:07:56Z",
+      "source": "The Decoder",
+      "summary": "Dragos planted about two million fake credentials in AI prompts and found three inference providers compromised, with attackers stealing AWS keys; OpenRouter removed three providers and 125 endpoints from zero-data-retention eligibility.",
+      "tags": [
+        "security",
+        "openrouter",
+        "privacy",
+        "inference"
+      ],
+      "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "id": "security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop",
+      "added_at": "2026-11-23T08:37:31Z"
+    },
+    {
+      "published_at": "2026-11-21T21:37:00Z",
+      "source": "TechCrunch",
+      "summary": "Signal is blocking screenshots in its Android and iOS apps, saying OS-level AI agents that scan screens undermine its ability to guarantee message privacy.",
+      "tags": [
+        "signal",
+        "privacy",
+        "ai-agents",
+        "surveillance"
+      ],
+      "title": "Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "id": "signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-sur",
+      "added_at": "2026-11-23T08:37:31Z"
+    },
+    {
+      "published_at": "2026-11-17T12:00:00Z",
+      "source": "i10X News",
+      "summary": "Cognition launched Devin Bots, persistent AI agents that manage teams of Devin coding agents over multi-week projects; its showcase Android app took 44 days and 1,134 merged pull requests.",
+      "tags": [
+        "devin",
+        "coding-agents",
+        "cognition",
+        "agents"
+      ],
+      "title": "Devin Bots: Cognition's Persistent Coding Agents Explained",
+      "url": "https://i10x.ai/news/cognition-devin-bots-persistent-coding-agents",
+      "id": "devin-bots-cognition-s-persistent-coding-agents-explained",
+      "added_at": "2026-11-23T08:37:31Z"
+    },
+    {
       "published_at": "2026-11-22T18:40:00Z",
       "source": "TechCrunch",
       "summary": "In an interview about his book 'Hyperscale,' journalist Paris Marx argues AI data centers have become the most visible, bipartisan flashpoint of the tech backlash because their costs in power, water and noise land directly on local communities.",
