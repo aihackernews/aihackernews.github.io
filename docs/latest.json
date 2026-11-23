@@ -1,6 +1,108 @@
 {
   "records": [
     {
+      "published_at": "2026-11-23T19:30:00Z",
+      "source": "TechCrunch",
+      "summary": "Google is expanding Personal Intelligence in Search's AI Mode with optional integrations for Google Drive, Google Wallet, and the Gemini app, letting AI Mode draw on files, spending data, and Gemini context for more personalized answers.",
+      "tags": [
+        "google",
+        "search",
+        "ai-mode",
+        "gemini"
+      ],
+      "title": "Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "id": "google-search-s-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized",
+      "added_at": "2026-11-23T20:35:30Z"
+    },
+    {
+      "published_at": "2026-11-23T18:12:00Z",
+      "source": "TechCrunch",
+      "summary": "Hours after being reinstated as Nvidia CEO, Jensen Huang was scheduled to testify before the Senate Banking Committee on December 3, amid bipartisan questions about his ties to a suspected Chinese spy and alleged chip-smuggling operations.",
+      "tags": [
+        "nvidia",
+        "policy",
+        "senate"
+      ],
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "id": "jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as",
+      "added_at": "2026-11-23T20:35:30Z"
+    },
+    {
+      "published_at": "2026-11-23T14:43:03Z",
+      "source": "TechCrunch",
+      "summary": "Bret Taylor's customer-experience AI company Sierra raised $1.75 billion in a Series F round led by Greenoaks and Lightspeed, doubling its valuation to $30 billion six months after its previous round.",
+      "tags": [
+        "funding",
+        "sierra",
+        "agents",
+        "startups"
+      ],
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "id": "sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-o",
+      "added_at": "2026-11-23T20:35:30Z"
+    },
+    {
+      "published_at": "2026-11-23T12:00:00Z",
+      "source": "Hugging Face",
+      "summary": "Ant Group's InclusionAI released Ling-3.2-air, an open-weight native multimodal mixture-of-experts model with 124B total parameters and 5.5B active, a 1M-token context, and day-one vLLM and SGLang support under the MIT license.",
+      "tags": [
+        "open-models",
+        "ant-group",
+        "multimodal"
+      ],
+      "title": "Ant Group releases Ling-3.2-air, a 124B open-weight multimodal MoE",
+      "url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
+      "id": "ant-group-releases-ling-3-2-air-a-124b-open-weight-multimodal-moe",
+      "added_at": "2026-11-23T20:35:30Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "Hugging Face",
+      "summary": "Nari Labs released NariQ, a trellis-coded quantization of Qwen3.8-27B that squeezes the 27B model into a 10 GB file while matching BF16 performance on long-horizon agentic coding tasks, math, and image understanding.",
+      "tags": [
+        "open-models",
+        "quantization",
+        "qwen",
+        "agents"
+      ],
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "id": "nariq-bf16-level-qwen3-8-27b-in-a-10-gb-file",
+      "added_at": "2026-11-23T20:35:30Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "The Outpost",
+      "summary": "OpenAI rolled out ChatGPT Space to Plus subscribers on November 20, bringing the collaborative workspace with self-updating Pages, slides, and shared files to the $20-a-month plan after its earlier Pro, Business, and Enterprise debut.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "productivity"
+      ],
+      "title": "ChatGPT Space opens to Plus subscribers",
+      "url": "https://theoutpost.ai/news-story/chatgpt-spaces-just-opened-up-to-plus-subscribers-self-updating-documents-included-33952/",
+      "id": "chatgpt-space-opens-to-plus-subscribers",
+      "added_at": "2026-11-23T20:35:30Z"
+    },
+    {
+      "published_at": "2026-11-18T12:00:00Z",
+      "source": "AI Agent Update",
+      "summary": "Anthropic's amended IPO prospectus discloses a non-cancelable Azure commitment of at least $47.2 billion, up to $49.2 billion, from November 2026 through June 2033, payable regardless of actual usage.",
+      "tags": [
+        "anthropic",
+        "microsoft",
+        "azure",
+        "infrastructure"
+      ],
+      "title": "Anthropic commits $47.2B to Microsoft Azure through 2033",
+      "url": "https://aiagentupdate.com/post/microsoft-anthropic-azure-47b-2026-11-18",
+      "id": "anthropic-commits-47-2b-to-microsoft-azure-through-2033",
+      "added_at": "2026-11-23T20:35:30Z"
+    },
+    {
       "published_at": "2026-11-23T14:00:00Z",
       "source": "NVIDIA",
       "summary": "Nvidia's board has reinstated Jensen Huang as president, CEO and board director, reversing his resignation weeks earlier after an espionage scandal that wiped out more than $1 trillion in market value.",
