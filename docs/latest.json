@@ -1,6 +1,226 @@
 {
   "records": [
     {
+      "published_at": "2026-11-24T22:35:00Z",
+      "source": "TechCrunch",
+      "summary": "In his first all-hands meeting since returning as Nvidia CEO, Jensen Huang told staff the company does not need a succession plan because of its flat structure, arguing one would create unnecessary hierarchy. The remarks come after his resignation and reinstatement earlier this month.",
+      "tags": [
+        "nvidia",
+        "industry",
+        "leadership"
+      ],
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "id": "jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "published_at": "2026-11-24T21:30:00Z",
+      "source": "TechCrunch",
+      "summary": "A new benchmark called ShellBench, built from over 10 million real-world agent interactions, finds even the most advanced AI models fail more than a third of everyday tasks, with 15.7% of attempts failing at least one safety requirement. GPT-6 Astra, the top scorer, completed all three repeated attempts less than half the time.",
+      "tags": [
+        "agents",
+        "research",
+        "benchmarks"
+      ],
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "id": "even-the-best-ai-agents-struggle-with-everyday-life",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "published_at": "2026-11-24T21:30:00Z",
+      "source": "TechCrunch",
+      "summary": "Maple, a privacy-focused AI app startup co-founded by a former Apple engineer, raised a $5.3 million seed round. Its models run inside trusted execution environments with on-device encryption, so the company says it cannot access users' data even if compelled, and it is building a cloud agent for small businesses.",
+      "tags": [
+        "startups",
+        "funding",
+        "privacy"
+      ],
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "id": "maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "published_at": "2026-11-24T20:42:29Z",
+      "source": "The Decoder",
+      "summary": "Anthropic launched an 'Install as app' beta that turns Claude artifacts into standalone Mac and Windows desktop apps with their own icons and windows. The apps can use OS features like notifications and menu-bar items under a three-tier permission system, and require a Claude sign-in to run.",
+      "tags": [
+        "products",
+        "claude",
+        "desktop",
+        "anthropic"
+      ],
+      "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+      "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+      "id": "anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-wind",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "published_at": "2026-11-24T19:33:00Z",
+      "source": "PrismML",
+      "summary": "PrismML released Ternary Bonsai 2.5 27B, a 27-billion-parameter model compressed to 5.9 GB with ternary weights for on-device agentic coding. It scores 75.6 on SWE-bench Verified, close to its full-precision Qwen3.8-27B base, and is available under Apache 2.0.",
+      "tags": [
+        "models",
+        "open-weight",
+        "agents",
+        "coding"
+      ],
+      "title": "Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "id": "introducing-ternary-bonsai-2-5-27b-powering-agentic-coding-and-private-knowledge",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "title": "Pinterest is adding parental controls for AI-generated content",
+      "url": "https://www.theverge.com/tech/1041271/pinterest-is-adding-parental-controls-for-ai-generated-content",
+      "source": "The Verge",
+      "summary": "Pinterest is adding parental controls covering AI-generated content, giving parents tools to manage what their teens see and interact with on the platform as synthetic imagery spreads.",
+      "published_at": "2026-11-24T16:18:00Z",
+      "tags": [
+        "products",
+        "safety",
+        "ai-generated-content"
+      ],
+      "id": "pinterest-is-adding-parental-controls-for-ai-generated-content",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "The Verge",
+      "summary": "The New York Times has warned photographers not to update Photoshop, citing concerns over its AI features and what they could mean for the authenticity and handling of news photos.",
+      "published_at": "2026-11-24T16:09:00Z",
+      "tags": [
+        "policy",
+        "ai-generated-content",
+        "adobe"
+      ],
+      "id": "the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "published_at": "2026-11-24T13:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI reports its GPT-6 models can design new protein structures and amino-acid sequences using only reasoning and code, without specialized biology models. Lab tests with partner Onava found evidence of binding across five targets for proteins based on GPT-6.2 designs.",
+      "tags": [
+        "models",
+        "research",
+        "biology",
+        "openai"
+      ],
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "id": "gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "title": "Meta's Muse agent launches in the UK",
+      "url": "https://www.theverge.com/tech/1041084/metas-muse-agent-launches-in-the-uk",
+      "source": "The Verge",
+      "summary": "Meta's Muse personal AI agent is now available to adults in the UK, expanding beyond its US and Canada launch. As with the US rollout, the agent must ask permission before making any purchase.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "products",
+        "agents",
+        "meta",
+        "uk"
+      ],
+      "id": "meta-s-muse-agent-launches-in-the-uk",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "source": "The Verge",
+      "summary": "The surging electricity demand of AI data centers has become a flashpoint at UN climate talks, complicating negotiations over emissions and energy policy as countries weigh AI growth against climate commitments.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "infrastructure",
+        "policy",
+        "climate",
+        "data-centers"
+      ],
+      "id": "ai-data-centers-throw-another-wrench-into-chaotic-un-climate-talks",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "published_at": "2026-11-23T22:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Supertake raised $20 million in seed funding for a service that turns users' natural-language market views into real stock portfolios using frontier AI models and trading agents, with guardrails including spend limits and no access to brokerage credentials. The round was led by Adjacent with Coinbase Ventures and Union Square Ventures participating.",
+      "tags": [
+        "startups",
+        "funding",
+        "agents",
+        "finance"
+      ],
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "id": "supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-po",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "published_at": "2026-11-23T18:00:00Z",
+      "source": "PYMNTS",
+      "summary": "Anthropic opened its Enterprise Frontier Safeguards in public beta, letting eligible businesses use Claude's most capable models with zero data retention: prompts and responses stay in the customer's own cloud storage while automated monitoring scans for misuse across requests.",
+      "tags": [
+        "enterprise",
+        "safety",
+        "privacy",
+        "anthropic"
+      ],
+      "title": "Anthropic opens Enterprise Frontier Safeguards in public beta",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-availability-of-ai-safety-monitoring-with-zero-data-retention/",
+      "id": "anthropic-opens-enterprise-frontier-safeguards-in-public-beta",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "published_at": "2026-11-23T12:00:00Z",
+      "source": "Google DeepMind",
+      "summary": "Google DeepMind and Google Quantum AI used teams of Gemini 4 agents to find cheaper quantum algorithms, verifying every result in the Lean theorem prover. Highlights include a 290x cheaper arcsin routine and an 11.8x cost cut for a fusion-energy calculation, with the Lean library open-sourced.",
+      "tags": [
+        "research",
+        "quantum",
+        "agents",
+        "deepmind"
+      ],
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "id": "finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "published_at": "2026-11-23T12:00:00Z",
+      "source": "AWS",
+      "summary": "AWS released Strands Decider v2, five open-weight decision models built on Gemma 4 (2B to 31B) under Apache 2.0 that score fixed options instead of generating text. The largest model averages 82.1 across six benchmarks, up from 70.0 for v1, and Strands Box added native support for Claude Code, Codex, and Kiro CLI.",
+      "tags": [
+        "models",
+        "agents",
+        "open-weight",
+        "aws"
+      ],
+      "title": "Introducing Strands Decider v2: open, calibrated system one models",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider-v2/",
+      "id": "introducing-strands-decider-v2-open-calibrated-system-one-models",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
+      "published_at": "2026-11-23T12:00:00Z",
+      "source": "Interesting Engineering",
+      "summary": "Anthropic published a 70-page paper credited entirely to an internal Claude model claiming to prove VP ≠ VNP, the algebraic counterpart of P vs NP posed by Leslie Valiant in 1979, alongside a Lean 4 formalization. No human mathematician has reviewed the proof yet, and OpenAI posted its own proof of the same problem the same day.",
+      "tags": [
+        "research",
+        "math",
+        "claude",
+        "anthropic"
+      ],
+      "title": "Claude claims to prove VP ≠ VNP in Valiant's 47-year-old conjecture",
+      "url": "https://interestingengineering.com/ai-robotics/claude-proves-vp-not-vnp-valiant-conjecture",
+      "id": "claude-claims-to-prove-vp-vnp-in-valiant-s-47-year-old-conjecture",
+      "added_at": "2026-11-24T23:39:19Z"
+    },
+    {
       "published_at": "2026-11-24T19:23:41Z",
       "source": "The Decoder",
       "summary": "Two years after launch, Anthropic says its Model Context Protocol tops 700 million monthly SDK downloads and 10,000 connectors; new features like background Tasks, Elicitation and Skills over MCP are designed to let Claude work more independently.",
