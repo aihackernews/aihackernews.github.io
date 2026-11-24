@@ -1,6 +1,242 @@
 {
   "records": [
     {
+      "published_at": "2026-11-24T19:23:41Z",
+      "source": "The Decoder",
+      "summary": "Two years after launch, Anthropic says its Model Context Protocol tops 700 million monthly SDK downloads and 10,000 connectors; new features like background Tasks, Elicitation and Skills over MCP are designed to let Claude work more independently.",
+      "tags": [
+        "anthropic",
+        "mcp",
+        "agents",
+        "claude"
+      ],
+      "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+      "id": "anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-fo",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "published_at": "2026-11-24T18:02:59Z",
+      "source": "TechCrunch",
+      "summary": "The UK's National Cyber Security Centre says it has seen a marked rise in AI-driven cyberattacks using autonomous hacking tools, which exploit long-known weaknesses at unprecedented speed; basic cyber hygiene would prevent most of them.",
+      "tags": [
+        "ai-safety",
+        "cybersecurity",
+        "policy",
+        "uk"
+      ],
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "id": "uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "published_at": "2026-11-24T17:30:00Z",
+      "source": "TechCrunch",
+      "summary": "Tidal says it will remove fully AI-generated music starting December 9, deleting over 29 million tracks by year-end, after finding 43% of uploads in the past 90 days were AI-generated.",
+      "tags": [
+        "ai-music",
+        "tidal",
+        "streaming",
+        "policy"
+      ],
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "id": "tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-mus",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "published_at": "2026-11-24T17:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Meta is rolling out its Muse AI assistant inside Instagram DMs in the US, Canada, Mexico, Japan and Singapore, letting users ask about posts, catch up on chats, and organize saved content into collections.",
+      "tags": [
+        "meta",
+        "muse",
+        "instagram",
+        "ai-assistant"
+      ],
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "id": "meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "published_at": "2026-11-24T15:30:00Z",
+      "source": "TechCrunch",
+      "summary": "Anthropic shares fell below their $83 IPO price on Tuesday, trading as low as $76, less than a week after a debut that opened at $111.50; co-founders Dario and Daniela Amodei each sold over $280 million of shares the day after listing.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "markets"
+      ],
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "id": "anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "published_at": "2026-11-24T14:28:41Z",
+      "source": "The Decoder",
+      "summary": "Anthropic researcher Levent Alpoge says he stands by the math of his AI-assisted proof of the generalized Riemann hypothesis, but concedes the 250,000-page claim was a joke and the published Lean code is messy and not itself proof the code states the right theorem.",
+      "tags": [
+        "anthropic",
+        "research",
+        "mathematics"
+      ],
+      "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+      "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
+      "id": "anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stup",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "title": "Former OpenAI employee may have captured trade secrets with hidden listening device",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041125/former-openai-employee-may-have-captured-trade-secrets-with-hidden-listening-device",
+      "source": "The Verge",
+      "summary": "A former OpenAI employee is accused of using a hidden listening device to capture company trade secrets, according to a report, in the latest case of alleged corporate espionage in the AI industry.",
+      "published_at": "2026-11-24T13:44:00Z",
+      "tags": [
+        "openai",
+        "trade-secrets",
+        "espionage"
+      ],
+      "id": "former-openai-employee-may-have-captured-trade-secrets-with-hidden-listening-dev",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica",
+      "summary": "Amazon says hackers used AI agents that found and exploited a zero-day vulnerability with little human input, a sign that autonomous offensive tools are moving from research into real attacks.",
+      "published_at": "2026-11-24T12:30:00Z",
+      "tags": [
+        "ai-agents",
+        "cybersecurity",
+        "amazon",
+        "zero-day"
+      ],
+      "id": "amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "published_at": "2026-11-24T12:00:00Z",
+      "source": "The Decoder",
+      "summary": "Citing more than two dozen insiders, Axios reports many employees at OpenAI and Anthropic believe their unreleased frontier models can no longer be safely controlled, and both companies are internally debating whether to halt releases or stop training.",
+      "tags": [
+        "openai",
+        "anthropic",
+        "ai-safety",
+        "policy"
+      ],
+      "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
+      "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+      "id": "dozens-of-insiders-say-openai-and-anthropic-s-unreleased-models-have-outgrown-th",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "published_at": "2026-11-24T00:00:00Z",
+      "source": "The Decoder",
+      "summary": "Anthropic is now xAI's biggest customer with a contract worth roughly $3.1 billion a month, per the New York Times; the deal is over half of xAI's revenue, pushing Musk's AI unit toward renting compute as its own models struggle to compete.",
+      "tags": [
+        "anthropic",
+        "xai",
+        "compute",
+        "infrastructure"
+      ],
+      "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+      "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+      "id": "anthropic-s-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strateg",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "published_at": "2026-11-23T22:05:50Z",
+      "source": "TechCrunch",
+      "summary": "Anthropic launched Claude Ship in beta, a suite of agents that review pull requests, fix failing checks and conflicts, and approve routine code changes under team-written policies, aiming to remove the review bottleneck as AI writes more code.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "coding-agents",
+        "developer-tools"
+      ],
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "id": "anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-cha",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "source": "Ars Technica",
+      "summary": "Multiple states are suing SpaceX to stop its Grok chatbot from generating sexualized images of children and nonconsensual intimate imagery, escalating legal pressure on the company over its image-generation safeguards.",
+      "published_at": "2026-11-23T21:30:00Z",
+      "tags": [
+        "grok",
+        "spacex",
+        "regulation",
+        "ai-safety"
+      ],
+      "id": "states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "published_at": "2026-11-23T21:25:00Z",
+      "source": "TechCrunch",
+      "summary": "Megaspeed, the Singapore cloud firm at the center of the Nvidia scandal, will reportedly be added to the US Commerce Department's Entity List, barring US firms from selling it products without a license.",
+      "tags": [
+        "nvidia",
+        "megaspeed",
+        "export-controls",
+        "policy"
+      ],
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "id": "megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-f",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "published_at": "2026-11-23T19:14:57Z",
+      "source": "Dealroom",
+      "summary": "Embo, a robotics AI startup co-founded by Dreamer researcher Danijar Hafner, raised a $110 million seed round led by Andreessen Horowitz to build a world-model robot brain pretrained on internet video for humanoid robots.",
+      "tags": [
+        "funding",
+        "robotics",
+        "world-models"
+      ],
+      "title": "Embo raises $110M seed to build robot brains with world models",
+      "url": "https://dealroom.co/news/175093-embo-raises-110m-seed-to-build-robot-brains-with-world-models/",
+      "id": "embo-raises-110m-seed-to-build-robot-brains-with-world-models",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "published_at": "2026-11-23T17:00:00Z",
+      "source": "MacRumors",
+      "summary": "OpenAI is rolling out a chat-tuned version of GPT-6.2 Sol to ChatGPT's regular chat tab for Plus, Pro, Business and Enterprise users, with better image understanding, instruction following and web search; Free and Go plans stay on GPT-6 Luna for now.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "gpt-6.2",
+        "models"
+      ],
+      "title": "OpenAI Brings GPT-6.2 Sol to ChatGPT's Chat Tab",
+      "url": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/",
+      "id": "openai-brings-gpt-6-2-sol-to-chatgpt-s-chat-tab",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
+      "published_at": "2026-11-23T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI and Cisco launched Shirudo, an open-source runtime that uses AI-generated eBPF shields to block exploits on running Linux systems while patches are prepared, without restarting services.",
+      "tags": [
+        "openai",
+        "cisco",
+        "cybersecurity",
+        "open-source"
+      ],
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo/",
+      "id": "openai-and-cisco-introduce-shirudo",
+      "added_at": "2026-11-24T20:40:30Z"
+    },
+    {
       "published_at": "2026-11-23T19:30:00Z",
       "source": "TechCrunch",
       "summary": "Google is expanding Personal Intelligence in Search's AI Mode with optional integrations for Google Drive, Google Wallet, and the Gemini app, letting AI Mode draw on files, spending data, and Gemini context for more personalized answers.",
