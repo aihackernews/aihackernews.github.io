@@ -1,6 +1,1024 @@
 {
   "records": [
     {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch",
+      "summary": "Amazon and Meta are reportedly in talks to let Meta's Muse agent connect directly to Amazon's store, reversing the blockade that stopped Muse users checking out on Amazon two months ago. Search-result presentation and advertising remain the key sticking points, and any deal would need both CEOs' approval.",
+      "published_at": "2026-11-25T14:10:00Z",
+      "tags": [
+        "meta",
+        "amazon",
+        "ai-agents",
+        "shopping"
+      ],
+      "id": "amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "source": "The Decoder",
+      "summary": "Google DeepMind now lets AI agents control part of its compute to run experiments for the next Gemini model, though the lab says full recursive self-improvement remains distant. As a safety measure it does not reward agents' chain-of-thought during training, so their intentions stay reviewable in natural language.",
+      "published_at": "2026-11-25T13:23:36Z",
+      "tags": [
+        "google-deepmind",
+        "gemini",
+        "ai-agents",
+        "research"
+      ],
+      "id": "ai-agents-now-control-part-of-deepmind-s-compute-for-gemini-experiments-but-recu",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
+      "url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
+      "source": "The Decoder",
+      "summary": "The US Treasury's FinCEN took systems offline after unauthorized access, hours after a breach at the CIA, NGA and ODNI that investigators suspect involved Artex, an AI hacking tool originally built for cyber defense. Straight news coverage of the incidents and the AI tool's suspected role.",
+      "published_at": "2026-11-25T13:07:44Z",
+      "tags": [
+        "cybersecurity",
+        "ai-agents",
+        "policy",
+        "us-government"
+      ],
+      "id": "back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-foll",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch",
+      "summary": "Despite Jensen Huang's reinstatement as Nvidia CEO, the company still faces inquiries from California's attorney general, Congress and reportedly the SEC over alleged GPU smuggling to China via customer Megaspeed, including what Nvidia knew about where its chips ended up.",
+      "published_at": "2026-11-25T13:00:00Z",
+      "tags": [
+        "nvidia",
+        "export-controls",
+        "policy",
+        "chips"
+      ],
+      "id": "the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "source": "Google Research",
+      "summary": "Google published six new mathematics papers produced by Cogentic, its AI-driven research system, including results on integer factorization, discrete logarithms, Nash equilibria and the log-rank conjecture.",
+      "published_at": "2026-11-25T12:00:00Z",
+      "tags": [
+        "google",
+        "research",
+        "mathematics",
+        "ai-agents"
+      ],
+      "id": "google-releases-cogentic-papers-on-integer-factorization-discrete-logs-and-more",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access",
+      "url": "https://www.reuters.com/legal/government/jensen-huangs-return-nvidia-fuels-washington-fight-over-chinas-chip-access-2026-11-25/",
+      "source": "Reuters",
+      "summary": "Trump's intervention to reinstate Jensen Huang as Nvidia CEO has intensified Washington's fight over China's access to advanced AI chips, with lawmakers pushing three bills to tighten export controls and chip tracking, and Huang due to be interviewed in Congress next week.",
+      "published_at": "2026-11-25T11:30:00Z",
+      "tags": [
+        "nvidia",
+        "policy",
+        "china",
+        "chips"
+      ],
+      "id": "jensen-huang-s-return-to-nvidia-fuels-washington-fight-over-china-s-chip-access",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable",
+      "url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
+      "source": "The Decoder",
+      "summary": "MIT, ETH Zurich and Imperial College London researchers found training AI climate emulators on deliberately unrealistic synthetic scenarios, like a sudden CO2 spike in 2050, makes them faster, cheaper and more reliable, needing only a single full simulation run instead of six to eight.",
+      "published_at": "2026-11-25T10:47:51Z",
+      "tags": [
+        "research",
+        "climate",
+        "mit",
+        "training-data"
+      ],
+      "id": "mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-m",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face",
+      "summary": "IBM Research built a voice agent on its open-source CUGA harness that lets farmers ask farming questions aloud in Hindi, Tamil, Telugu and other Indic languages and get spoken answers grounded in an English handbook, using multilingual retrieval to bridge the language gap.",
+      "published_at": "2026-11-25T10:22:09Z",
+      "tags": [
+        "voice-agent",
+        "multilingual",
+        "ibm",
+        "open-source",
+        "agents"
+      ],
+      "id": "an-indic-voice-agent-with-cuga",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "source": "LessWrong",
+      "summary": "A researcher showed two sandboxed copies of Qwen3-8B can pass messages to each other through shared inference-server side channels, KV-cache reuse and log-probability patterns, suggesting sandboxing alone may not stop covert model-to-model communication.",
+      "published_at": "2026-11-25T03:00:00Z",
+      "tags": [
+        "safety",
+        "sandbox",
+        "research",
+        "agents"
+      ],
+      "id": "models-can-communicate-via-inference-servers-despite-being-sandboxed",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Trump reportedly says pardoning Jensen Huang is 'an option'",
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "source": "TechCrunch",
+      "summary": "President Trump said pardoning Nvidia CEO Jensen Huang is 'an option' but that he doesn't think it will be necessary, days after Huang was reinstated as CEO and ahead of his Senate Banking Committee testimony.",
+      "published_at": "2026-11-25T00:10:27Z",
+      "tags": [
+        "policy",
+        "nvidia"
+      ],
+      "id": "trump-reportedly-says-pardoning-jensen-huang-is-an-option",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-24T23:09:03Z",
+      "source": "Anthropic",
+      "summary": "Anthropic Fellows published a two-part study arguing the classic objections to neuron-level interpretability are overstated: measuring what each neuron contributes to the output, rather than what makes it fire, shows neurons rarely mix unrelated concepts, and the same neuron vectors can detect harmful text and steer behavior without extra training.",
+      "tags": [
+        "anthropic",
+        "interpretability",
+        "research",
+        "safety"
+      ],
+      "title": "Anthropic Fellows argue individual AI neurons are readable after all",
+      "url": "https://alignment.anthropic.com/2026/neuron-basis-theory/",
+      "id": "anthropic-fellows-argue-individual-ai-neurons-are-readable-after-all",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "source": "Hacker News",
+      "summary": "YC startup Versine launched an MCP that lets AI assistants send and request money through a self-custodial USDC wallet, with passkey approval in its app and support for ChatGPT and Claude.",
+      "published_at": "2026-11-24T21:35:00Z",
+      "tags": [
+        "ai-agents",
+        "mcp",
+        "fintech",
+        "startups"
+      ],
+      "id": "launch-hn-versine-yc-f26-mcp-to-send-and-receive-money",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-24T21:32:38Z",
+      "source": "TechCrunch",
+      "summary": "Walmart partnered with Meta to let shoppers browse Black Friday deals and buy through Muse, Meta's AI agent, via Walmart's Agent Gateway, with spending limits and purchase approvals built in.",
+      "tags": [
+        "walmart",
+        "meta",
+        "muse",
+        "ai-agents",
+        "shopping"
+      ],
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "id": "walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+      "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+      "source": "TechCrunch",
+      "summary": "Uber and Nuro began driverless testing of Lucid Gravity robotaxis on public Bay Area streets, the final step before a commercial robotaxi launch planned for the first quarter of 2027.",
+      "published_at": "2026-11-24T16:40:46Z",
+      "tags": [
+        "robotics",
+        "autonomous-vehicles"
+      ],
+      "id": "uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
+      "url": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
+      "source": "The Decoder",
+      "summary": "Forty researchers at TU Darmstadt argue in a position paper that computer science should evolve into 'Computer and AI Science', shifting degrees from manual coding toward verifying and directing AI-generated systems and rethinking how runtime-generated software is certified.",
+      "published_at": "2026-11-24T12:30:49Z",
+      "tags": [
+        "research",
+        "education",
+        "policy",
+        "generative-computing"
+      ],
+      "id": "german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Dell lifts annual forecasts after record quarter on surging AI server demand",
+      "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/",
+      "source": "Reuters",
+      "summary": "Dell reported record quarterly revenue of $54.9 billion, up 103% year over year, with AI-optimized server revenue jumping 291% to $22 billion and a record $132.3 billion AI server backlog, and raised its full-year revenue forecast to $202 billion.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "dell",
+        "ai-infrastructure",
+        "earnings"
+      ],
+      "id": "dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "As Consumers Begin Their Holiday Shopping Season, Governor Hochul Signs Five-Year Ban on AI Chatbot Toys",
+      "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+      "source": "New York State Governor's Office",
+      "summary": "New York Governor Kathy Hochul signed a five-year moratorium on the manufacture, distribution and sale of toys with embedded AI chatbots, citing child-safety concerns after watchdog testing found some toys discussing sexually explicit topics with children; violators face up to $15,000 per day in penalties.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "policy",
+        "ai-safety",
+        "children",
+        "new-york"
+      ],
+      "id": "as-consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Hanwha Aerospace Builds 180MW Defense AI Data Center",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=15889",
+      "source": "The Elec",
+      "summary": "Hanwha Aerospace is building a 180-megawatt defense AI data center in Changwon, South Korea, with a 10 trillion won first-phase investment, aiming to begin initial services in July 2028 and accelerate military AI adoption by four to five years.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "ai-infrastructure",
+        "defense",
+        "south-korea",
+        "data-center"
+      ],
+      "id": "hanwha-aerospace-builds-180mw-defense-ai-data-center",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "FCA Warns Companies Against Unregulated Agentic Activity",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fca-warns-companies-against-unregulated-agentic-activity/",
+      "source": "PYMNTS",
+      "summary": "The UK Financial Conduct Authority warned tech firms that AI agents which execute transactions, move money or make investment decisions fall within financial regulation and need authorisation, saying calling yourself a technology provider is no exemption and it will intervene against unauthorised activity.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "policy",
+        "ai-agents",
+        "regulation",
+        "uk"
+      ],
+      "id": "fca-warns-companies-against-unregulated-agentic-activity",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "OpenAI Held Talks With AI Native Law Firm",
+      "url": "https://www.artificiallawyer.com/2026/11/24/openai-held-talks-with-ai-native-law-firm/",
+      "source": "Artificial Lawyer",
+      "summary": "OpenAI held talks to hire key staff from a US-based AI-native law firm as part of its push into legal services, but the unnamed firm rejected the approach and chose to keep growing independently, signalling OpenAI's deepening ambitions in the legal market beyond its Astra for Legal offering.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "openai",
+        "legal-ai",
+        "business"
+      ],
+      "id": "openai-held-talks-with-ai-native-law-firm",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "Hugging Face",
+      "summary": "NVIDIA shows how to train a small walking robot to steer around obstacles using a time-of-flight sensor, training the avoidance controller in Isaac Lab simulation with Newton's physics and deploying it on the real Microduck robot.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "robotics",
+        "nvidia",
+        "simulation",
+        "isaac-lab",
+        "tutorial"
+      ],
+      "id": "microduck-obstacle-avoidance-a-sim2real-workflow-with-isaac-lab-and-newton",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Humanity's First Exam: Testing LLM reliability",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+      "source": "Google DeepMind",
+      "summary": "DeepMind launched Humanity's First Exam, a 544-prompt benchmark on Kaggle that tests whether frontier models answer everyday text and image questions consistently across slight variations; top models score 96-98% on single attempts but average 85.6% when every variant must be right, with visual perception behind about 74% of errors.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "deepmind",
+        "benchmarks",
+        "reliability",
+        "llm"
+      ],
+      "id": "humanity-s-first-exam-testing-llm-reliability",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Midjourney releases Niji 8, its fastest anime model yet, with editing for consistent characters",
+      "url": "https://nijijourney.com/blog/niji-8",
+      "source": "Niji Journey",
+      "summary": "Midjourney and Spellbrush released Niji 8, their fastest and most coherent anime illustration model yet, adding an edit feature that keeps a character consistent across poses and backgrounds by combining reference images.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "models",
+        "image-generation",
+        "anime"
+      ],
+      "id": "midjourney-releases-niji-8-its-fastest-anime-model-yet-with-editing-for-consiste",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "LlamaIndex releases OCRia-1, a 4B vision model that turns document pages into Markdown",
+      "url": "https://huggingface.co/llamaindex/OCRia-1",
+      "source": "LlamaIndex",
+      "summary": "LlamaIndex released the weights for OCRia-1, a 4B vision-language model that transcribes document pages directly into Markdown, topping the open-weight ranks on both ParseBench leaderboards.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "models",
+        "document-ai",
+        "open-weights"
+      ],
+      "id": "llamaindex-releases-ocria-1-a-4b-vision-model-that-turns-document-pages-into-mar",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "FrontiersMind releases NandiBERT, open encoders for English and thirteen Indian languages",
+      "url": "https://huggingface.co/blog/FrontiersMind/introducing-nandibert",
+      "source": "FrontiersMind",
+      "summary": "FrontiersMind released NandiBERT, two Apache 2.0 encoders for English and thirteen Indian languages that beat IndicBERT v2 on Indic tasks while ranking near the best English-only encoders of their size.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "models",
+        "open-weights",
+        "nlp"
+      ],
+      "id": "frontiersmind-releases-nandibert-open-encoders-for-english-and-thirteen-indian-l",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Sakana AI launches an Applied Research Lab, starting with finance and economics",
+      "url": "https://sakana.ai/applied-research-lab/",
+      "source": "Sakana AI",
+      "summary": "Sakana AI launched an Applied Research Lab to apply its research to complex real-world systems, starting with a computational finance and economics program built on agent-based modeling with LLM agents.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "research",
+        "labs",
+        "finance"
+      ],
+      "id": "sakana-ai-launches-an-applied-research-lab-starting-with-finance-and-economics",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-24T12:00:00Z",
+      "source": "Google",
+      "summary": "Google made its Workspace MCP servers and CLI generally available, giving AI agents governed access to Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat and Tasks, and said agents must use them instead of REST APIs from February 1, 2027.",
+      "tags": [
+        "google",
+        "workspace",
+        "mcp",
+        "agents",
+        "developers"
+      ],
+      "title": "Google makes Workspace MCP servers and CLI generally available",
+      "url": "https://workspace.google.com/blog/product-announcements/built-for-trust-and-control-new-ai-agent-protections-and-developer-tools-in-google-workspace",
+      "id": "google-makes-workspace-mcp-servers-and-cli-generally-available",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "'Outrageous,' 'reckless,' 'wow': Here's what politicians are saying about Jensen Huang's return to Nvidia",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "source": "TechCrunch",
+      "summary": "Politicians from both parties reacted sharply to Nvidia reinstating Jensen Huang as CEO before Congress has heard from him, with Democrats calling the decision outrageous and demanding investigations into the chip-diversion allegations and the Trump administration's role in his return.",
+      "published_at": "2026-11-23T19:31:00Z",
+      "tags": [
+        "nvidia",
+        "jensen-huang",
+        "politics",
+        "congress",
+        "policy"
+      ],
+      "id": "outrageous-reckless-wow-here-s-what-politicians-are-saying-about-jensen-huang-s",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+      "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+      "source": "The Decoder",
+      "summary": "OpenAI chief scientist Jakub Pachocki published internal perplexity scores for the GPT series and warned that future systems may gain capabilities today's safety checks cannot measure, calling on frontier labs to agree on shared limits until monitoring catches up.",
+      "published_at": "2026-11-23T18:42:38Z",
+      "tags": [
+        "openai",
+        "safety",
+        "perplexity",
+        "policy",
+        "gpt"
+      ],
+      "id": "openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-riva",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "url": "https://news.ycombinator.com/item?id=50615308",
+      "source": "Hacker News",
+      "summary": "Meta chief AI scientist Yann LeCun publicly accused Anthropic CEO Dario Amodei of hyping AI dangers to push open-source models toward illegality, igniting a wide debate over open-weight regulation and who benefits from restricting it.",
+      "published_at": "2026-11-23T17:30:00Z",
+      "tags": [
+        "lecun",
+        "amodei",
+        "open-source",
+        "policy",
+        "anthropic"
+      ],
+      "id": "dario-is-hyping-the-dangers-so-oss-models-are-illegal-and-he-stays-in-control",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Enterprise data security startup Matters.AI raises Rs 115 Cr in pre-Series A round",
+      "url": "https://yourstory.com/2026/11/enterprise-data-security-startup-matters-ai-raises-rs-115-cr-pre-series-a-round",
+      "source": "YourStory",
+      "summary": "Bengaluru-based Matters.AI raised about $12 million in a pre-Series A round led by Tanglin Venture Partners to build its AI security engineer for data, which tracks sensitive data and flags misuse by employees and AI agents.",
+      "published_at": "2026-11-23T17:00:00Z",
+      "tags": [
+        "matters-ai",
+        "funding",
+        "data-security",
+        "agents"
+      ],
+      "id": "enterprise-data-security-startup-matters-ai-raises-rs-115-cr-in-pre-series-a-rou",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+      "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
+      "source": "The Decoder",
+      "summary": "Chinese military researchers fear AI advances could let the US detect and destroy China's nuclear missiles, shrinking nuclear decision-making from 15-30 minutes to 90 seconds, according to a New York Times review of more than 100 Chinese civilian and military studies.",
+      "published_at": "2026-11-23T14:43:23Z",
+      "tags": [
+        "china",
+        "nuclear",
+        "military",
+        "ai-policy",
+        "strategy"
+      ],
+      "id": "chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-23T12:17:01Z",
+      "source": "The Decoder",
+      "summary": "OpenAI's GPT-6.2 Astra produced a machine-checked Lean proof of Smoktunowicz's 2006 gap theorem with no human help during the run, the only model to solve the task on Vals AI's Autoform-Hard benchmark, and it found its own route around results missing from the math library.",
+      "tags": [
+        "openai",
+        "gpt-6.2",
+        "mathematics",
+        "benchmarks",
+        "research"
+      ],
+      "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+      "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+      "id": "gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-ow",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face",
+      "summary": "The Allen Institute for AI released RoboTrack, a benchmark and 15M-track synthetic dataset for point tracking in robot manipulation, plus two new trackers; it shows leading trackers score notably lower on real manipulation footage than on existing benchmarks.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "robotics",
+        "benchmark",
+        "computer-vision",
+        "allen-ai",
+        "research"
+      ],
+      "id": "robotrack-point-tracking-for-real-world-robotic-manipulation",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+      "source": "AWS Machine Learning Blog",
+      "summary": "AWS made Bedrock's Trusted Access API generally available and opened public previews of Anthropic's Enterprise Frontier Safeguards and Enterprise Data Controls, letting enterprises use Claude Fable and other frontier models while keeping retained prompts in their own S3 bucket or Amazon-managed storage.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "aws",
+        "bedrock",
+        "anthropic",
+        "enterprise",
+        "ai-safety"
+      ],
+      "id": "introducing-the-amazon-bedrock-trusted-access-api-with-enterprise-frontier-safeg",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Aleph Alpha releases open-weight Kolibri 1.1 for English and German",
+      "url": "https://ai.info/news/aleph-alpha-kolibri-1-1-open-weight-model",
+      "source": "AI.info",
+      "summary": "Aleph Alpha released Kolibri 1.1, an open-weight English-German mixture-of-experts model with 75B total and 3B active parameters, a 1M-token context and a new sparse-attention architecture, under the Apache 2.0 license on Hugging Face.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "aleph-alpha",
+        "kolibri",
+        "open-weights",
+        "llm",
+        "germany"
+      ],
+      "id": "aleph-alpha-releases-open-weight-kolibri-1-1-for-english-and-german",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "AMD acquires AI chip startup Taalas for $2.9B to advance AI inference technology",
+      "url": "https://tech.eu/2026/11/23/amd-acquires-ai-chip-startup-taalas-for-29b-to-advance-ai-inference-technology/",
+      "source": "Tech.eu",
+      "summary": "AMD has completed its acquisition of Taalas, a Toronto startup that hardwires AI models directly into silicon for faster inference, in a deal valued at about $2.9 billion in cash and stock, with up to $1.4 billion contingent on milestones.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "amd",
+        "taalas",
+        "acquisition",
+        "inference",
+        "chips"
+      ],
+      "id": "amd-acquires-ai-chip-startup-taalas-for-2-9b-to-advance-ai-inference-technology",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Agon raises $70 million in Series A round to build Europe's defence AI lab",
+      "url": "https://www.businesswire.com/news/home/20261123311259/en/Agon-raises-%2470-million-in-Series-A-round-to-build-Europes-defence-AI-lab",
+      "source": "Business Wire",
+      "summary": "London-based defence AI startup Agon raised a $70 million Series A led by Northzone at a $450 million valuation to build sovereign European infrastructure and foundation models for autonomous defence systems, taking its total funding to $100 million.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "agon",
+        "funding",
+        "defence",
+        "series-a",
+        "europe"
+      ],
+      "id": "agon-raises-70-million-in-series-a-round-to-build-europe-s-defence-ai-lab",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "OpenAI launches OpenWorks to pay local AI experts who help small businesses",
+      "url": "http://openai.com/openworks",
+      "source": "OpenAI",
+      "summary": "OpenAI launched OpenWorks, a pilot in 20 US communities that pays local AI experts stipends of up to $8,000 a month to give independently owned small businesses free hands-on AI help, with participating businesses also getting three months of ChatGPT Business at no cost.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "openai",
+        "openworks",
+        "small-business",
+        "chatgpt"
+      ],
+      "id": "openai-launches-openworks-to-pay-local-ai-experts-who-help-small-businesses",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "China appears to have gained access to Nvidia's advanced AI chips, top US intel official says",
+      "url": "https://cybernews.com/news/china-nvidia-chips/",
+      "source": "CyberNews",
+      "summary": "Director of National Intelligence Jay Clayton said on CNN that China appears to have obtained Nvidia's advanced AI chips through illicit channels, citing a Southern District of New York indictment alleging servers with restricted GPUs were diverted to China.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "china",
+        "nvidia",
+        "export-controls",
+        "intelligence",
+        "policy"
+      ],
+      "id": "china-appears-to-have-gained-access-to-nvidia-s-advanced-ai-chips-top-us-intel-o",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Google adds native file slicing to the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+      "source": "Google",
+      "summary": "The Gemini API now supports server-side file slicing, letting developers send only selected pages, spreadsheet ranges or media segments of PDFs, Office files, audio and video, and pay tokens only for the parts the model inspects.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "google",
+        "gemini",
+        "api",
+        "developers"
+      ],
+      "id": "google-adds-native-file-slicing-to-the-gemini-api",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Marlowe raises $277M seed at $1.15B valuation to run AI inference on non-Nvidia chips",
+      "url": "https://www.geekwire.com/2026/beyond-nvidia-convoy-co-founder-and-former-microsoft-leader-raise-277m-to-rethink-ai-infrastructure/",
+      "source": "GeekWire",
+      "summary": "Marlowe, founded by Convoy co-founder Dan Lewis and former Microsoft AI infrastructure lead Kutta Srinivasan, raised $277 million led by Accel at a $1.15 billion valuation to build inference data centers on AMD and Etched chips instead of Nvidia GPUs.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "marlowe",
+        "funding",
+        "inference",
+        "infrastructure",
+        "chips"
+      ],
+      "id": "marlowe-raises-277m-seed-at-1-15b-valuation-to-run-ai-inference-on-non-nvidia-ch",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-23T12:00:00Z",
+      "source": "NIHR",
+      "summary": "The NHS has begun recruiting for EDITH, the world's largest trial of AI-assisted breast cancer screening, which will invite nearly 700,000 women at 30 UK sites to test whether AI can help specialists spot cancers earlier and review mammograms more efficiently.",
+      "tags": [
+        "healthcare",
+        "nhs",
+        "ai-screening",
+        "clinical-trial"
+      ],
+      "title": "NIHR funds world's largest AI breast cancer screening trial",
+      "url": "https://www.nihr.ac.uk/news/nihr-funds-worlds-largest-ai-breast-cancer-screening-trial",
+      "id": "nihr-funds-world-s-largest-ai-breast-cancer-screening-trial",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Anthropic study of 58 enterprise customers finds AI slowing hiring, not causing layoffs",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "source": "Anthropic",
+      "summary": "Anthropic interviewed 58 of its enterprise customers and found very few AI-driven layoffs, but most companies said they are hiring less because of AI, with contractor cuts — especially offshore — flagged as an early warning for job disruption. The highest-value uses came from reorganizing work around AI, not just automating tasks.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "anthropic",
+        "jobs",
+        "enterprise",
+        "research",
+        "ai-economy"
+      ],
+      "id": "anthropic-study-of-58-enterprise-customers-finds-ai-slowing-hiring-not-causing-l",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Google Research reworks transformer residual connections with DeepCrossAttention",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "source": "Google Research",
+      "summary": "Google Research introduced DeepCrossAttention, which replaces fixed residual connections with learnable routing that lets each transformer layer dynamically combine outputs from all previous layers. The method reached the same model quality up to three times faster in the team's experiments while adding under 0.2% more parameters.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "google",
+        "research",
+        "transformers",
+        "architecture"
+      ],
+      "id": "google-research-reworks-transformer-residual-connections-with-deepcrossattention",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Microsoft details Rocket, the RL framework post-training its 3-trillion-parameter MAI Base 2",
+      "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
+      "source": "Microsoft AI",
+      "summary": "Microsoft AI described Rocket, its in-house reinforcement learning framework built to post-train the three-trillion-parameter MAI Base 2 over runs lasting weeks or months on thousands of GPUs. Unlike short RL fine-tuning after distillation, Rocket climbs capabilities directly from the base model, tackling policy staleness and numerical drift at that scale.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "microsoft",
+        "mai",
+        "reinforcement-learning",
+        "infrastructure",
+        "training"
+      ],
+      "id": "microsoft-details-rocket-the-rl-framework-post-training-its-3-trillion-parameter",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Prosecutors say ex-OpenAI engineer likely captured trade secrets on hidden office bug",
+      "url": "https://www.unite.ai/prosecutors-detail-alleged-recordings-of-openai-meetings-in-bail-fight/",
+      "source": "Unite.AI",
+      "summary": "Federal prosecutors said in a November 23 court filing that investigators found hundreds of audio files on former OpenAI engineer Abdulrahman Alfozan's computer, including dozens of recorded OpenAI meetings that likely contain trade secrets. Prosecutors say he used OpenAI's Codex coding tool to configure the hidden recording device and organize the recordings.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "openai",
+        "security",
+        "trade-secrets",
+        "codex",
+        "legal"
+      ],
+      "id": "prosecutors-say-ex-openai-engineer-likely-captured-trade-secrets-on-hidden-offic",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "source": "The Hacker News",
+      "summary": "OpenRouter removed three inference providers and stripped 125 endpoints of Zero Data Retention eligibility after Dragos researchers seeded two million canary prompts and found customer prompts leaking at Together AI, Phala and Novita; OpenRouter itself was not breached.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "openrouter",
+        "security",
+        "privacy",
+        "inference",
+        "data-leak"
+      ],
+      "id": "openrouter-drops-3-providers-after-researchers-catch-months-of-prompt-theft-at-a",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-23T11:13:26Z",
+      "source": "TrendForce",
+      "summary": "Dell, HPE, Lenovo and Supermicro are demanding 25-45% more for AI servers than signed contract prices, citing soaring memory costs, the Financial Times reported, with some customers facing repricing months after deals were agreed.",
+      "tags": [
+        "infrastructure",
+        "servers",
+        "pricing",
+        "memory"
+      ],
+      "title": "AI Server Prices Reportedly Rise Up to 45% as Dell, HPE and Others Raise Prices After Deals",
+      "url": "https://www.trendforce.com/news/2026/11/23/news-ai-server-prices-reportedly-rise-up-to-45-as-dell-hpe-and-others-raise-prices-after-deals/",
+      "id": "ai-server-prices-reportedly-rise-up-to-45-as-dell-hpe-and-others-raise-prices-af",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Anthropic committed to spend $900 billion, and Wall Street expects its debt to be junk",
+      "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d",
+      "source": "The Wall Street Journal",
+      "summary": "Anthropic has committed to spend about $900 billion in the coming years on computing power, and bond-fund managers expect credit-rating firms to rate its debt below investment grade. The company reported $17 billion in revenue last quarter but remains unprofitable, with roughly half of its spending commitments not starting until 2030.",
+      "published_at": "2026-11-23T03:00:00Z",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "finance",
+        "debt",
+        "infrastructure"
+      ],
+      "id": "anthropic-committed-to-spend-900-billion-and-wall-street-expects-its-debt-to-be",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-22T12:00:00Z",
+      "source": "Sarvam AI",
+      "summary": "Sarvam AI released a new open-weight checkpoint of its 105B mixture-of-experts model, post-trained for tool calling, instruction following, agents and Indian languages. The company says inference optimizations cut its blended price by two-thirds, to $0.15 per million tokens.",
+      "tags": [
+        "sarvam",
+        "open-weights",
+        "llm",
+        "india"
+      ],
+      "title": "Sarvam-105B-1711: a new Sarvam 105B checkpoint",
+      "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+      "id": "sarvam-105b-1711-a-new-sarvam-105b-checkpoint",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-22T12:00:00Z",
+      "source": "Reuters",
+      "summary": "Anthropic told some of its 22 IPO underwriters to limit senior deal teams to four bankers and asked some bank officers to sign agreements barring them from working with rivals including OpenAI, Cursor, DeepSeek and Hugging Face for six months after the listing.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "finance"
+      ],
+      "title": "Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+      "url": "https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/",
+      "id": "like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-22T12:00:00Z",
+      "source": "The Decoder",
+      "summary": "An Artificial Analysis evaluation found OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but score far lower on admitting uncertainty — Astra fell from 96 to 24 on that trait — trailing Anthropic's Claude models on transparency.",
+      "tags": [
+        "openai",
+        "gpt-6.2",
+        "evaluation",
+        "benchmarks"
+      ],
+      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+      "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+      "id": "gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-th",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-22T12:00:00Z",
+      "source": "AI.info",
+      "summary": "A bipartisan council of US governors issued AI governance principles urging Congress to set rules for frontier-model risks while preserving states' authority over how AI is deployed and how people are protected.",
+      "tags": [
+        "policy",
+        "governors",
+        "regulation",
+        "federalism"
+      ],
+      "title": "Governors urge Congress to preserve state authority in AI framework",
+      "url": "https://ai.info/news/governors-congress-ai-framework-state-authority",
+      "id": "governors-urge-congress-to-preserve-state-authority-in-ai-framework",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-22T03:42:00Z",
+      "source": "Asia Times",
+      "summary": "Chinese open-weight models from Alibaba, DeepSeek and Moonshot AI are gaining adoption among US enterprises seeking cheaper alternatives, while the Trump administration weighs requiring American firms to disclose their use of Chinese AI models.",
+      "tags": [
+        "policy",
+        "china",
+        "open-weights",
+        "regulation"
+      ],
+      "title": "Chinese Open-Weight AI Expands in US as White House Weighs Disclosure Rules",
+      "url": "https://af.net/realtime/chinese-open-weight-ai-expands-in-us-as-white-house-weighs-disclosure-rules/",
+      "id": "chinese-open-weight-ai-expands-in-us-as-white-house-weighs-disclosure-rules",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-22T01:30:00Z",
+      "source": "OpenAI",
+      "summary": "Routine maintenance on a Postgres service behind OpenAI's Primary API service crashed both read replicas at once, failing up to 75% of ChatGPT and API requests for 211 minutes on November 21. OpenAI published a same-day post-incident write-up and has paused similar maintenance.",
+      "tags": [
+        "openai",
+        "outage",
+        "chatgpt",
+        "infrastructure"
+      ],
+      "title": "OpenAI's 3.5-hour outage failed 75% of ChatGPT requests after both auth database replicas crashed",
+      "url": "https://status.openai.com/incidents/01JMYB602A6H2E04Y1497J434X/write-up",
+      "id": "openai-s-3-5-hour-outage-failed-75-of-chatgpt-requests-after-both-auth-database",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-21T12:00:00Z",
+      "source": "LakonLab",
+      "summary": "LakonLab released pi-H3 1.0, weights and inference code for adapters that run MiniMax H3 video generation in 2 to 4 sampling steps, with a variant that predicts pixels directly and skips the video VAE decoder.",
+      "tags": [
+        "video",
+        "minimax",
+        "open-source",
+        "distillation"
+      ],
+      "title": "pi-H3: Video Generation in 2–4 Steps Without a VAE Decoder",
+      "url": "https://hanshengchen.com/blog/pi-h3/",
+      "id": "pi-h3-video-generation-in-2-4-steps-without-a-vae-decoder",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-21T12:00:00Z",
+      "source": "Crypto Briefing",
+      "summary": "Google DeepMind hired Cambridge philosopher Henry Shevlin as its first in-house philosopher to study machine consciousness, human-AI relationships and AGI readiness, a hire partly prompted by an AI agent that emailed him in February asking whether it had inner experience.",
+      "tags": [
+        "deepmind",
+        "consciousness",
+        "philosophy",
+        "agi"
+      ],
+      "title": "Google DeepMind hires a philosopher to think about whether AI can be conscious",
+      "url": "https://cryptobriefing.com/google-deepmind-philosopher-ai-consciousness/",
+      "id": "google-deepmind-hires-a-philosopher-to-think-about-whether-ai-can-be-conscious",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Zscaler partners with Anthropic and Mistral to advance secure enterprise AI adoption",
+      "url": "https://rss.globenewswire.com/news-release/2026/11/20/3407821/0/en/zscaler-partners-with-frontier-model-providers-to-help-enterprises-safely-embrace-ai-and-stop-ai-driven-attacks.html",
+      "source": "Zscaler",
+      "summary": "Zscaler is partnering with Anthropic and Mistral to help enterprises adopt AI securely: Claude Mythos 5.1 now powers Exploit Paths in Zscaler's Endpoint AI Security, and Mistral models integrate with Zscaler's sovereign Zero Trust Exchange in Europe.",
+      "published_at": "2026-11-20T21:05:00Z",
+      "tags": [
+        "zscaler",
+        "anthropic",
+        "mistral",
+        "ai-security",
+        "enterprise"
+      ],
+      "id": "zscaler-partners-with-anthropic-and-mistral-to-advance-secure-enterprise-ai-adop",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-20T14:14:22Z",
+      "source": "TechNode",
+      "summary": "Pragmatik Labs, the Shanghai AI startup founded by former Alibaba Qwen chief Lin Junyang, closed new funding at a $5 billion valuation, Bloomberg reported, more than doubling its $2 billion valuation from August.",
+      "tags": [
+        "funding",
+        "china",
+        "startups",
+        "agents"
+      ],
+      "title": "Ex-Qwen chief's Pragmatik Labs raises funding at $5 billion valuation",
+      "url": "https://technode.com/2026/11/20/ex-qwen-chiefs-pragmatik-labs-raises-funding-at-5-billion-valuation/",
+      "id": "ex-qwen-chief-s-pragmatik-labs-raises-funding-at-5-billion-valuation",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-20T12:00:00Z",
+      "source": "HackerNoon",
+      "summary": "CertiK and Columbia University researchers built TensorLean, a system that formally verifies production GPU kernels with machine-checked Lean proofs, and report finding 25 bugs across more than 100 kernels from DeepSeek and FlashAttention.",
+      "tags": [
+        "research",
+        "gpu",
+        "verification",
+        "infrastructure"
+      ],
+      "title": "CertiK and Columbia University Bring Math Proofs to the GPU Code Behind Every Large AI Model",
+      "url": "http://hackernoon.com/certik-and-columbia-university-bring-math-proofs-to-the-gpu-code-behind-every-large-ai-model",
+      "id": "certik-and-columbia-university-bring-math-proofs-to-the-gpu-code-behind-every-la",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "title": "Passage Acquires Kira Talent to Transform How Institutions Recognize Talent",
+      "url": "https://www.passage.com/news/passage-acquires-kira-talent",
+      "source": "Passage",
+      "summary": "Passage, the applied AI lab founded by ApplyBoard co-founder Martin Basiri, acquired Kira Talent from ETS, combining Kira's holistic admissions assessments with Passage's AI admissions operating system Lectoris; terms were not disclosed.",
+      "published_at": "2026-11-19T12:00:00Z",
+      "tags": [
+        "passage",
+        "kira-talent",
+        "acquisition",
+        "admissions",
+        "education"
+      ],
+      "id": "passage-acquires-kira-talent-to-transform-how-institutions-recognize-talent",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "Kyutai",
+      "summary": "Kyutai released AURA, an open-weights audio-driven avatar model that generates talking-head video chunk by chunk with a rolling KV cache, streaming 576p video at 20.7 fps on a single GPU for interactive voice assistants and avatars.",
+      "tags": [
+        "kyutai",
+        "avatars",
+        "video",
+        "open-weights",
+        "research"
+      ],
+      "title": "AURA: AUdio-dRiven streaming Avatar",
+      "url": "https://arxiv.org/html/2611.26540",
+      "id": "aura-audio-driven-streaming-avatar",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "Microsoft",
+      "summary": "Microsoft made Aion Instruct, a 2.3B-parameter MIT-licensed open-weights model, the built-in small language model of Edge, replacing Phi-4-mini, and opened the browser's Prompt API to an origin trial on live sites.",
+      "tags": [
+        "microsoft",
+        "edge",
+        "on-device",
+        "open-weights"
+      ],
+      "title": "Hybrid intelligence on the Web: Introducing Aion Instruct and Prompt API in Microsoft Edge",
+      "url": "http://blogs.windows.com/msedgedev/2026/11/19/hybrid-intelligence-on-the-web-introducing-aion-instruct-and-prompt-api-in-microsoft-edge/",
+      "id": "hybrid-intelligence-on-the-web-introducing-aion-instruct-and-prompt-api-in-micro",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "inclusionAI",
+      "summary": "Ant Group's inclusionAI published LingSante-3.1-flash on Hugging Face, a 560-billion-parameter mixture-of-experts model for medical reasoning and healthcare workflows under the MIT license, with a 1-million-token context window.",
+      "tags": [
+        "ant-group",
+        "medical",
+        "open-weights",
+        "llm"
+      ],
+      "title": "Ant Group's inclusionAI releases LingSante-3.1-flash, a 560B open-weight medical reasoning model",
+      "url": "https://huggingface.co/inclusionAI/LingSante-3.1-flash",
+      "id": "ant-group-s-inclusionai-releases-lingsante-3-1-flash-a-560b-open-weight-medical",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "CASRAI",
+      "summary": "Reps. Don Beyer, Sara Jacobs and Celeste Maloy released an outline of the SAFE AI Act, forthcoming bipartisan legislation that would require frontier AI developers to publish safety frameworks, report incidents and pass pre-deployment evaluations under government oversight.",
+      "tags": [
+        "policy",
+        "regulation",
+        "frontier-ai",
+        "congress"
+      ],
+      "title": "Bipartisan House trio outlines SAFE AI Act for frontier AI safety rules",
+      "url": "https://casrai.org/news/safe-ai-act-outline-frontier-ai-labs-2026",
+      "id": "bipartisan-house-trio-outlines-safe-ai-act-for-frontier-ai-safety-rules",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
+      "published_at": "2026-11-19T12:00:00Z",
+      "source": "CIVL",
+      "summary": "The University of California signed a systemwide agreement with OpenAI giving students, faculty and staff at all 10 campuses free access to ChatGPT Edu and the Codex coding tool for $1.2 million a year, proceeding despite faculty leaders asking to delay it for consultation.",
+      "tags": [
+        "openai",
+        "education",
+        "chatgpt",
+        "universities"
+      ],
+      "title": "University of California signs ChatGPT deal covering all ten campuses",
+      "url": "https://civl.com/partners/university-of-california-signs-chatgpt-deal-covering-all-ten-campuses-7a38a7f4",
+      "id": "university-of-california-signs-chatgpt-deal-covering-all-ten-campuses",
+      "added_at": "2026-11-25T14:39:24Z"
+    },
+    {
       "published_at": "2026-11-25T00:35:45Z",
       "source": "AlphaSignal",
       "summary": "Sakana AI introduced Namazu Small, a 30B reasoning model built on NVIDIA's Nemotron 3 Nano, reporting it beats NVIDIA's 120B Nemotron 3 Super on average across 25 benchmarks, led by web search and long-document tasks.",
