@@ -1,6 +1,36 @@
 {
   "records": [
     {
+      "published_at": "2026-11-25T15:41:43Z",
+      "source": "TechCrunch",
+      "summary": "Nvidia will no longer backstop an AI data center until it is nearly ready to run, just as neoclouds report construction delays and pricier debt. Land, power and a finished building now matter more than a pitch deck, and speculative projects could be the first to fall apart in a 2027 shakeout.",
+      "tags": [
+        "ai-infrastructure",
+        "data-centers",
+        "neoclouds",
+        "nvidia"
+      ],
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "id": "ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it",
+      "added_at": "2026-11-25T20:40:55Z"
+    },
+    {
+      "published_at": "2026-11-24T19:53:31Z",
+      "source": "White Circle",
+      "summary": "White Circle opened a post-training competition built around its open-source Halo framework, offering $200,000 in cash prizes and $1.5 million in compute and API credits across 17 tracks backed by OpenAI, Google DeepMind, Mistral, NVIDIA and others. Applications close November 30 and the competition runs online December 1-10.",
+      "tags": [
+        "post-training",
+        "competition",
+        "open-source",
+        "research"
+      ],
+      "title": "Halo competition: the largest post-training competition ever",
+      "url": "https://whitecircle.com/halo/competition",
+      "id": "halo-competition-the-largest-post-training-competition-ever",
+      "added_at": "2026-11-25T20:40:55Z"
+    },
+    {
       "published_at": "2026-11-25T20:15:50Z",
       "source": "The Decoder",
       "summary": "Anthropic CEO Dario Amodei pushed back on an Axios report that some employees believe humanity should hand authority to superintelligent systems, calling the idea absurd and saying political decisions must stay in human hands under legitimate democratic processes.",
