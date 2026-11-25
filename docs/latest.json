@@ -1,6 +1,197 @@
 {
   "records": [
     {
+      "published_at": "2026-11-25T22:44:00Z",
+      "source": "TechCrunch",
+      "summary": "S&P Global Ratings is reviewing Nvidia's AA credit rating for a possible downgrade, citing weak executive oversight, lack of succession planning and heavy reliance on Jensen Huang after his ouster and reinstatement.",
+      "tags": [
+        "nvidia",
+        "credit-rating",
+        "governance"
+      ],
+      "title": "S&P considers Nvidia credit downgrade over governance and 'key man' risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "id": "s-p-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
+      "published_at": "2026-11-25T21:35:00Z",
+      "source": "The Verge",
+      "summary": "Ubuntu 26.04 will ship with local AI agents and large language models built in, bringing on-device AI assistance to the Linux desktop.",
+      "tags": [
+        "ubuntu",
+        "linux",
+        "ai-agents",
+        "llm"
+      ],
+      "title": "Ubuntu will feature local AI agents and LLMs in its next release",
+      "url": "https://www.theverge.com/tech/1042400/ubuntu-26-04-linux-ai-llm-local-ai-agent",
+      "id": "ubuntu-will-feature-local-ai-agents-and-llms-in-its-next-release",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
+      "published_at": "2026-11-25T21:35:00Z",
+      "source": "The Verge",
+      "summary": "Anthropic CEO Dario Amodei said a future superintelligent AI might deserve legal rights, a separate remark from his pushback against handing governance of society to AI.",
+      "tags": [
+        "anthropic",
+        "amodei",
+        "ai-rights",
+        "superintelligence"
+      ],
+      "title": "Dario Amodei says a future superintelligent AI might deserve rights",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1042437/anthropic-ceo-dario-amodei-ai-legal-rights",
+      "id": "dario-amodei-says-a-future-superintelligent-ai-might-deserve-rights",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
+      "published_at": "2026-11-25T20:42:55Z",
+      "source": "Anthropic",
+      "summary": "Anthropic researchers released a much shorter Lean 4 formalization of the Generalized Riemann Hypothesis proof, about 76,000 lines in its compact edition, noting it has passed machine checks only and no mathematician has read it through.",
+      "tags": [
+        "anthropic",
+        "mathematics",
+        "lean",
+        "grh"
+      ],
+      "title": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+      "url": "https://github.com/lsernau/grh-lean",
+      "id": "a-short-lean-4-proof-of-the-generalized-riemann-hypothesis",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
+      "published_at": "2026-11-25T20:30:00Z",
+      "source": "Hacker News",
+      "summary": "A new code-golf benchmark built from Google's internal go/codegolf contests shows GPT-6.2 Astra beating Googlers' records, scoring models on how short they can make working solutions rather than just passing tests.",
+      "tags": [
+        "openai",
+        "gpt-6.2",
+        "benchmark",
+        "coding"
+      ],
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "id": "gpt-6-2-astra-is-the-first-model-to-beat-googlers-code-golf-records",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
+      "published_at": "2026-11-25T19:54:57Z",
+      "source": "TechCrunch",
+      "summary": "In his first all-hands address since returning as CEO, Jensen Huang admitted violating Nvidia's code of conduct while insisting the rules apply to everyone, a stance experts say risks employee trust if the breach goes unpunished.",
+      "tags": [
+        "nvidia",
+        "jensen-huang",
+        "governance"
+      ],
+      "title": "Jensen Huang broke Nvidia's code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "id": "jensen-huang-broke-nvidia-s-code-of-conduct-and-his-employees-may-not-forget-it",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
+      "published_at": "2026-11-25T18:21:00Z",
+      "source": "The Verge",
+      "summary": "Etsy launched AI tools that let sellers design products before making them, aiming the creator features at craft sellers.",
+      "tags": [
+        "etsy",
+        "ai-tools",
+        "ecommerce"
+      ],
+      "title": "Etsy's new AI tools let sellers design products before making them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1042435/etsy-ai-creator-tool-craft-fair",
+      "id": "etsy-s-new-ai-tools-let-sellers-design-products-before-making-them",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
+      "published_at": "2026-11-25T18:11:46Z",
+      "source": "TechCrunch",
+      "summary": "New York's governor signed a five-year ban on the sale of AI chatbot toys, making it the second state after California to block them, after a study found popular AI toys failed basic child-safety practices.",
+      "tags": [
+        "ai-toys",
+        "regulation",
+        "new-york",
+        "child-safety"
+      ],
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "id": "want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
+      "published_at": "2026-11-25T17:44:00Z",
+      "source": "The Verge",
+      "summary": "The FCC approved a move letting AI systems help set radio spectrum rules, raising civil-rights questions about how wireless access decisions get made.",
+      "tags": [
+        "fcc",
+        "regulation",
+        "spectrum",
+        "ai-policy"
+      ],
+      "title": "The FCC has signed off on AI making its own radio rules",
+      "url": "https://www.theverge.com/tech/1042457/fcc-ai-radio-rules-civil-rights",
+      "id": "the-fcc-has-signed-off-on-ai-making-its-own-radio-rules",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
+      "published_at": "2026-11-25T16:39:00Z",
+      "source": "The Verge",
+      "summary": "OpenAI is bringing its ChatGPT apps into Microsoft Word, Excel and PowerPoint, letting the assistant work inside the Office apps.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "microsoft",
+        "office"
+      ],
+      "title": "OpenAI is combining its ChatGPT apps with Microsoft Word, Excel, and PowerPoint",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1042393/openai-combining-chatgpt-apps-microsoft-word-excel-powerpoint",
+      "id": "openai-is-combining-its-chatgpt-apps-with-microsoft-word-excel-and-powerpoint",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:28Z",
+      "source": "Ars Technica",
+      "summary": "AI systems are starting to take on the work of theoretical physics, from solving unpublished benchmark problems to re-creating thesis-level calculations, prompting a rethink of what theorists do.",
+      "tags": [
+        "ai-research",
+        "physics",
+        "benchmarks"
+      ],
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "url": "https://arstechnica.com/ai/2025/11/ai-may-soon-change-what-it-means-to-be-a-theoretical-physicist/",
+      "id": "ai-may-soon-change-what-it-means-to-be-a-theoretical-physicist",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "The Decoder",
+      "summary": "US restrictions on Chinese firms' remote access to advanced Nvidia chips and anti-distillation measures from OpenAI and Anthropic are reportedly delaying projects at DeepSeek, Moonshot AI and Alibaba, with Moonshot cancelling a $150M Blackwell deal.",
+      "tags": [
+        "china",
+        "chips",
+        "distillation",
+        "export-controls"
+      ],
+      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+      "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+      "id": "us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowi",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
+      "published_at": "2026-11-23T12:00:00Z",
+      "source": "9to5Mac",
+      "summary": "OpenAI rolled a chat-tuned GPT-6.2 Sol into ChatGPT's Chat tab for paid plans, and said it will retire GPT-5.6 Sol from Chat, Work and Codex and GPT-5.6 Terra from Work and Codex on December 23.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "gpt-6.2",
+        "gpt-5.6"
+      ],
+      "title": "ChatGPT expands GPT-6.2 Sol as OpenAI sets retirement date for two models",
+      "url": "https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/",
+      "id": "chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models",
+      "added_at": "2026-11-25T23:42:51Z"
+    },
+    {
       "published_at": "2026-11-25T15:41:43Z",
       "source": "TechCrunch",
       "summary": "Nvidia will no longer backstop an AI data center until it is nearly ready to run, just as neoclouds report construction delays and pricier debt. Land, power and a finished building now matter more than a pitch deck, and speculative projects could be the first to fall apart in a 2027 shakeout.",
