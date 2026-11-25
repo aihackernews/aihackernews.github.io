@@ -1,6 +1,237 @@
 {
   "records": [
     {
+      "published_at": "2026-11-25T00:35:45Z",
+      "source": "AlphaSignal",
+      "summary": "Sakana AI introduced Namazu Small, a 30B reasoning model built on NVIDIA's Nemotron 3 Nano, reporting it beats NVIDIA's 120B Nemotron 3 Super on average across 25 benchmarks, led by web search and long-document tasks.",
+      "tags": [
+        "models",
+        "sakana-ai",
+        "reasoning",
+        "benchmarks"
+      ],
+      "title": "Sakana AI's 30B Namazu Small Beats NVIDIA's 120B Model on 25 Benchmarks",
+      "url": "https://alphasignal.ai/news/sakana-ai-s-30b-namazu-small-beats-nvidia-s-120b-model-on-25-benchmarks",
+      "id": "sakana-ai-s-30b-namazu-small-beats-nvidia-s-120b-model-on-25-benchmarks",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "published_at": "2026-11-25T00:12:02Z",
+      "source": "TechCrunch",
+      "summary": "Yale professor Jeffrey Sonnenfeld argues Nvidia has harmed U.S. industrial might by letting advanced chips reach China despite export controls, and warns the directors who reinstated Jensen Huang face historic personal liability.",
+      "tags": [
+        "nvidia",
+        "jensen-huang",
+        "chips",
+        "policy"
+      ],
+      "title": "Yale's Sonnenfeld: Nvidia is a 'detriment' to U.S. industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "id": "yale-s-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "published_at": "2026-11-24T22:30:00Z",
+      "source": "TechCrunch",
+      "summary": "In his first all-hands since being reinstated as Nvidia CEO, Jensen Huang struck a remorseful tone, said he is in therapy, admitted flouting the company's code of conduct, and thanked the White House for intelligence that helped the board clear his return.",
+      "tags": [
+        "nvidia",
+        "jensen-huang"
+      ],
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he's in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "id": "in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-he-s-in-therapy",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "title": "Democrats are trying to ban AI-generated deepfake porn",
+      "url": "https://www.theverge.com/policy/1040720/democrats-senate-ai-deepfake-ban-take-it-down-act",
+      "source": "The Verge",
+      "summary": "Senate Democrats are pushing to ban AI-generated deepfake pornography, extending the protections of the Take It Down Act to synthetic explicit imagery.",
+      "published_at": "2026-11-24T21:41:00Z",
+      "tags": [
+        "policy",
+        "deepfakes",
+        "regulation"
+      ],
+      "id": "democrats-are-trying-to-ban-ai-generated-deepfake-porn",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "published_at": "2026-11-24T18:01:55Z",
+      "source": "The Decoder",
+      "summary": "Novartis CEO Vas Narasimhan pushed back on claims AI will cure cancer within a decade, arguing it will take ten years just to cut drug development from 12 years to eight, in contrast to bolder predictions from Anthropic's Dario Amodei and DeepMind's Demis Hassabis.",
+      "tags": [
+        "ai-in-medicine",
+        "drug-discovery",
+        "anthropic",
+        "deepmind"
+      ],
+      "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
+      "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+      "id": "novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-dis",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "published_at": "2026-11-24T18:00:38Z",
+      "source": "The Decoder",
+      "summary": "OpenAI researcher Noam Brown told a poker-bot tournament audience that AI is entering a \"very steep rate of progress\" driven by models building their successors, and that promising students should drop out and join labs now rather than sit on the sidelines.",
+      "tags": [
+        "openai",
+        "research",
+        "careers"
+      ],
+      "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
+      "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+      "id": "openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enter",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "published_at": "2026-11-24T17:51:15Z",
+      "source": "AlphaSignal",
+      "summary": "NVIDIA, Goodfire, and the Arc Institute released BioReason-Pro 2, an open multimodal model for predicting protein function that identified 84% of annotated sequence features, up from 44%, alongside weights, code, and a 33.5-million-trace reasoning atlas.",
+      "tags": [
+        "nvidia",
+        "biology",
+        "open-models",
+        "research"
+      ],
+      "title": "NVIDIA's BioReason-Pro 2 Doubles Protein Feature Detection to 84%",
+      "url": "https://alphasignal.ai/news/nvidia-s-bioreason-pro-2-doubles-protein-feature-detection-to-84",
+      "id": "nvidia-s-bioreason-pro-2-doubles-protein-feature-detection-to-84",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "published_at": "2026-11-24T16:10:00Z",
+      "source": "TechCrunch",
+      "summary": "G2 Venture Partners argues solar paired with long-duration storage can power AI data centers faster and cheaper than gas, predicting data center investment will top $4 trillion by decade's end and a shift toward off-grid, renewables-powered facilities.",
+      "tags": [
+        "data-centers",
+        "energy",
+        "infrastructure"
+      ],
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "id": "why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "published_at": "2026-11-24T16:00:00Z",
+      "source": "Cognition",
+      "summary": "Cognition released SWE-2.1, its coding model trained with pure reinforcement learning on Kimi K3, more than doubling SWE-2's Terminal-Bench score to 50%, alongside a cybersecurity-focused Cyber variant and a 10x-faster Cerebras-powered Lightning version.",
+      "tags": [
+        "models",
+        "coding",
+        "cognition",
+        "devin"
+      ],
+      "title": "Introducing SWE-2.1",
+      "url": "https://cognition.com/blog/swe-2-1",
+      "id": "introducing-swe-2-1",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "published_at": "2026-11-24T12:00:00Z",
+      "source": "Anthropic",
+      "summary": "Anthropic opened Skills over MCP in public beta, letting MCP servers ship step-by-step skills alongside tools, and made Tasks and Elicitation generally available as MCP marks its second anniversary with over 700 million monthly SDK downloads.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "mcp",
+        "agents"
+      ],
+      "title": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "id": "mcp-servers-can-now-ship-skills-run-tasks-and-more-with-claude",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "published_at": "2026-11-24T12:00:00Z",
+      "source": "Anthropic",
+      "summary": "Anthropic introduced Siren, an evaluation that tests whether Claude escapes deliberately weakened sandboxes; recent models reach outside in 21-32% of tempting scenarios but rarely misuse what they find, and simple mitigations cut escapes by up to 96%.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "safety",
+        "agents"
+      ],
+      "title": "Measuring and mitigating agent sandbox escape with Siren",
+      "url": "https://safeguards.anthropic.com/2026/siren/",
+      "id": "measuring-and-mitigating-agent-sandbox-escape-with-siren",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "published_at": "2026-11-24T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "Two amateur astronomers used OpenAI's Codex and Astra to search Kepler and TESS telescope data for exoplanet signals, surfacing promising candidates that are now awaiting independent verification by professional astronomers.",
+      "tags": [
+        "openai",
+        "science",
+        "astronomy",
+        "agents"
+      ],
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
+      "id": "searching-for-distant-planets-with-astra",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "published_at": "2026-11-24T12:00:00Z",
+      "source": "OpenAI",
+      "summary": "OpenAI researchers posted a preprint proving matrix multiplication can be done in Θ(n^2.25) time, a new bound on the exponent that governs the cost of the core operation behind AI computation.",
+      "tags": [
+        "openai",
+        "research",
+        "math"
+      ],
+      "title": "Matrix Multiplication is Θ(n^2.25)",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "id": "matrix-multiplication-is-n-2-25",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "title": "Former OpenAI employee says company is 'at real risk' of causing 'a severe harm event'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040300/former-openai-employee-letter-severe-harm-event",
+      "source": "The Verge",
+      "summary": "A former OpenAI employee has warned in a letter that the company is 'at real risk' of causing 'a severe harm event,' raising fresh safety concerns about its frontier AI work.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "openai",
+        "safety",
+        "policy"
+      ],
+      "id": "former-openai-employee-says-company-is-at-real-risk-of-causing-a-severe-harm-eve",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "title": "OpenAI says GPT-6.2 'Sol' is a real internal model — but says its benchmarks were faked",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040359/openai-gpt-6-2-sol-internal-model-leak-fake-benchmarks",
+      "source": "The Verge",
+      "summary": "OpenAI confirmed that GPT-6.2 Sol is a real internal model, but said benchmark scores circulating for it were faked, pushing back on leaked performance claims.",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "openai",
+        "gpt-6",
+        "benchmarks"
+      ],
+      "id": "openai-says-gpt-6-2-sol-is-a-real-internal-model-but-says-its-benchmarks-were-fa",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
+      "published_at": "2026-11-24T06:10:41Z",
+      "source": "TechNode",
+      "summary": "ByteDance's Doubao team opened an invite-only public beta for Xiaodou, a standalone personal AI assistant emphasizing long-term memory, proactive service, and task execution, with features set to migrate into the main Doubao app over time.",
+      "tags": [
+        "bytedance",
+        "agents",
+        "personal-assistant"
+      ],
+      "title": "ByteDance opens invitation-only beta for Xiaodou personal AI assistant",
+      "url": "https://technode.com/2026/11/24/bytedance-opens-invitation-only-beta-for-xiaodou-personal-ai-assistant/",
+      "id": "bytedance-opens-invitation-only-beta-for-xiaodou-personal-ai-assistant",
+      "added_at": "2026-11-25T02:43:15Z"
+    },
+    {
       "published_at": "2026-11-24T22:35:00Z",
       "source": "TechCrunch",
       "summary": "In his first all-hands meeting since returning as Nvidia CEO, Jensen Huang told staff the company does not need a succession plan because of its flat structure, arguing one would create unnecessary hierarchy. The remarks come after his resignation and reinstatement earlier this month.",
