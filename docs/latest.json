@@ -1,6 +1,174 @@
 {
   "records": [
     {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "Gadgets 360",
+      "summary": "xAI opened its Grok 4 model to all users worldwide, with free-tier access to Auto and Expert modes and temporarily higher rate limits; the Heavy mode stays exclusive to SuperGrok Heavy subscribers.",
+      "tags": [
+        "xai",
+        "grok",
+        "models"
+      ],
+      "title": "xAI Expands Grok 4 AI Model to All Users Globally, Offers Increased Rate Limits for a Limited Time",
+      "url": "https://turbo.gadgets360.com/en/ai/xai-grok-4-free-all-users-globally-higher-rate-limits-temporary-announced-9060376",
+      "id": "xai-expands-grok-4-ai-model-to-all-users-globally-offers-increased-rate-limits-f",
+      "added_at": "2026-11-26T14:41:20Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "Gadgets 360",
+      "summary": "OpenAI rolled out ChatGPT Health on Android, letting US users connect fitness apps and wearables through Google Health Connect so the chatbot can spot patterns in sleep, activity and other wellness data.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "health"
+      ],
+      "title": "OpenAI Brings ChatGPT Health to Android, Lets Users Connect Wearables and Fitness Apps",
+      "url": "https://www.gadgets360.com/ai/news/openai-brings-chatgpt-health-to-android-lets-users-connect-wearables-fitness-apps-12379196",
+      "id": "openai-brings-chatgpt-health-to-android-lets-users-connect-wearables-and-fitness",
+      "added_at": "2026-11-26T14:41:20Z"
+    },
+    {
+      "published_at": "2026-11-26T11:21:16Z",
+      "source": "The Decoder",
+      "summary": "Nvidia told partners including Dell and Supermicro to stop shipping servers to four Southeast Asian countries after new US export controls aimed at blocking Chinese firms from renting AI compute abroad, throwing regional data-center deals into chaos.",
+      "tags": [
+        "nvidia",
+        "export-controls",
+        "ai-chips"
+      ],
+      "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+      "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+      "id": "nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after",
+      "added_at": "2026-11-26T14:41:20Z"
+    },
+    {
+      "title": "Anthropic has started paying out its copyright settlement to authors",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1043087/anthropic-has-started-paying-out-its-copyright-settlement-to-authors",
+      "source": "The Verge",
+      "summary": "Anthropic has begun paying authors from its copyright settlement over the books used to train its AI models, with the first distributions now going out to eligible authors.",
+      "published_at": "2026-11-26T10:26:00Z",
+      "tags": [
+        "anthropic",
+        "copyright",
+        "authors"
+      ],
+      "id": "anthropic-has-started-paying-out-its-copyright-settlement-to-authors",
+      "added_at": "2026-11-26T14:41:20Z"
+    },
+    {
+      "title": "Google has a patent for custom AI video feeds",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge",
+      "summary": "Google has patented a system for generating personalized AI video feeds tailored to individual viewers, pointing to a possible future of fully customized video streams.",
+      "published_at": "2026-11-25T21:51:00Z",
+      "tags": [
+        "google",
+        "patent",
+        "video"
+      ],
+      "id": "google-has-a-patent-for-custom-ai-video-feeds",
+      "added_at": "2026-11-26T14:41:20Z"
+    },
+    {
+      "title": "Nothing's new AI earbuds put a screen on your neck",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge",
+      "summary": "Nothing teased its upcoming Ear (note) earbuds, whose charging case carries a screen, positioning the device around AI features ahead of its December 8 unveiling.",
+      "published_at": "2026-11-25T16:00:00Z",
+      "tags": [
+        "nothing",
+        "earbuds",
+        "hardware"
+      ],
+      "id": "nothing-s-new-ai-earbuds-put-a-screen-on-your-neck",
+      "added_at": "2026-11-26T14:41:20Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Anthropic CEO Dario Amodei pushed back on claims that AI labs want to hand governance to AI, calling the suggestion absurd and drawing a line at recursive self-improvement without human supervision.",
+      "tags": [
+        "anthropic",
+        "ai-policy",
+        "agi"
+      ],
+      "title": "Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "id": "anthropic-s-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-a",
+      "added_at": "2026-11-26T14:41:20Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "Gadgets 360",
+      "summary": "Anthropic expanded the research preview of Claude Duet, its proactive AI work agent, to India, Indonesia, Brazil and Japan, with waitlist access for Pro, Max and Ultra subscribers and a standalone app on iOS and Android.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "agents"
+      ],
+      "title": "Claude Duet AI Assistant Now Available in India in Research Preview; Standalone App Now Listed on Marketplaces",
+      "url": "https://www.gadgets360.com/ai/news/claude-duet-ai-assistant-india-app-available-research-preview-12380234",
+      "id": "claude-duet-ai-assistant-now-available-in-india-in-research-preview-standalone-a",
+      "added_at": "2026-11-26T14:41:20Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "OfficeChai",
+      "summary": "Google DeepMind co-founder and chief AGI scientist Shane Legg raised his estimate for minimal AGI before 2028 to about 65%, up from the 50% forecast he has held since 2009.",
+      "tags": [
+        "deepmind",
+        "agi",
+        "forecast"
+      ],
+      "title": "Around 65% Likely We'll Get Minimal AGI Before 2028: Google DeepMind's Shane Legg",
+      "url": "https://officechai.com/ai/around-65-likely-well-get-minimal-agi-before-2028-google-deepminds-shane-legg/",
+      "id": "around-65-likely-we-ll-get-minimal-agi-before-2028-google-deepmind-s-shane-legg",
+      "added_at": "2026-11-26T14:41:20Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "Daily AI Brief",
+      "summary": "OpenAI is piloting Private Inference with a small group of enterprise customers, running queries on isolated hardware so even OpenAI cannot access the data, as part of its Private Intelligence privacy framework.",
+      "tags": [
+        "openai",
+        "privacy",
+        "enterprise"
+      ],
+      "title": "OpenAI tests Private Inference, a service that keeps business data out of its reach",
+      "url": "https://dailyaibrief.com/news/openai-tests-private-inference-business-customers-DUegjxxg",
+      "id": "openai-tests-private-inference-a-service-that-keeps-business-data-out-of-its-rea",
+      "added_at": "2026-11-26T14:41:20Z"
+    },
+    {
+      "title": "EA Sports FC is resurrecting a deceased commentator with AI",
+      "url": "https://www.theverge.com/games/1042044/ea-sports-fc-is-resurrecting-a-deceased-commentator-with-ai",
+      "source": "The Verge",
+      "summary": "EA Sports FC will bring back a deceased commentator using AI, recreating his voice for the game — the latest use of AI to revive a late broadcaster in sports media.",
+      "published_at": "2026-11-25T12:00:00Z",
+      "tags": [
+        "ea-sports",
+        "voice-cloning",
+        "gaming"
+      ],
+      "id": "ea-sports-fc-is-resurrecting-a-deceased-commentator-with-ai",
+      "added_at": "2026-11-26T14:41:20Z"
+    },
+    {
+      "published_at": "2026-11-23T17:14:00Z",
+      "source": "TechCrunch",
+      "summary": "Amazon agreed to acquire Decart's optimization stack, founding team and researchers for $7.5 billion, aiming to make its Trainium chips a credible alternative to Nvidia for AI workloads.",
+      "tags": [
+        "amazon",
+        "acquisition",
+        "ai-chips"
+      ],
+      "title": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "id": "amazon-snaps-up-decart-s-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-tr",
+      "added_at": "2026-11-26T14:41:20Z"
+    },
+    {
       "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
       "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/amp/",
       "source": "Meta",
