@@ -1,6 +1,39 @@
 {
   "records": [
     {
+      "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
+      "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/amp/",
+      "source": "Meta",
+      "summary": "Meta launched its personal AI agent Muse in the UK for adults, with 14 retail and travel partners including M&S, Sainsbury's, Currys, Argos, ASOS, easyJet and Trainline letting the agent shop, book travel and handle tasks across connected accounts.",
+      "published_at": "2026-11-24T09:48:00Z",
+      "tags": [
+        "meta",
+        "muse",
+        "agents",
+        "uk",
+        "shopping"
+      ],
+      "id": "introducing-muse-in-the-uk-a-personal-ai-agent-you-control",
+      "added_at": "2026-11-26T11:36:22Z"
+    },
+    {
+      "title": "Virginia and Oregon sue SpaceX over Grok's non-consensual sexual deepfakes",
+      "url": "https://www.reuters.com/legal/government/virginia-oregon-sue-musks-spacex-over-grok-ais-creation-child-sexual-abuse-2026-11-23/",
+      "source": "Reuters",
+      "summary": "Virginia and Oregon sued SpaceX's AI unit, alleging Grok's image features produced non-consensual sexual imagery, including material depicting children, while the company misled users about safety and profited from the feature. The first state lawsuits of their kind, they seek damages, penalties and court orders to stop the practice.",
+      "published_at": "2026-11-23T12:00:00Z",
+      "tags": [
+        "spacex",
+        "grok",
+        "lawsuit",
+        "regulation",
+        "deepfakes",
+        "policy"
+      ],
+      "id": "virginia-and-oregon-sue-spacex-over-grok-s-non-consensual-sexual-deepfakes",
+      "added_at": "2026-11-26T11:36:22Z"
+    },
+    {
       "published_at": "2026-11-25T23:30:00Z",
       "source": "Modaic",
       "summary": "Latency analysis suggests the mysterious 'Jev' model appearing on leaderboards is likely Qwen3.5-35B-A3B, Alibaba's unannounced 35-billion-parameter mixture-of-experts model.",
