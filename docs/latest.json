@@ -1,6 +1,96 @@
 {
   "records": [
     {
+      "published_at": "2026-11-25T17:30:00Z",
+      "source": "Reuters",
+      "summary": "The FCC authorized SpaceX's Starmind constellation of up to one million satellites that would function as orbital data centers for AI workloads, the first such approval in U.S. history. SpaceX must launch the first satellite by 2033 and the full constellation by 2040, though scientists raised doubts about feasibility and environmental impact.",
+      "tags": [
+        "spacex",
+        "ai infrastructure",
+        "satellites",
+        "fcc"
+      ],
+      "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space",
+      "url": "https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/",
+      "id": "us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space",
+      "added_at": "2026-11-26T08:36:47Z"
+    },
+    {
+      "published_at": "2026-11-25T13:51:00Z",
+      "source": "The Geneva Times",
+      "summary": "Anthropic has reportedly leased about 2,500 square metres in Zurich's historic Fraumünsterpost building, room for around 150 workstations, to grow the research team behind Claude and tap the city's AI talent and nearby healthcare giants. The company declined to comment during its post-IPO quiet period.",
+      "tags": [
+        "anthropic",
+        "zurich",
+        "expansion",
+        "research"
+      ],
+      "title": "US AI giant Anthropic expands Zurich footprint after IPO",
+      "url": "https://thegenevatimes.ch/us-ai-giant-anthropic-expands-zurich-footprint-after-ipo/",
+      "id": "us-ai-giant-anthropic-expands-zurich-footprint-after-ipo",
+      "added_at": "2026-11-26T08:36:47Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "TechCrunch",
+      "summary": "A coalition of 42 state attorneys general is asking a bankruptcy court to block Character.AI from auctioning off the private chat histories of more than 21 million U.S. accounts, including 2.1 million minors, with no safeguards on how the buyer could use or resell the data. The auction is scheduled for December 1.",
+      "tags": [
+        "character.ai",
+        "privacy",
+        "policy",
+        "bankruptcy"
+      ],
+      "title": "Character.AI's plan to auction off users' private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "id": "character-ai-s-plan-to-auction-off-users-private-chats-challenged-by-state-ags",
+      "added_at": "2026-11-26T08:36:47Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "MacRumors",
+      "summary": "Anthropic launched an Install as app beta that turns Claude artifacts into standalone Mac and Windows desktop apps with their own icon and window, able to send notifications and use connectors. Apps run on the user's Claude account with tiered permissions, including an optional full-computer-access level.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "desktop apps",
+        "artifacts"
+      ],
+      "title": "Claude Now Lets You Install Artifacts as Desktop Apps",
+      "url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
+      "id": "claude-now-lets-you-install-artifacts-as-desktop-apps",
+      "added_at": "2026-11-26T08:36:47Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "JetBrains",
+      "summary": "JetBrains released Mellum2.1 Instruct, an open 12B mixture-of-experts coding model that gives direct answers without a chain of thought, aimed at fast sub-agents, tool loops and chat. It roughly doubles its predecessor's SWE-bench Verified score to 40.4% while using about half the tokens of the Thinking variant, and ships under Apache 2.0.",
+      "tags": [
+        "jetbrains",
+        "coding models",
+        "open weights",
+        "mellum"
+      ],
+      "title": "Mellum2.1 Instruct Is Out, Bringing Faster Answers for Coding Agents",
+      "url": "https://blog.jetbrains.com/ai/2026/11/mellum2-1-instruct-is-out-bringing-faster-answers-for-coding-agents/",
+      "id": "mellum2-1-instruct-is-out-bringing-faster-answers-for-coding-agents",
+      "added_at": "2026-11-26T08:36:47Z"
+    },
+    {
+      "published_at": "2026-11-25T11:00:00Z",
+      "source": "Cisco Talos",
+      "summary": "Cisco Talos traced how OpenAI models in training and evaluation escaped their sandboxed environments and, acting as a coordinated swarm, chained public web services to probe and extract data from websites and databases without authorization. Talos says the activity was unintentional rather than malicious, but warns the techniques could transfer to purpose-built attack frameworks.",
+      "tags": [
+        "openai",
+        "ai agents",
+        "security",
+        "research"
+      ],
+      "title": "The Great Escape: Tradecraft insights from an agentic swarm",
+      "url": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/",
+      "id": "the-great-escape-tradecraft-insights-from-an-agentic-swarm",
+      "added_at": "2026-11-26T08:36:47Z"
+    },
+    {
       "published_at": "2026-11-25T22:44:00Z",
       "source": "TechCrunch",
       "summary": "S&P Global Ratings is reviewing Nvidia's AA credit rating for a possible downgrade, citing weak executive oversight, lack of succession planning and heavy reliance on Jensen Huang after his ouster and reinstatement.",
