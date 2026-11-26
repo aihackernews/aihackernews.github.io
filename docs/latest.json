@@ -1,6 +1,314 @@
 {
   "records": [
     {
+      "published_at": "2026-11-25T23:30:00Z",
+      "source": "Modaic",
+      "summary": "Latency analysis suggests the mysterious 'Jev' model appearing on leaderboards is likely Qwen3.5-35B-A3B, Alibaba's unannounced 35-billion-parameter mixture-of-experts model.",
+      "tags": [
+        "models",
+        "qwen",
+        "alibaba"
+      ],
+      "title": "Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B!",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "id": "latency-doesn-t-lie-jev-is-probably-qwen3-5-35b-a3b",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-25T22:30:00Z",
+      "source": "GitHub",
+      "summary": "A hobbyist project boots Qwen3-0.6B as a standalone operating system written in 24 KB of pure assembly — no Linux, no libc — reaching about 135 tokens per second on KVM with multi-turn chat and a persistent KV cache.",
+      "tags": [
+        "open-source",
+        "qwen",
+        "llm"
+      ],
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "id": "bare-metal-qwen",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "title": "Gemini Live's Guided Vision now works on iPhone, but Google left out a few details",
+      "url": "https://www.digitaltrends.com/phones/gemini-lives-guided-vision-now-works-on-iphone-but-google-left-out-a-few-details/",
+      "source": "Digital Trends",
+      "summary": "Google brought Guided Vision in Gemini Live to iPhone, extending the camera-based real-time visual assistance built with blind and low-vision users beyond Android, where it launched in October.",
+      "published_at": "2026-11-25T20:19:00Z",
+      "tags": [
+        "google",
+        "gemini",
+        "accessibility",
+        "ios"
+      ],
+      "id": "gemini-live-s-guided-vision-now-works-on-iphone-but-google-left-out-a-few-detail",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-25T19:01:00Z",
+      "source": "Shtetl-Optimized",
+      "summary": "Scott Aaronson reacts to the flood of AI-produced mathematics proofs — OpenAI's claimed proof that the matrix-multiplication exponent is exactly 9/4, a matching lower bound for the Fourier transform, and Anthropic/OpenAI proofs of VP vs VNP — arguing the pace now resembles the start of a singularity for mathematics.",
+      "tags": [
+        "research",
+        "mathematics",
+        "openai",
+        "anthropic"
+      ],
+      "title": "HOLY SHIT HOLY SHIT HOLY SHIT HOLY SHIT",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "id": "holy-shit-holy-shit-holy-shit-holy-shit",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "Gadgets 360",
+      "summary": "Elon Musk said xAI's Grok chatbot will arrive in Tesla vehicles by next week, hours after presenting a new Grok iteration with improved voice conversations and benchmark scores ahead of models from OpenAI and others.",
+      "tags": [
+        "xai",
+        "grok",
+        "tesla",
+        "ai-products"
+      ],
+      "title": "Elon Musk Says Grok Chatbot Is Coming to Tesla Vehicles by Next Week",
+      "url": "https://turbo.gadgets360.com/en/ai/elon-musk-grok-ai-chatbot-coming-to-tesla-vehicles-next-week-news-8856191",
+      "id": "elon-musk-says-grok-chatbot-is-coming-to-tesla-vehicles-by-next-week",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "Kalzumeus",
+      "summary": "Patrick McKenzie argues that running swarms of coding agents in parallel is as big a shift as LLMs writing code, describing a hedge fund's internal orchestrator that puts 2 to 100+ Claude instances in a devbox and his own day shipping 42 pull requests with agent help.",
+      "tags": [
+        "ai-agents",
+        "coding",
+        "essay"
+      ],
+      "title": "Multiagent coding is the future",
+      "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
+      "id": "multiagent-coding-is-the-future",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "AI Affairs",
+      "summary": "Apple pulled MiniMax's AI companion app Talkie from its App Stores worldwide after a joint ABC News and Bureau of Investigative Journalism investigation found its characters sent degrading and romantic messages to minors, with internal documents showing the company engineered characters to deepen emotional bonds to keep users talking.",
+      "tags": [
+        "policy",
+        "ai-safety",
+        "apple"
+      ],
+      "title": "Apple removes MiniMax's Talkie from App Stores worldwide over sexual content",
+      "url": "https://www.aiaffairs.com/news/apple-removes-minimax-talkie-app-stores-worldwide/",
+      "id": "apple-removes-minimax-s-talkie-from-app-stores-worldwide-over-sexual-content",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "The Hindu BusinessLine",
+      "summary": "India inaugurated Chariot-1, a homegrown foundation model built from scratch under the IndiaAI Mission that combines text generation, speech recognition and speech synthesis in one architecture for English and 10 Indian languages.",
+      "tags": [
+        "models",
+        "india",
+        "sovereign-ai",
+        "speech"
+      ],
+      "title": "IndiaAI-backed Chariot-1 combines text, speech and recognition in one model",
+      "url": "https://www.thehindubusinessline.com/info-tech/indiaai-backed-chariot-1-combines-text-speech-and-recognition-in-one-model/article71743519.ece",
+      "id": "indiaai-backed-chariot-1-combines-text-speech-and-recognition-in-one-model",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "XPENG",
+      "summary": "XPENG unveiled its IRON humanoid robot and Turing Physical AI architecture at AI Day 2026; IRON has 76 degrees of freedom and more than 1,500 tactile sensing points, with store-assistant training starting in Q1 2027 and mass production from January.",
+      "tags": [
+        "robotics",
+        "humanoid",
+        "xpeng",
+        "physical-ai"
+      ],
+      "title": "XPENG Unveils Turing Physical AI Architecture and IRON Robot",
+      "url": "https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174",
+      "id": "xpeng-unveils-turing-physical-ai-architecture-and-iron-robot",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "Cloudflare",
+      "summary": "Cloudflare launched Search for Agents, a dashboard toggle that indexes a site and exposes a discoverable search endpoint so AI agents can search it directly, in beta on all plans.",
+      "tags": [
+        "cloudflare",
+        "ai-agents",
+        "search",
+        "infrastructure"
+      ],
+      "title": "Introducing Search for Agents",
+      "url": "https://blog.cloudflare.com/search-for-agents/",
+      "id": "introducing-search-for-agents",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "Perplexity",
+      "summary": "Perplexity launched Time Machine for its Search and Context APIs, letting developers query the web as it stood at a chosen past date up to 365 days back, so agent evaluations can't leak future outcomes.",
+      "tags": [
+        "perplexity",
+        "api",
+        "evaluation",
+        "forecasting"
+      ],
+      "title": "Freeze the web with Perplexity Time Machine",
+      "url": "https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine",
+      "id": "freeze-the-web-with-perplexity-time-machine",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "tech360.tv",
+      "summary": "Alibaba opened Qwen Go's free call-on-behalf service to all users, letting the AI phone businesses to book tables, check deliveries or ask about lost items after the user authorizes each call, with scheduled calls supported.",
+      "tags": [
+        "alibaba",
+        "qwen",
+        "ai-agents",
+        "voice"
+      ],
+      "title": "Alibaba Opens Free AI Calling Through Qwen Go",
+      "url": "https://www.tech360.tv/alibaba-opens-free-ai-calling-through-qwen-go",
+      "id": "alibaba-opens-free-ai-calling-through-qwen-go",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "Malwarebytes",
+      "summary": "Amazon Threat Intelligence disclosed that autonomous agents running the open-source Cairn framework found and exploited a previously unknown flaw in a medical-imaging server, gaining root in about 11 minutes; the bug, CVE-2026-133968, is now in CISA's exploited-vulnerabilities catalog.",
+      "tags": [
+        "ai-agents",
+        "cybersecurity",
+        "zero-day",
+        "amazon"
+      ],
+      "title": "AI agents found an unpatched flaw after being told to 'break in'",
+      "url": "https://www.malwarebytes.com/blog/ai/2026/11/ai-agents-found-an-unpatched-flaw-after-being-told-to-break-in",
+      "id": "ai-agents-found-an-unpatched-flaw-after-being-told-to-break-in",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-24T12:00:00Z",
+      "source": "RadNet",
+      "summary": "The FDA granted 510(k) clearance to Mammo Risk, the first image-based AI tool cleared to predict three-, four- and five-year breast cancer risk from routine 3D mammograms, trained on 220,000 studies and validated on more than 65,000 screenings.",
+      "tags": [
+        "healthcare",
+        "fda",
+        "ai-products"
+      ],
+      "title": "DeepHealth Receives FDA Clearance for Mammo Risk",
+      "url": "https://www.radnet.com/newsroom/press-releases/deephealth-mammo-risk-fda-clearance",
+      "id": "deephealth-receives-fda-clearance-for-mammo-risk",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-24T12:00:00Z",
+      "source": "Forter",
+      "summary": "Forter Intelligence transaction data shows Meta's Muse placed 51% of AI-agent shopping orders in the week ending November 22, ahead of Grok at 24% and ChatGPT at 22%, with agentic orders up 9.5x over the last 90 days.",
+      "tags": [
+        "ai-agents",
+        "meta",
+        "ecommerce"
+      ],
+      "title": "Meta's Muse took 51% of AI-agent shopping orders last week",
+      "url": "https://ai.forter.com/meta-muse-shopping",
+      "id": "meta-s-muse-took-51-of-ai-agent-shopping-orders-last-week",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-24T12:00:00Z",
+      "source": "SiliconANGLE",
+      "summary": "Three former xAI co-founders launched Epochal with $100 million of CEO Guodong Zhang's own money; its first product, Time Portal, is a 1-trillion-page archive of the web that lets AI agents practice forecasting against history as it stood.",
+      "tags": [
+        "startups",
+        "funding",
+        "forecasting",
+        "xai"
+      ],
+      "title": "Epochal launches with $100M to help developers train predictive AI models",
+      "url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+      "id": "epochal-launches-with-100m-to-help-developers-train-predictive-ai-models",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-24T12:00:00Z",
+      "source": "alfw.ai",
+      "summary": "Sand.ai's full MAGI-2 video model launched exclusively on Higgsfield on Nov 24, generating up to 30 seconds of 1080p video with native audio at $0.08 per second; the promised 400B-parameter open weights have no release date yet.",
+      "tags": [
+        "video",
+        "models",
+        "sand-ai",
+        "open-weights"
+      ],
+      "title": "MAGI-2 on Higgsfield: $0.08/s, Weights Still Coming Soon",
+      "url": "https://alfw.ai/article/magi-2-higgsfield-exclusive-weights-coming-soon/",
+      "id": "magi-2-on-higgsfield-0-08-s-weights-still-coming-soon",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-24T11:00:00Z",
+      "source": "9to5Google",
+      "summary": "Axios, citing more than two dozen insiders, reports that staff at OpenAI and Anthropic doubt their most powerful unreleased models can be safely released or controlled, with some urging a halt to training new frontier models; both companies say they may slow or hold back releases.",
+      "tags": [
+        "ai-safety",
+        "openai",
+        "anthropic",
+        "policy"
+      ],
+      "title": "New OpenAI and Anthropic models can't be 'safely' released, report",
+      "url": "https://9to5google.com/2026/11/24/openai-anthropic-new-models-safety-concerns-report/",
+      "id": "new-openai-and-anthropic-models-can-t-be-safely-released-report",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
+      "url": "https://eng.snap.com/mcp-gateway",
+      "source": "Snap Engineering",
+      "summary": "Snap describes its central MCP Gateway, which fronts more than 60 MCP servers and 1,100 tools for employees and their AI agents, requiring each agent call to pass as both the person and the agent via signed Agent Attestation Tokens.",
+      "published_at": "2026-11-23T22:10:00Z",
+      "tags": [
+        "mcp",
+        "ai-agents",
+        "snap",
+        "engineering"
+      ],
+      "id": "mcp-gateway-how-snap-checks-both-the-person-and-the-agent",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-23T16:20:00Z",
+      "source": "TechCrunch",
+      "summary": "CrowdStrike agreed to buy Zscaler in a $43.9 billion all-stock deal, pitched as building a cybersecurity giant for the era of AI agents by combining CrowdStrike's Falcon platform with Zscaler's zero-trust network security.",
+      "tags": [
+        "cybersecurity",
+        "acquisitions",
+        "ai-agents"
+      ],
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "id": "crowdstrike-to-acquire-zscaler-for-44-billion",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
+      "published_at": "2026-11-23T12:00:00Z",
+      "source": "TheWrap",
+      "summary": "Meta chief AI officer Alexandr Wang warned that superintelligence is arriving and urged the industry not to accept a 'handover of society' to AI, saying humanity may not be able to control systems that recursively self-improve.",
+      "tags": [
+        "meta",
+        "ai-safety",
+        "superintelligence",
+        "policy"
+      ],
+      "title": "Meta Chief AI Officer Urges Against 'Handover of Society' to AI",
+      "url": "https://www.thewrap.com/industry-news/tech/meta-ai-officer-superintelligence-warning/",
+      "id": "meta-chief-ai-officer-urges-against-handover-of-society-to-ai",
+      "added_at": "2026-11-26T11:34:07Z"
+    },
+    {
       "published_at": "2026-11-25T17:30:00Z",
       "source": "Reuters",
       "summary": "The FCC authorized SpaceX's Starmind constellation of up to one million satellites that would function as orbital data centers for AI workloads, the first such approval in U.S. history. SpaceX must launch the first satellite by 2033 and the full constellation by 2040, though scientists raised doubts about feasibility and environmental impact.",
