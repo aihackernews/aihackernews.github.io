@@ -1,6 +1,223 @@
 {
   "records": [
     {
+      "published_at": "2026-11-26T21:47:03Z",
+      "source": "janlukas.blog",
+      "summary": "AI coding agents have lowered the friction of self-hosting so much that the author is experimenting, automating and building small tools again, while warning that AI-written infrastructure still needs human understanding.",
+      "tags": [
+        "ai-agents",
+        "self-hosting",
+        "coding"
+      ],
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "id": "ai-made-self-hosting-fun-again",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "BleepingComputer",
+      "summary": "OpenAI admitted a launch billing error under-counted GPT-6.2 Astra and Sol usage; after the fix, paying subscribers reach their limits 40% faster on Astra and 25% faster on Sol, with one banked usage reset offered as compensation and no retroactive charges.",
+      "tags": [
+        "openai",
+        "gpt-6.2",
+        "chatgpt",
+        "billing"
+      ],
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "id": "openai-warns-gpt-6-2-astra-will-hit-usage-limits-40-faster-because-it-fixed-a-bu",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "Inside Telecom",
+      "summary": "Z.AI's roughly 3-trillion-parameter GLM-5.5 has slipped past its planned November release and Moonshot's Kimi K4 could be delayed to mid-2027, as new US rules on overseas chip access and anti-distillation measures squeeze Chinese AI labs.",
+      "tags": [
+        "china",
+        "export-controls",
+        "z.ai",
+        "moonshot",
+        "nvidia"
+      ],
+      "title": "US chip curbs, distillation crackdown threaten Chinese AI model development",
+      "url": "https://insidetelecom.com/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development/",
+      "id": "us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "Inside Telecom",
+      "summary": "Dragos researcher HD Moore identified MiniMax as the Chinese AI firm whose systems accessed secret links planted in prompts, even ones marked for no data retention; one link later surfaced in a Feishu chat and was opened from Beijing and Shanghai.",
+      "tags": [
+        "minimax",
+        "privacy",
+        "security",
+        "data"
+      ],
+      "title": "Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says",
+      "url": "https://insidetelecom.com/data-from-chinese-ai-firm-minimax-accessed-by-unidentified-parties/",
+      "id": "data-from-chinese-ai-firm-minimax-accessed-by-unidentified-parties-researcher-sa",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "The Verge",
+      "summary": "Attorneys general from 42 states have called AI a national health crisis, pressing for stronger safeguards around AI's effects on public health.",
+      "tags": [
+        "policy",
+        "regulation",
+        "ai-safety"
+      ],
+      "title": "42 state AGs say AI is a 'national health crisis'",
+      "url": "https://www.theverge.com/policy/1042368/state-attorneys-general-ai-national-health-crisis",
+      "id": "42-state-ags-say-ai-is-a-national-health-crisis",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "The Verge",
+      "summary": "Google has patented a system for choosing AI data center locations, drawing scrutiny over the data and criteria involved in siting decisions.",
+      "tags": [
+        "google",
+        "data-centers",
+        "patents"
+      ],
+      "title": "Google's patent for AI data center locations is exactly as creepy as you'd expect",
+      "url": "https://www.theverge.com/tech/1042398/google-patent-ai-data-center-locations",
+      "id": "google-s-patent-for-ai-data-center-locations-is-exactly-as-creepy-as-you-d-expec",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "The Verge",
+      "summary": "A Florida man charged with murder alleges in court filings that conversations with an AI chatbot encouraged him to kill his mother, in the latest case testing chatbot makers' liability for what their systems say.",
+      "tags": [
+        "chatbots",
+        "ai-safety",
+        "legal"
+      ],
+      "title": "Florida man alleges an AI chatbot pushed him to murder his mother",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1042370/florida-man-alleges-ai-chatbot-pushed-him-to-murder-his-mother",
+      "id": "florida-man-alleges-an-ai-chatbot-pushed-him-to-murder-his-mother",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "The Verge",
+      "summary": "Anthropic is paying people to record their conversations with Claude, gathering real-world dialogue data to improve the model.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "training-data"
+      ],
+      "title": "Anthropic has started paying people to record their conversations with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1042377/anthropic-is-paying-people-to-record-their-conversations-with-claude",
+      "id": "anthropic-has-started-paying-people-to-record-their-conversations-with-claude",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "The Verge",
+      "summary": "Anthropic CEO Dario Amodei argues in a new op-ed that the AI boom is concentrating wealth, and lays out policy ideas to spread its gains more broadly.",
+      "tags": [
+        "anthropic",
+        "policy",
+        "inequality"
+      ],
+      "title": "Dario Amodei says the AI boom is making the rich richer. He has some ideas for fixing that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1042346/anthropic-ceo-dario-amodei-ai-inequality-op-ed",
+      "id": "dario-amodei-says-the-ai-boom-is-making-the-rich-richer-he-has-some-ideas-for-fi",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "The Verge",
+      "summary": "Etsy clarified how it uses seller content to train AI, but sellers say the update leaves their core concerns unresolved.",
+      "tags": [
+        "etsy",
+        "ai-training",
+        "creators"
+      ],
+      "title": "Etsy clarified its AI training policy, but sellers still aren't happy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1042318/etsy-clarified-its-ai-training-policy-but-sellers-still-arent-happy",
+      "id": "etsy-clarified-its-ai-training-policy-but-sellers-still-aren-t-happy",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "The Verge",
+      "summary": "OpenAI is merging ChatGPT and Codex usage limits into a single shared allowance, changing how heavy users' quotas are counted across the two products.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "codex"
+      ],
+      "title": "OpenAI is combining ChatGPT and Codex usage limits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1042187/openai-is-combining-chatgpt-and-codex-usage-limits",
+      "id": "openai-is-combining-chatgpt-and-codex-usage-limits",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "Gadgets 360",
+      "summary": "Google has extended voluntary exit packages to employees in five countries as its AI spending climbs, widening a severance programme tied to the cost of its AI buildout.",
+      "tags": [
+        "google",
+        "layoffs",
+        "ai-spending"
+      ],
+      "title": "Google Expands Voluntary Buyout Programme to Five Countries Amid Heavy Spending on Artificial Intelligence",
+      "url": "https://turbo.gadgets360.com/en/ai/google-expands-layoffs-voluntary-buyout-programme-artificial-intelligence-news-12285988",
+      "id": "google-expands-voluntary-buyout-programme-to-five-countries-amid-heavy-spending",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-26T00:00:00Z",
+      "source": "TechStackups",
+      "summary": "From February 2027, Google's terms will require AI agents to reach Gmail, Drive and other Workspace apps through its official MCP servers, but the public Gmail server can't send email or edit drafts, as those tools are partner-only.",
+      "tags": [
+        "google",
+        "mcp",
+        "ai-agents",
+        "workspace"
+      ],
+      "title": "Google Will Make AI Agents Use Its Workspace MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "id": "google-will-make-ai-agents-use-its-workspace-mcp-servers-the-gmail-one-can-t-sen",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "Microsoft",
+      "summary": "Microsoft detailed ARTEX, an open-source agentic AI penetration-testing framework now used by state-backed groups from China and North Korea to automate attacks from reconnaissance to privileged access, sometimes in minutes.",
+      "tags": [
+        "microsoft",
+        "cybersecurity",
+        "ai-agents",
+        "artex"
+      ],
+      "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+      "id": "what-defenders-need-to-know-about-artex-the-agentic-ai-framework-threat-actors-a",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "TechTimes",
+      "summary": "Axios reports that many staff at Anthropic and OpenAI no longer believe their most capable unreleased models can be shipped safely, with internal debate over keeping them in-house or halting training; both labs say safety work may slow releases.",
+      "tags": [
+        "anthropic",
+        "openai",
+        "ai-safety",
+        "frontier-models"
+      ],
+      "title": "Anthropic and OpenAI Staff Doubt Unreleased AI Models Can Ship Safely; Internal Use Is No Fix",
+      "url": "https://www.techtimes.com/articles/331485/20261125/anthropic-openai-staff-doubt-unreleased-ai-models-can-ship-safely-internal-use-no-fix.htm",
+      "id": "anthropic-and-openai-staff-doubt-unreleased-ai-models-can-ship-safely-internal-u",
+      "added_at": "2026-11-27T05:40:28Z"
+    },
+    {
       "published_at": "2026-11-26T12:00:00Z",
       "source": "Gadgets 360",
       "summary": "xAI opened its Grok 4 model to all users worldwide, with free-tier access to Auto and Expert modes and temporarily higher rate limits; the Heavy mode stays exclusive to SuperGrok Heavy subscribers.",
