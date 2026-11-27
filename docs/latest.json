@@ -1,6 +1,197 @@
 {
   "records": [
     {
+      "published_at": "2026-11-27T16:05:23Z",
+      "source": "The Decoder",
+      "summary": "OpenAI is building a data management platform codenamed Athena, resembling a semantic layer, to make its enterprise AI agents more accurate with business data after at least one customer found its data agent not reliable enough for wide use, The Information reports.",
+      "tags": [
+        "openai",
+        "agents",
+        "enterprise"
+      ],
+      "title": "OpenAI is building 'Athena' data platform to cut down on AI agent guesswork",
+      "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "id": "openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
+      "published_at": "2026-11-27T12:00:00Z",
+      "source": "Reuters",
+      "summary": "OpenAI filed counterclaims against Apple in California federal court, accusing the iPhone maker of stealing its trade secrets and pressuring shared hardware suppliers, escalating the legal fight Apple started in July over its AI device efforts.",
+      "tags": [
+        "openai",
+        "apple",
+        "lawsuit",
+        "ai-hardware"
+      ],
+      "title": "OpenAI countersues Apple, accusing it of stealing trade secrets and threatening suppliers",
+      "url": "https://www.reuters.com/technology/openai-countersues-apple-stealing-trade-secrets-ft-reports-2026-11-27/",
+      "id": "openai-countersues-apple-accusing-it-of-stealing-trade-secrets-and-threatening-s",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
+      "published_at": "2026-11-27T12:00:00Z",
+      "source": "The Hacker News",
+      "summary": "Switzerland's cybersecurity agency confirmed five recent cyberattacks that used AI agents, with four succeeding in compromising victim systems; three targeted critical infrastructure operators, including electricity, water and telecom providers.",
+      "tags": [
+        "ai-security",
+        "cyberattacks",
+        "agents",
+        "switzerland"
+      ],
+      "title": "Switzerland confirms AI-assisted cyberattacks breached critical infrastructure operators",
+      "url": "http://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "id": "switzerland-confirms-ai-assisted-cyberattacks-breached-critical-infrastructure-o",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
+      "published_at": "2026-11-27T12:00:00Z",
+      "source": "The Decoder",
+      "summary": "New studies from Meta and Yann LeCun's AMI Labs show progress for JEPA world models in robot planning, training efficiency and error correction, backing LeCun's argument that machines need internal world models rather than language models alone.",
+      "tags": [
+        "jepa",
+        "world-models",
+        "meta",
+        "ami-labs",
+        "research"
+      ],
+      "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+      "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+      "id": "three-studies-from-meta-and-ami-labs-back-yann-lecun-s-bet-on-jepa-world-models",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
+      "published_at": "2026-11-27T12:00:00Z",
+      "source": "Hugging Face",
+      "summary": "Hugging Face engineers got Lightricks' LTX-2.5 video model running on AWS Trainium3 chips with tensor and sequence parallelism, generating a 10-second clip with sound in about 22 seconds, roughly matching LTX's paid API.",
+      "tags": [
+        "hugging-face",
+        "video",
+        "aws",
+        "trainium",
+        "ltx"
+      ],
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "id": "taking-trainium3-to-the-track-generating-videos-with-ltx-2-5",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
+      "title": "Nvidia's most powerful chips are coming to a PC near you",
+      "url": "https://www.theverge.com/tech/1042567/nvidias-most-powerful-chips-are-coming-to-a-pc-near-you",
+      "source": "The Verge",
+      "summary": "Nvidia is bringing its most powerful chips to consumer PCs, extending its high-end AI hardware beyond data centers and workstations.",
+      "published_at": "2026-11-27T12:00:00Z",
+      "tags": [
+        "nvidia",
+        "hardware",
+        "pc"
+      ],
+      "id": "nvidia-s-most-powerful-chips-are-coming-to-a-pc-near-you",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "The Decoder",
+      "summary": "SAP is preparing to eliminate at least 10,000 positions, about 9% of its global workforce, as part of a sweeping restructuring to remake the software giant for the AI era, Bloomberg reports; the final number is not yet set.",
+      "tags": [
+        "sap",
+        "layoffs",
+        "ai-business"
+      ],
+      "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+      "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+      "id": "sap-plans-to-cut-at-least-10-000-jobs-as-it-pivots-to-ai",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
+      "title": "42 state AGs are suing over AI chatbots that can send sexts and nudes",
+      "url": "https://www.theverge.com/policy/1042421/42-state-ags-sue-over-ai-chatbots",
+      "source": "The Verge",
+      "summary": "Forty-two state attorneys general are suing over AI chatbots that can send sexual messages and images, the latest state enforcement action targeting chatbot safety.",
+      "published_at": "2026-11-26T12:00:00Z",
+      "tags": [
+        "ai-chatbots",
+        "regulation",
+        "lawsuit"
+      ],
+      "id": "42-state-ags-are-suing-over-ai-chatbots-that-can-send-sexts-and-nudes",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
+      "title": "Anthropic has started paying people to break its AI",
+      "url": "https://www.theverge.com/ai/1042315/anthropic-ai-bug-bounty-vulnerabilities-jailbreaks",
+      "source": "The Verge",
+      "summary": "Anthropic has launched a bug bounty program that pays people to find vulnerabilities and jailbreaks in its AI models, widening its safety testing beyond internal red teams.",
+      "published_at": "2026-11-26T12:00:00Z",
+      "tags": [
+        "anthropic",
+        "safety",
+        "bug-bounty"
+      ],
+      "id": "anthropic-has-started-paying-people-to-break-its-ai",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
+      "title": "Now Nvidia's stopped sending chips to companies linked to a Brazil billionaire",
+      "url": "https://www.theverge.com/tech/1042380/nvidia-stopped-sending-chips-to-companies-linked-to-brazil-billionaire",
+      "source": "The Verge",
+      "summary": "Nvidia has halted chip shipments to companies linked to a Brazilian billionaire, another enforcement step as US export controls on AI hardware tighten.",
+      "published_at": "2026-11-26T12:00:00Z",
+      "tags": [
+        "nvidia",
+        "export-controls",
+        "chips"
+      ],
+      "id": "now-nvidia-s-stopped-sending-chips-to-companies-linked-to-a-brazil-billionaire",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
+      "published_at": "2026-11-26T06:00:00Z",
+      "source": "DeepL",
+      "summary": "DeepL launched Aure v2, a speech-to-speech translation model with a new end-to-end architecture that it says cuts median translation delay by 50% versus its predecessor, launching in six languages for DeepL Voice customers.",
+      "tags": [
+        "deepl",
+        "translation",
+        "speech",
+        "model-release"
+      ],
+      "title": "DeepL launches Aure v2, its fastest voice AI translation model",
+      "url": "https://www.deepl.com/en/press-release/aure-v2",
+      "id": "deepl-launches-aure-v2-its-fastest-voice-ai-translation-model",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
+      "published_at": "2026-11-25T15:14:56Z",
+      "source": "arXiv",
+      "summary": "Yandex published the technical report for AliceAI-Foundation-80B-A3B-Base, an 80-billion-parameter mixture-of-experts model with about 3 billion active parameters per token, trained from scratch and released under the Apache 2.0 license.",
+      "tags": [
+        "yandex",
+        "open-weights",
+        "moe",
+        "research"
+      ],
+      "title": "Yandex posts technical report for AliceAI, an 80B MoE model released under Apache 2.0",
+      "url": "https://arxiv.org/abs/2611.34529v1",
+      "id": "yandex-posts-technical-report-for-aliceai-an-80b-moe-model-released-under-apache",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "Google Research",
+      "summary": "Google researchers introduced an evaluation framework that uses multi-agent simulations with hidden motives to test whether LLM assistants can reason about everyday social situations, finding models often adopt the user's biased framing instead of reasoning from the facts.",
+      "tags": [
+        "google",
+        "research",
+        "evaluation",
+        "llm"
+      ],
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "id": "verifiable-social-reasoning-for-llm-assistants",
+      "added_at": "2026-11-27T23:40:09Z"
+    },
+    {
       "published_at": "2026-11-26T21:47:03Z",
       "source": "janlukas.blog",
       "summary": "AI coding agents have lowered the friction of self-hosting so much that the author is experimenting, automating and building small tools again, while warning that AI-written infrastructure still needs human understanding.",
