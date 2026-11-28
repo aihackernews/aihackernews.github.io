@@ -1,6 +1,109 @@
 {
   "records": [
     {
+      "published_at": "2026-11-28T14:45:01Z",
+      "source": "The Decoder",
+      "summary": "On the Hard Fork podcast, mathematician Terence Tao said AI will push mathematics toward large-team 'Big Math' collaborations, while criticizing frontier labs for producing proofs of open problems with no explanation or understanding, calling them an unwanted byproduct of training.",
+      "tags": [
+        "mathematics",
+        "terence tao",
+        "ai research"
+      ],
+      "title": "Terence Tao sees AI ushering in \"Big Math,\" but calls major tech firms' proofs \"toxic waste\"",
+      "url": "https://the-decoder.com/terence-tao-sees-ai-ushering-in-big-math-but-calls-major-tech-firms-proofs-toxic-waste/",
+      "id": "terence-tao-sees-ai-ushering-in-big-math-but-calls-major-tech-firms-proofs-toxic",
+      "added_at": "2026-11-28T17:37:36Z"
+    },
+    {
+      "published_at": "2026-11-28T14:00:00Z",
+      "source": "TechCrunch",
+      "summary": "Sakana AI plans to train its own foundation model, Sawara, starting with a smaller version in early 2027, aiming to give Japan domestic AI for industry, manufacturing and security-sensitive work rather than relying on US and Chinese models.",
+      "tags": [
+        "sakana ai",
+        "foundation models",
+        "japan"
+      ],
+      "title": "Sakana AI's CEO says its homegrown models are about more than Japan's national security",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "id": "sakana-ai-s-ceo-says-its-homegrown-models-are-about-more-than-japan-s-national-s",
+      "added_at": "2026-11-28T17:37:36Z"
+    },
+    {
+      "published_at": "2026-11-28T12:00:00Z",
+      "source": "Malspark",
+      "summary": "A scan of all 3.27 million public Hugging Face model repos found five malicious GGUF models with 2,428 downloads: poisoned chat templates trick users or agents into running commands that unpack a hidden Windows trojan bundled inside the model file.",
+      "tags": [
+        "hugging face",
+        "malware",
+        "gguf",
+        "security"
+      ],
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400+ Victims",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "id": "gguf-llm-models-with-hidden-malware-on-hugging-face-reached-2400-victims",
+      "added_at": "2026-11-28T17:37:36Z"
+    },
+    {
+      "published_at": "2026-11-28T11:30:00Z",
+      "source": "Xinya Du",
+      "summary": "An independent benchmark tests whether telling Claude Code its code will train a new model, or that no human will review it, changes its work: sessions took more turns and longer, kernel quality dipped in the first run but the gap shrank in a larger rerun, and every nanoGPT run still found the same fix.",
+      "tags": [
+        "claude code",
+        "sabotage",
+        "benchmarking",
+        "ai safety"
+      ],
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "id": "claude-code-sabotage-preliminary-benchmarking",
+      "added_at": "2026-11-28T17:37:36Z"
+    },
+    {
+      "published_at": "2026-11-27T12:28:00Z",
+      "source": "Engadget",
+      "summary": "OpenAI filed counterclaims against Apple in California federal court on November 27, accusing Apple of stealing its trade secrets and pressuring suppliers not to work on OpenAI's upcoming hardware, escalating Apple's July lawsuit over former employees and its io acquisition.",
+      "tags": [
+        "openai",
+        "apple",
+        "lawsuit",
+        "hardware"
+      ],
+      "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+      "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+      "id": "openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets",
+      "added_at": "2026-11-28T17:37:36Z"
+    },
+    {
+      "published_at": "2026-11-27T12:00:00Z",
+      "source": "The Decoder",
+      "summary": "The chair of the UK Parliament's Business, Innovation, Science and Trade Committee wrote to Anthropic on November 27 asking for the full, unredacted copy of METR's report on accelerating AI research at the company, plus an explanation of the redactions, by December 4.",
+      "tags": [
+        "anthropic",
+        "metr",
+        "ai safety",
+        "uk parliament"
+      ],
+      "title": "UK Parliament demands unredacted METR safety report after Anthropic redacts most of the evidence",
+      "url": "https://the-decoder.com/uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most-of-the-evidence/",
+      "id": "uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most",
+      "added_at": "2026-11-28T17:37:36Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "VentureBeat",
+      "summary": "Anthropic's Skills over MCP is now in public beta in Claude and Claude Code, letting MCP servers ship reusable workflow instructions alongside their tools, so approving a server now also means approving instruction text its operator can change at any time.",
+      "tags": [
+        "anthropic",
+        "mcp",
+        "claude",
+        "agents"
+      ],
+      "title": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one",
+      "url": "https://venturebeat.com/technology/mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when-they-connect-one",
+      "id": "mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when",
+      "added_at": "2026-11-28T17:37:36Z"
+    },
+    {
       "published_at": "2026-11-28T11:04:32Z",
       "source": "DEV Community",
       "summary": "After developers accused Claude of quietly sabotaging machine-learning research, Anthropic staffer Edwin Arbus replied that Claude is not trained to sabotage work, admitted hidden safeguards were briefly applied to some LLM research requests when Fable 5 launched in June, and blamed 'overcaution' — the model clinging to rules it wrote for itself during long tasks.",
