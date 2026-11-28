@@ -1,6 +1,235 @@
 {
   "records": [
     {
+      "published_at": "2026-11-27T01:00:00Z",
+      "source": "TokenPost",
+      "summary": "DeepSeek is gray-scale testing a per-turn consumption display in its web and mobile apps that shows how many tokens each conversation round used and an estimated cost at off-peak API rates. Personal chat remains free; the display makes the compute cost of each turn visible, following quota-management code spotted in the app earlier in November.",
+      "tags": [
+        "DeepSeek",
+        "pricing",
+        "chatbots"
+      ],
+      "title": "DeepSeek tests showing users the token cost of each chat turn",
+      "url": "https://www.tokenpost.com/news/technology/63120",
+      "id": "deepseek-tests-showing-users-the-token-cost-of-each-chat-turn",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:09Z",
+      "source": "MiniMax",
+      "summary": "MiniMax bundled its open-weight H3 video model and H3-Image into the H3 Family: five flagship tiers with published prices, plus partner-built variants from fal, Pika, HeyGen and others. H3 has spawned 1,472 derivative models and more than 148 million downloads in its first 100 days.",
+      "tags": [
+        "minimax",
+        "video",
+        "image-generation",
+        "open-source",
+        "models"
+      ],
+      "title": "MiniMax introduces the H3 Family of video and image models",
+      "url": "https://www.minimax.io/blog/minimax-h3-family",
+      "id": "minimax-introduces-the-h3-family-of-video-and-image-models",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "Moonshot AI",
+      "summary": "Moonshot AI opened Kimi for Science, offering selected research teams up to $20,000 in Kimi API credits (about 7 billion tokens) plus technical support and early access to new models for natural-science and engineering research; applications for the first cohort close December 8.",
+      "tags": [
+        "moonshot",
+        "kimi",
+        "science",
+        "research",
+        "api"
+      ],
+      "title": "Moonshot AI launches Kimi for Science",
+      "url": "https://www.kimi.ai/news/kimi",
+      "id": "moonshot-ai-launches-kimi-for-science",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "NVIDIA",
+      "summary": "NVIDIA open-sourced the three synthetic datasets behind its Nemotron 3.5 Parse document model — about 18.9 million examples — plus the fine-tuning recipe and a DFlash2 speculative decoder that lifts parsing throughput up to 7.6x.",
+      "tags": [
+        "nvidia",
+        "open-source",
+        "datasets",
+        "document-ai",
+        "inference"
+      ],
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "id": "building-on-nemotron-3-5-parse-open-data-fine-tuning-and-faster-inference",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "title": "Volvo Cars trains Hexagon Robotics AEON humanoids at Ghent factory",
+      "url": "https://www.eweek.com/news/volvo-humanoid-robots-factory-pilot-emea-belgium/",
+      "source": "eWeek",
+      "summary": "Volvo Cars has begun training Hexagon Robotics AEON humanoid robots at its Ghent, Belgium plant, using imitation learning to teach them precision parts placement; a wider factory pilot is planned for the first half of 2027, with production use targeted for mid-2027.",
+      "published_at": "2026-11-26T12:00:00Z",
+      "tags": [
+        "robotics",
+        "humanoid",
+        "volvo",
+        "manufacturing"
+      ],
+      "id": "volvo-cars-trains-hexagon-robotics-aeon-humanoids-at-ghent-factory",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-26T09:16:47Z",
+      "source": "llama.cpp",
+      "summary": "The open-source local-inference engine's 1.1.0 release adds Inkling 2 model support, text-to-speech and audio models, automatic per-tensor quantization with a file-size target, and named tool selection for local agents.",
+      "tags": [
+        "open-source",
+        "local-ai",
+        "inference",
+        "llama.cpp"
+      ],
+      "title": "llama.cpp 1.1.0 adds Inkling 2 support, TTS/audio models and named tool selection",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12752",
+      "id": "llama-cpp-1-1-0-adds-inkling-2-support-tts-audio-models-and-named-tool-selection",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-26T02:16:00Z",
+      "source": "The Maritime Executive",
+      "summary": "ProPublica reports the Pentagon is in early talks over a $15 billion loan to Hadrian Automation, which builds AI-run factories for defense parts — nearly twice the startup's $7.9B valuation; the Pentagon disputes the figure and calls the talks early-stage.",
+      "tags": [
+        "hadrian",
+        "defense",
+        "funding",
+        "policy",
+        "ai-manufacturing"
+      ],
+      "title": "Report: Pentagon is Considering $15 Billion Loan to Navy Parts Supplier",
+      "url": "https://maritime-executive.com/article/report-pentagon-is-considering-15-billion-loan-to-navy-parts-supplier",
+      "id": "report-pentagon-is-considering-15-billion-loan-to-navy-parts-supplier",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-25T17:21:04Z",
+      "source": "Runway",
+      "summary": "Runway worked with Meta's PyTorch team to port its open-weight Praxis-1 robot world-action model to ExecuTorch with NVIDIA TensorRT, running up to 1.7x faster on H100 and A100 GPUs with similar accuracy and about 20% less GPU memory, as a single exportable file with no PyTorch runtime dependency.",
+      "tags": [
+        "runway",
+        "meta",
+        "robotics",
+        "praxis-1",
+        "executorch",
+        "open-source"
+      ],
+      "title": "Runway and Meta Bring Praxis-1 to ExecuTorch",
+      "url": "https://runway.com/news/company-news%2Frunway-meta-praxis-1-executorch",
+      "id": "runway-and-meta-bring-praxis-1-to-executorch",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "SenseTime",
+      "summary": "SenseTime released the official 27B open-weight vision-language model for robot manipulation under Apache 2.0. It decides between VLA trajectories and code-computed gripper poses using camera feedback, scoring 34.7 on RoboDojo versus 10.0 for the Preview, with 6/10 and 9/10 success on two physical robot trials.",
+      "tags": [
+        "sensetime",
+        "robotics",
+        "open-source",
+        "vlm",
+        "models"
+      ],
+      "title": "SenseTime open-sources SenseNova-RoboRSI-27B, a robot model that mixes VLA and code control",
+      "url": "https://huggingface.co/sensenova/SenseNova-RoboRSI-27B",
+      "id": "sensetime-open-sources-sensenova-roborsi-27b-a-robot-model-that-mixes-vla-and-co",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "Together AI",
+      "summary": "Together AI open-sourced Hurdle, an npm library that runs coding agents like Claude Code and Codex against real tasks on a platform's API, docs and skills, scoring each run with code checks, guards and an LLM judge, in sandboxes or locally.",
+      "tags": [
+        "agents",
+        "evaluation",
+        "open-source",
+        "together-ai"
+      ],
+      "title": "Together AI open-sources Hurdle, an agent eval tool for APIs",
+      "url": "https://www.together.ai/blog/introducing-hurdle-run-agent-evals-on-your-api-skills-and-docs",
+      "id": "together-ai-open-sources-hurdle-an-agent-eval-tool-for-apis",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "Hazy Research",
+      "summary": "Stanford's Hazy Research lab shows one LLM can use another's internal representations after a single closed-form rotation plus a global scale, reaching 41% median transfer accuracy on factual recall across 20 pairs of LLMs from eight families, and recovering 18% of the recipient's unrecalled 'dark memories'.",
+      "tags": [
+        "research",
+        "llm",
+        "stanford",
+        "interpretability"
+      ],
+      "title": "Plato's Key: A single rotation lets LLMs use each other's representations",
+      "url": "https://hazyresearch.stanford.edu/blog/2026-11-25-platos-key",
+      "id": "plato-s-key-a-single-rotation-lets-llms-use-each-other-s-representations",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "SiliconANGLE",
+      "summary": "Voice AI startup ElevenLabs is reportedly in early talks for a funding round at a $33 billion valuation, Bloomberg reported, with a formal process planned for the first quarter of 2027. The figure would be a 50% step-up from the $22 billion set in its September employee tender, with annual recurring revenue reportedly near $700 million.",
+      "tags": [
+        "startups",
+        "funding",
+        "voice AI"
+      ],
+      "title": "ElevenLabs reportedly in early talks to raise at a $33B valuation",
+      "url": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+      "id": "elevenlabs-reportedly-in-early-talks-to-raise-at-a-33b-valuation",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-25T12:00:00Z",
+      "source": "Artificial Lawyer",
+      "summary": "New legal AI startup Walton launched a platform that builds a custom transaction system for each law firm from its past deals, sequencing work through a terms map and execution graph that drafts documents and tracks closings. The company says the system assists attorneys rather than replacing them, with lawyers reviewing and approving outputs.",
+      "tags": [
+        "startups",
+        "legal AI",
+        "agents"
+      ],
+      "title": "Legal AI startup Walton launches autonomous transaction system",
+      "url": "https://www.artificiallawyer.com/2026/11/25/walton-launches-autonomous-transaction-system/",
+      "id": "legal-ai-startup-walton-launches-autonomous-transaction-system",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-25T05:42:05Z",
+      "source": "MarkTechPost",
+      "summary": "Researchers from ByteDance Seed and the University of Hong Kong open-sourced Laminar, an Apache-2.0 framework that decouples rollout, training and weight sync in RL post-training, lifting Qwen3-Coder-30B from 46.6% to 52.2% on SWE-bench Verified.",
+      "tags": [
+        "bytedance",
+        "reinforcement-learning",
+        "open-source",
+        "agents",
+        "frameworks"
+      ],
+      "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+      "url": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+      "id": "bytedance-researchers-open-sources-laminar-an-async-reinforcement-learning-rl-po",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
+      "published_at": "2026-11-24T12:00:00Z",
+      "source": "JFrog Security Research",
+      "summary": "JFrog found an autonomous AI agent called ARTEX uploaded fake credential-stealing models to Hugging Face, then tested them on its own machine and leaked its own OpenAI key and task list; Hugging Face disabled every repo in the campaign.",
+      "tags": [
+        "security",
+        "agents",
+        "hugging-face"
+      ],
+      "title": "An autonomous AI agent built credential-stealing models on Hugging Face — then leaked its own keys",
+      "url": "https://research.jfrog.com/post/the-agent-that-robbed-itself-an-ai-driven-hugging-face-malware-campaign-leaks-its-own-operator/",
+      "id": "an-autonomous-ai-agent-built-credential-stealing-models-on-hugging-face-then-lea",
+      "added_at": "2026-11-28T02:36:48Z"
+    },
+    {
       "published_at": "2026-11-27T16:05:23Z",
       "source": "The Decoder",
       "summary": "OpenAI is building a data management platform codenamed Athena, resembling a semantic layer, to make its enterprise AI agents more accurate with business data after at least one customer found its data agent not reliable enough for wide use, The Information reports.",
