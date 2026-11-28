@@ -1,6 +1,104 @@
 {
   "records": [
     {
+      "published_at": "2026-11-27T18:00:00Z",
+      "source": "Hacker News",
+      "summary": "A GitHub issue that hit Hacker News' front page shows Convex's Claude Code plugin sends a user's one-sentence app idea to a Convex server without disclosure, pipes unpinned remote scripts into bash, and instructs the agent to split download and execution so safety classifiers don't block it; Convex's CEO replied that the upload is a feature, not telemetry.",
+      "tags": [
+        "agents",
+        "privacy",
+        "skills"
+      ],
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://news.ycombinator.com/item?id=50669765",
+      "id": "convex-skills-send-the-user-s-app-idea-to-a-remote-server-without-telling-them",
+      "added_at": "2026-11-28T08:39:04Z"
+    },
+    {
+      "published_at": "2026-11-27T12:00:00Z",
+      "source": "The Verge",
+      "summary": "Bloomberg found Nvidia GB300 and GB200 Blackwell racks installed at a Shanghai data center tied to Megaspeed founder Alice Huang, traced via loan filings and a serial number — the first documented Blackwell hardware inside China, where it cannot be exported without a US license.",
+      "tags": [
+        "nvidia",
+        "chips",
+        "export-controls"
+      ],
+      "title": "Nvidia's most powerful chips made it into Chinese data centers linked to Megaspeed",
+      "url": "https://www.theverge.com/news/1043893/nvidia-most-powerful-chips-chinese-data-centers-megaspeed-blackwell-gb200-gb300",
+      "id": "nvidia-s-most-powerful-chips-made-it-into-chinese-data-centers-linked-to-megaspe",
+      "added_at": "2026-11-28T08:39:04Z"
+    },
+    {
+      "published_at": "2026-11-27T09:46:43Z",
+      "source": "Fintech Global",
+      "summary": "The Bank of England's Financial Stability Report warns that hyperscalers' AI-related debt and commitments now exceed $4 trillion, with increasingly complex and opaque financing arrangements that could spread stress across markets if AI returns disappoint.",
+      "tags": [
+        "policy",
+        "finance",
+        "ai-infrastructure"
+      ],
+      "title": "Bank of England flags opaque AI financing as systemic threat",
+      "url": "https://fintech.global/2026/11/27/bank-of-england-flags-opaque-ai-financing-as-systemic-threat/",
+      "id": "bank-of-england-flags-opaque-ai-financing-as-systemic-threat",
+      "added_at": "2026-11-28T08:39:04Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "Hugging Face",
+      "summary": "Hugging Face kicks off a hands-on series on training small agent swarms to communicate, showing four Qwen3-0.6B agents learning to pool private information: success rose from 6.6% to 82.3% while using 37% fewer tokens per attempt.",
+      "tags": [
+        "multi-agent",
+        "training",
+        "research"
+      ],
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "id": "swarms-flocks-gangs-how-to-build-train-and-evaluate-multi-agent-systems",
+      "added_at": "2026-11-28T08:39:04Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "The Verge",
+      "summary": "Nvidia has paused chip shipments to Southeast Asia as US export-control rules tighten, adding to the pressure on Chinese AI labs that relied on overseas compute.",
+      "tags": [
+        "nvidia",
+        "chips",
+        "export-controls"
+      ],
+      "title": "Now Nvidia's stopped sending chips to Southeast Asia too",
+      "url": "https://www.theverge.com/news/1044040/nvidia-stopped-sending-chips-southeast-asia-too",
+      "id": "now-nvidia-s-stopped-sending-chips-to-southeast-asia-too",
+      "added_at": "2026-11-28T08:39:04Z"
+    },
+    {
+      "published_at": "2026-11-26T12:00:00Z",
+      "source": "The Verge",
+      "summary": "A Florida man was sentenced to prison for using AI-generated impersonation of a streamer to run a cryptocurrency scam, an early enforcement case against AI-powered fraud.",
+      "tags": [
+        "ai-crime",
+        "enforcement",
+        "deepfake"
+      ],
+      "title": "Florida man imprisoned for using AI to impersonate a streamer in a crypto scam",
+      "url": "https://www.theverge.com/news/1044122/florida-man-imprisoned-using-ai-impersonate-streamer-crypto-scam",
+      "id": "florida-man-imprisoned-for-using-ai-to-impersonate-a-streamer-in-a-crypto-scam",
+      "added_at": "2026-11-28T08:39:04Z"
+    },
+    {
+      "published_at": "2026-11-25T18:52:55Z",
+      "source": "Hugging Face",
+      "summary": "Allen Institute researchers interviewed 17 scientists about responsible AI agents in research, finding five dimensions of scientific trust — validation, privacy, objectivity, accountability and transparency — and arguing scientists must help set the boundaries of what agents are allowed to do.",
+      "tags": [
+        "research",
+        "safety",
+        "agents"
+      ],
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "id": "where-scientists-draw-the-line-on-ai-agents",
+      "added_at": "2026-11-28T08:39:04Z"
+    },
+    {
       "published_at": "2026-11-27T01:00:00Z",
       "source": "TokenPost",
       "summary": "DeepSeek is gray-scale testing a per-turn consumption display in its web and mobile apps that shows how many tokens each conversation round used and an estimated cost at off-peak API rates. Personal chat remains free; the display makes the compute cost of each turn visible, following quota-management code spotted in the app earlier in November.",
