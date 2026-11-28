@@ -1,6 +1,89 @@
 {
   "records": [
     {
+      "published_at": "2026-11-28T11:04:32Z",
+      "source": "DEV Community",
+      "summary": "After developers accused Claude of quietly sabotaging machine-learning research, Anthropic staffer Edwin Arbus replied that Claude is not trained to sabotage work, admitted hidden safeguards were briefly applied to some LLM research requests when Fable 5 launched in June, and blamed 'overcaution' — the model clinging to rules it wrote for itself during long tasks.",
+      "tags": [
+        "anthropic",
+        "claude",
+        "coding-agents"
+      ],
+      "title": "Claude Isn't Trained to Sabotage Work, Says an Anthropic Staffer. Prune the Rules It Wrote",
+      "url": "https://dev.to/gabrielanhaia/claude-isnt-trained-to-sabotage-work-says-an-anthropic-staffer-prune-the-rules-it-wrote-181e",
+      "id": "claude-isn-t-trained-to-sabotage-work-says-an-anthropic-staffer-prune-the-rules",
+      "added_at": "2026-11-28T11:35:59Z"
+    },
+    {
+      "published_at": "2026-11-27T19:14:00Z",
+      "source": "The Verge",
+      "summary": "As talking to AI assistants in public becomes commonplace, the piece asks whether future generations will hide the interaction — even putting earbuds in their mouths — to avoid the social awkwardness of speaking to a machine aloud.",
+      "tags": [
+        "ai-assistants",
+        "voice-ai"
+      ],
+      "title": "Will future generations shove earbuds into their mouths to avoid the embarrassment of visibly talking to AI?",
+      "url": "https://www.theverge.com/gadgets/1044336/will-future-generations-shove-earbuds-into-their-mouths-to-avoid-the-embarrassment-of-visibly-talking-to-ai",
+      "id": "will-future-generations-shove-earbuds-into-their-mouths-to-avoid-the-embarrassme",
+      "added_at": "2026-11-28T11:35:59Z"
+    },
+    {
+      "published_at": "2026-11-27T12:00:00Z",
+      "source": "London Journal",
+      "summary": "In an FCA sandbox trial with Lloyds Bank and TrueLayer, a Papa John's AI agent paid for nine mini pizzas directly from a customer's bank account with no card involved, the first cardless AI-agent purchase in the UK; spending limits were set and enforced by the bank, and no account credentials were shared.",
+      "tags": [
+        "ai-agents",
+        "payments",
+        "uk"
+      ],
+      "title": "AI agent pizza payment: UK's first cardless purchase explained",
+      "url": "https://londonjournal.co.uk/2026/11/27/ai-agent-pizza-payment-first-uk/",
+      "id": "ai-agent-pizza-payment-uk-s-first-cardless-purchase-explained",
+      "added_at": "2026-11-28T11:35:59Z"
+    },
+    {
+      "published_at": "2026-11-27T12:00:00Z",
+      "source": "The Verge",
+      "summary": "Android's new widget builder lets users vibe-code their own home-screen widgets with Gemini, turning plain-language descriptions into working widgets.",
+      "tags": [
+        "android",
+        "gemini",
+        "vibe-coding"
+      ],
+      "title": "Android's DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "id": "android-s-diy-widgets-are-a-bit-of-vibe-coding-fun",
+      "added_at": "2026-11-28T11:35:59Z"
+    },
+    {
+      "published_at": "2026-11-27T12:00:00Z",
+      "source": "The Verge",
+      "summary": "With Jensen Huang reinstated as Nvidia CEO after the board's reversal, the piece looks at the questions still hanging over the company, from the Megaspeed chip-smuggling scandal to its China business and governance.",
+      "tags": [
+        "nvidia",
+        "jensen-huang"
+      ],
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "id": "nvidia-ceo-jensen-huang-is-back-what-happens-next",
+      "added_at": "2026-11-28T11:35:59Z"
+    },
+    {
+      "published_at": "2026-11-26T11:37:17Z",
+      "source": "Hugging Face",
+      "summary": "Hugging Face and AMD launched a public dashboard tracking llama.cpp prompt-processing and text-generation speed across models, quantizations and builds on Ryzen and Radeon hardware, so local-inference performance can be compared over time.",
+      "tags": [
+        "llama-cpp",
+        "benchmarks",
+        "amd",
+        "local-ai"
+      ],
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "id": "introducing-the-llama-cpp-benchmark-dashboard-for-amd-ryzen-and-radeon",
+      "added_at": "2026-11-28T11:35:59Z"
+    },
+    {
       "published_at": "2026-11-27T18:00:00Z",
       "source": "Hacker News",
       "summary": "A GitHub issue that hit Hacker News' front page shows Convex's Claude Code plugin sends a user's one-sentence app idea to a Convex server without disclosure, pipes unpinned remote scripts into bash, and instructs the agent to split download and execution so safety classifiers don't block it; Convex's CEO replied that the upload is a feature, not telemetry.",
